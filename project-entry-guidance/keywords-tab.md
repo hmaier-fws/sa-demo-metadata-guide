@@ -5,10 +5,12 @@ Adding keywords to your metadata record allows for the record to be found later 
 | Quick Reference: Project Keywords Tab | Required? |
 | :--- | :--- |
 | ISO Topic Category | Required |
-| LCC Project Category | Required |
-| LCC Deliverable Types | Required |
-| LCC End User Types | Required |
+| SA Priority Category | Required |
+| Science Topic Category | Required |
+| Conservation Action Open Standard | Required, if applicable |
+| Strategic Habitat Conservation Component | Required, if applicable |
 | GCMD Keywords | Best Practice |
+| Shared Priority Keywords | Best Practice |
 
 ## Add Keywords to your Project
 
@@ -16,7 +18,7 @@ Adding keywords to your metadata record allows for the record to be found later 
 2. Add keywords from the following pre-populated thesauruses.
 3. If none of the keywords in the following categories are sufficient for tagging your project, you can add other keywords with a custom thesaurus \(see below for more information\).
 
-## LCC Project Required Keywords
+## SA Project Required Keywords
 
 ### ISO Topic Category \(Required\)
 
@@ -47,54 +49,95 @@ ISO Topic List:
 Tip: Biota and environment are probably the best fit for most LCC projects.
 {% endhint %}
 
-### LCC Project Category \(Required\)
+### SA Priority Area \(Required\)
 
-LCC Project Category list:
+Choose all that apply.  The list of options includes the following:
 
-1. Conservation design
-2. Conservation planning
-3. Data Acquisition and Development
-4. Data Management and Integration
-5. Decision support
-6. Informing Conservation Delivery
-7. Monitoring
-8. Population and Habitat Evaluation/Projection
-9. Socio-economics/Ecosystem Services
-10. Traditional Ecological Knowledge
-11. Vulnerability Assessment
+1. Collaborative Partnerships
+2. Landscape Conservation
+3. At-risk Species
+4. Data Management
+5. Conservation Science Support
+6. Climate Change
+7. Social Science
+8. Workforce Culture
+9. Organization Operations and Standards
+10. Communications
 
-### LCC Deliverable Types \(Required\)
+### Science Topic \(Required\)
 
-LCC Deliverable Types list:
+Choose all that apply.  The list of options includes the following:
 
-1. Applications and Tools
-2. Conservation Plan/Design/Framework
-3. Datasets/Database
-4. Map
-5. Methodology/Protocol
-6. Pilot/Case Study
-7. Presentation
-8. Publication
-9. Report
-10. Training/Outreach/Workshop
-11. User Manual
+1. Climate Adaptation
+2. Climate Mitigation
+3. Climate Resiliency
+4. Carbon Sequestration
+5. Indigenous Knowledge
+6. Decision Support
+7. Biotechnology
+8. Species Status Assessment Support
+9. Genetics and eDNA
+10. Habitat Connectivity
+11. Wildlife Corridors
+12. Diversity and Inclusion
+13. Working Lands
+14. Pollinators
+15. Strategic Habitat Conservation
+16. Landscape Conservation Design
+17. Vulnerability Assessment
+18. Ecosystem Services
+19. Wildlife Health and Disease
+20. Environmental Justice
+21. Stakeholder Engagement
+22. Human Dimensions
+23. Policy
+24. Economics
 
-### LCC End User Types \(Required\)
+### Conservation Action Open Standard \(Required, if applicable\)
 
-LCC End User Types list:
+The Open Standards for the Practice of Conservation is a globally utilized nomenclature for conservation. Including these keywords helps to align the work of USFWS Science Applications with global conservation efforts and to utilize the shared resources of the Conservation Standards Network. The open standards keywords for conservation actions are as listed:
 
-1. Academics & scientific researchers
-2. Conservation NGOs
-3. Federal resource managers
-4. Hunters & anglers
-5. Interested public
-6. K-12 students & teachers
-7. Other
-8. Policy makers & regulators
-9. Private land owners
-10. Regional & county planners
-11. State agencies
-12. Tribes
+|   Land / Water Management  \(1.0\) |
+| :--- |
+|      Site/Area Stewardship \(1.1\) |
+|      Ecosystem & natural process \(re\)creation \(1.2\) |
+| Species Management  \(2.0\) |
+|      Species stewardship \(2.1\) |
+|      Species re-introduction & translocation \(2.2\) |
+|      Ex-situ conservation \(2.3\) |
+| Awareness Raising  \(3\) |
+|      Outreach & communications \(3.1\) |
+|      Protests & Civil Dosobedience \(3.2\) |
+| Law Enforcement and Protection \(4.0\) |
+|      Detection & Arrest \(4.1\) |
+|      Criminal Prosecution & Conviction \(4.2\) |
+|       Non-Criminal Legal Action \(4.3\) |
+| Livelihood, Economic, and Moral Incentives  \(5\) |
+|      Linked enterprises & alternative livelihoods \(5.1\) |
+|      Better products & management practices \(5.2\) |
+|      Market-base incentives \(5.3\) |
+|      Direct economic incentives \(5.4\) |
+|      Non-monetary values \(5.5\) |
+| Conservation Designation and Planning  \(6\) |
+|      Protected area designation or acquisition \(6.1\) |
+|      Easements & Resource rights \(6.2\) |
+|      Land/Water use zoning & designation \(6.3\) |
+|      Conservation planning \(6.4\) |
+|      Site Infrastructure \(6.5\) |
+| Legal & Policy Frameworks  \(7\) |
+|       Laws, regulations, & codes \(7.1\) |
+|       Policies & guidelines \(7.2\) |
+| Research and Monitoring  \(8\) |
+|      Basic research & Status monitoring \(8.1\) |
+|      Evaluation, effectiveness measures & learning \(8.2\) |
+| Education and Training  \(9\) |
+|      Formal education \(9.1\) |
+|      Training & individual capacity development \(9.2\) |
+| Institutional Development  \(10\) |
+|      Internal organizational management & administration \(10.1\) |
+|      External organizational development & support \(10.2\) |
+|      Alliance & partnership development \(10.3\) |
+|      Financing conservation \(10.4\) |
 
 ### GCMD Keywords \(Best Practice\)
 
@@ -106,33 +149,33 @@ Best Practice: Check the "Full Path" checkbox to save the full path of the keywo
 
 ## Custom Thesaurus
 
-If any of your desired keywords do not appear in the existing thesauruses, you can add them via the custom thesaurus. Use a custom thesaurus only for keywords that are not available in an existing thesaurus. For example, if a certain end user type is not available in the LCC End User Types thesaurus, you can add the type using the custom thesaurus.
+If any of your desired keywords do not appear in the existing thesauruses, you can add them via the custom thesaurus. Use a custom thesaurus only for keywords that are not available in an existing thesaurus.
 
-You cannot add keywords to an existing thesaurus; you can only add keywords in a custom thesaurus.
+You cannot add keywords to an existing thesaurus; you can only add keywords in a custom thesaurus.  If a region or program finds the need for the additional of keywords to an existing thesaurus or the need for another thesaurus, please contact the FWS SA National Data Steward.
 
 {% hint style="info" %}
 You cannot save a custom thesaurus in mdEditor.
 {% endhint %}
 
 {% hint style="info" %}
-Tip: If you have a consistent set of keywords that you use across your LCC's projects, you could add these to a "template project" record in mdEditor and then modify the specific keywords you need for each project. See the workflow section for more info about using template records.
+Tip: If you have a consistent set of keywords that you use across your projects, you could add these to a "template project" record in mdEditor and then modify the specific keywords you need for each project. See the workflow section for more info about using template records.
 {% endhint %}
 
-## Keywords and ScienceBase
+## Keywords and ScienceBase Tags
 
 ### Keywords vs. Tags
 
 mdEditor uses the term "keywords" while ScienceBase uses the term "tags."
 
 {% hint style="info" %}
-Keywords edited in mdEditor will not overwrite keywords stored in sbJSON on ScienceBase because ScienceBase only adds to the list of tags. If you do not want obsolete keywords/tags to show up on ScienceBase, you will need to manually delete in ScienceBase. mdJSON and the LCC Science Catalog, however, will reflect any changes made in mdEditor.
+Keywords edited in mdEditor will not overwrite keywords stored in sbJSON on ScienceBase because ScienceBase only adds to the list of tags. If you want to remove obsolete keywords/tags on ScienceBase, you will need to manually delete them in ScienceBase. mdJSON and the SA Science Catalog, however, will reflect the changes made in mdEditor.
 {% endhint %}
 
 ### Imported Keywords
 
-If you imported your project metadata from ScienceBase, then the ScienceBase keywords are each created in a custom thesaurus.
+If you imported your project metadata from ScienceBase, then the ScienceBase keywords are included in a custom thesaurus.
 
-If your LCC already has a controlled vocab list in ScienceBase, unfortunately it cannot connect to mdEditor. The selected keywords for any specific record will import into mdEditor but the saved list will not.
+If your LCC already has a controlled vocab list in ScienceBase, unfortunately it cannot connect to mdEditor. The selected keywords for any specific record will import into mdEditor, but the saved list will not be.
 
-![](../.gitbook/assets/keywords_window.png)
+![Example ISO Topic Category Keywords](../.gitbook/assets/keywords_window.png)
 
