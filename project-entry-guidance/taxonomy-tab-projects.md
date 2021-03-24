@@ -4,7 +4,7 @@ Taxonomy is required for projects and strongly recommended for products \(where 
 
 | Quick Reference: Project Taxonomy Tab | Required? |
 | :--- | :--- |
-| Taxonomy | Required if Applicable \(\*New Required Metadata Improvement\) |
+| Taxonomy                                                         | Required, if Applicable |
 
 ## Taxonomy
 

@@ -4,7 +4,7 @@
 
 | Quick Reference: Project Extent Tab | Required? |
 | :--- | :--- |
-| Extent | Required \(\*New Required Metadata Improvement\) |
+| Extent | Required |
 
 ## Creating Extents
 
@@ -22,7 +22,7 @@ Extents should be accurate enough for searching purposes, but remember that they
 
 Spatial features such as geoJSON, shapefiles, and kml can be imported. However, file attributes \(such as name and description\), will not be imported and must be added manually.
 
-For projects without a specific extent, you can use the LCC geography. Projects should have custom extents when it is relevant to the scope of the project. Remember, these extents will be used for search and discovery purposes. geoJSON files for all LCC geographies are available on [ScienceBase](https://www.sciencebase.gov/catalog/item/5bd7c96fe4b0b3fc5ce82d44) \(private DMWG folder that requires ScienceBase login\). Download the relevant files and then import into mdEditor.
+For projects without a specific extent, you can use the FWS regional geography. Projects should have custom extents when it is relevant to the scope of the project. Remember, these extents will be used for search and discovery purposes. geoJSON files for all FWS regional and state geographies are available on [ScienceBase](https://www.sciencebase.gov/catalog/item/5bd7c96fe4b0b3fc5ce82d44) \(private DMWG folder that requires ScienceBase login\). Download the relevant files and then import into mdEditor.
 
 {% hint style="info" %}
 Important: coordinates used must be geographic coordinates, not projected coordinates.
@@ -40,7 +40,7 @@ Tip: It is easier to click "finish" when drawing a polygon instead of trying to 
 mdEditor can automatically calculate a bounding box if you have at least one extent in the metadata.
 {% endhint %}
 
-![](../.gitbook/assets/extent_boundingbox-2.PNG)
+![Example Geographic Extent entry](../.gitbook/assets/extent_boundingbox-2.PNG)
 
 {% hint style="danger" %}
 Bounding boxes will not work across the dateline but you can have more than one extent per project. If your project area crosses the dateline, split the area into multiple extents and create separate bounding boxes.
