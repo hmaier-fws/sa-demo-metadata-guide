@@ -24,7 +24,7 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 Because mdJSON metadata is based on the ISO \(International Organization for Standardization\) metadata standard, all LCC projects must select at least one ISO Topic Category. ISO topics were generally meant for spatial data so they might be a bit of a stretch, bu do your best to find the best fit. mdEditor provides definitions of each ISO topic category if you hover over the ? icon.
 
-ISO Topic List:
+Choose all that apply.  The ISO Topic list is as follows:
 
 1. biota
 2. boundaries
