@@ -1,14 +1,12 @@
 # Workflow
 
-## Suggested Workflow for LCC Metadata and mdEditor
+## Suggested Workflow for SA Metadata and mdEditor
 
-The following is a suggested workflow for using mdEditor to create, publish, and save metadata records for LCC projects and products.
+The following is a suggested workflow for using mdEditor to create, publish, and save metadata records for SA projects and products.
 
 ### Step 1: Gather information needed for your metadata entries.
 
 Have information about your contacts, projects, and products on hand before you begin creating metadata records. Key information to gather includes project proposals, funding agreements and amounts, project reports, product information, and contact information for individuals and organizations involved in the projects.
-
-Use the "contacts seed file" that contains pre-filled information and standard naming conventions for all LCCs, common federal agencies, and the LCC Network Data Steward.
 
 ### Step 2: Open mdEditor.
 
@@ -20,11 +18,13 @@ Always hit _refresh_ in your browser before each work session \(and periodically
 
 ### Step 3: Set the correct default [Settings](../settings.md).
 
-In mdEditor settings, set the LCC-specific settings for Importing from ScienceBase, Metadata Repositories, and Publishing.
+In mdEditor settings, set the SA-specific settings for importing from ScienceBase, Metadata Repositories, and Publishing \(See Settings\).
 
 ### Step 4: Create or import [Contacts](../contacts/).
 
 Contacts must be created or uploaded before they can be added to project and product metadata records.
+
+Use the "contacts seed file" that contains pre-filled information and standard naming conventions for all SA regions, common federal agencies, and the SA Network Data Steward. \(link to contact seed file here\)
 
 ### Step 5: Create or import [Projects](../project-entry-guidance/).
 
@@ -58,7 +58,7 @@ Associations can be either [associated from a project](../project-entry-guidance
 
 You may want to export working backups before publishing depending on your situation, but archival exports should be done after publishing since publishing can alter records, like adding or changing a ScienceBase ID.
 
-### Step 12: Review the resulting entries in the [LCC Science Catalog](https://lccnetwork.org/catalog).
+### Step 12: Review the resulting entries in the [SA Science Catalog](https://www.fws.gov/science/catalog/).
 
 The Science Catalog updates overnight so you should review newly-published records the day after you publish to ScienceBase. This will be one of your best quality control checks.
 

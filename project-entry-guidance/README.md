@@ -1,24 +1,28 @@
 # Project Entry Guidance
 
-The Project Entry Guidance section will cover how to create a metadata record for an LCC project.
+The Project Entry Guidance section will cover how to create a metadata record for an SA project.
 
 ## Before You Begin
 
 ### **Adjust your mdEditor** [**Settings**](../settings.md)**:**
 
-**Metadata Repositories**: Make sure your default settings are correct for the LCC Science Catalog and data.gov. See [Settings](../settings.md).
+**Metadata Repositories**: Make sure your default settings are correct for the SA Science Catalog and data.gov. See [Settings](../settings.md).
 
-**Parent Identifier:** In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
+**Parent Identifier:** In the publishing settings, enter your regional's SA ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 
-### **Select the LCC Project Profile**:
+### **Select the Project Profile**:
 
-After creating your project record initially and before you begin adding metadata, select **lccProject** from the **Profile** drop-down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are applicable to LCC project metadata.
+After creating your project record initially and before you begin adding metadata, select **Project** from the **Profile** drop-down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are applicable to project metadata.
 
-![](../.gitbook/assets/profile_lccproject.PNG)
+![After selecting the Project profile, only the relevant tabs will be displayed.](../.gitbook/assets/image%20%282%29.png)
 
 ### **Make sure your contacts are loaded into mdEditor:**
 
 In mdEditor, contacts are created separately from individual records and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in any metadata records.
+
+To reduce unnecessary duplication of contacts, SA has a "seed list" of contacts that include government agencies and partners that are often affiliated with USFWS projects and products.
+
+Insert LINK HERE TO SEED LIST.
 
 {% hint style="danger" %}
 You should maintain a single list of your contacts. Having duplicate copies of the same contact is not desirable. It can create confusion as you edit and manage your metadata records and introduce unnecessary errors.
@@ -28,7 +32,7 @@ You should maintain a single list of your contacts. Having duplicate copies of t
 
 1. Import or create your project record \(see [workflow](../getting-started/)\).
 2. Pick "project" as the **Resource Type**
-3. Select the LCC Project Profile: from the Main Menu \(Top Navigation Bar\) select "**lccProject"** from the profile drop-down menu.
+3. Select the LCC Project Profile: from the Main Menu \(Top Navigation Bar\) select "**Project"** from the profile drop-down menu.
 4. Fill out metadata information for the following tabs:
    * [Main Tab](record-main-copy.md)
    * [Metadata Tab](metadata-tab.md)

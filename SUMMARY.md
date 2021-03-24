@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [SA Science Metadata Catalog](lcc-science-catalog.md)
-* [Background](background.md)
+* [Goals of SA Data Management](background.md)
 * [Projects, Products, Contacts](lcc-projects-products-contacts.md)
 * [Workflow](getting-started/README.md)
   * [From Scratch](getting-started/from-scratch.md)
@@ -10,7 +10,7 @@
   * [Editing / Re-Publishing](getting-started/editing-re-publishing.md)
   * [PTS Considerations](getting-started/pts.md)
 * [Settings](settings.md)
-* [File Management](data-management/README.md)
+* [mdEditor File Management](data-management/README.md)
   * [Import](data-management/import/README.md)
     * [mdJSON](data-management/import/mdjson.md)
     * [sbJSON](data-management/import/sbjson.md)

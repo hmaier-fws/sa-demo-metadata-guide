@@ -8,7 +8,7 @@ The **Copy** button is located in the mdEditor action menu on the right-hand sid
 
 * Start a new product, project, or contact record.
 * Populate multiple products faster \(e.g., multiple workshop reports, a poster based on a publication\).
-* Create a "template record" for a project that can be used as a starting place for each full metadata record. A template record can contain information commonly used across your projects or products \(such as LCC contacts\).
+* Create a "template record" for a project that can be used as a starting place for each full metadata record. A template record can contain information commonly used across your projects or products \(such as SA contacts\).
 
 **Use the Copy button carefully**:
 

@@ -6,7 +6,7 @@ Follow this workflow if you are creating mdJSON metadata for the very first time
 
 Have information about your contacts, projects, and products on hand before you begin creating metadata records. Key information to gather includes project proposals, funding agreements and amounts, project reports, product information, and contact information for individuals and organizations involved in the projects.
 
-Use the "contacts seed file" that contains pre-filled information and standard naming conventions for all LCCs, common federal agencies, and the LCC Network Data Steward.
+Use the "contacts seed file" that contains pre-filled information and standard naming conventions for all SA regions, common federal agencies, and the SA National Data Steward.
 
 ## Step 2: Open mdEditor.
 
@@ -16,7 +16,7 @@ mdEditor can also be accessed from its homepage at [https://www.mdeditor.org/](h
 
 ## Step 3: Set the correct default [Settings](../settings.md).
 
-In mdEditor settings, set the LCC-specific settings for Importing, Metadata Repositories, and Publishing.
+In mdEditor settings, set the SA-specific settings for Importing, Metadata Repositories, and Publishing.
 
 ## Step 4: Create [Contacts](../contacts/).
 
@@ -54,7 +54,7 @@ Associations can be either [associated from a project ](../project-entry-guidanc
 
 You may want to export working backups before publishing depending on your situation, but archival exports should be done after publishing since publishing can alter records, like adding or changing a ScienceBase ID.
 
-## Step 12: Review the resulting entries in the [LCC Science Catalog](https://lccnetwork.org/catalog).
+## Step 12: Review the resulting entries in the [SA Science Catalog](https://www.fws.gov/science/catalog/).
 
 The Science Catalog updates overnight so you should review newly-published records the day after you publish to ScienceBase. This will be one of your best quality control checks.
 
