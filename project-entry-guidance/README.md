@@ -32,7 +32,7 @@ You should maintain a single list of your contacts. Having duplicate copies of t
 
 1. Import or create your project record \(see [workflow](../getting-started/)\).
 2. Pick "project" as the **Resource Type**
-3. Select the LCC Project Profile: from the Main Menu \(Top Navigation Bar\) select "**Project"** from the profile drop-down menu.
+3. Select the Project Profile: from the Main Menu \(Top Navigation Bar\) select "**Project"** from the profile drop-down menu.
 4. Fill out metadata information for the following tabs:
    * [Main Tab](record-main-copy.md)
    * [Metadata Tab](metadata-tab.md)
@@ -53,9 +53,10 @@ You should maintain a single list of your contacts. Having duplicate copies of t
 * Resource Type
 * Point of Contact
 * Main Citation
+  * Title
   * Identifier
-  * Online Resource URI
   * Responsible Parties 
+  * Online Resource URI
 * Description
   * Abstract
 * Time Period
@@ -65,6 +66,7 @@ You should maintain a single list of your contacts. Having duplicate copies of t
 ### **Metadata Tab**
 
 * Metadata Status 
+* Last Update Date
 * Metadata Contacts
 * Metadata Identifier
 * Parent Metadata
@@ -77,9 +79,10 @@ You should maintain a single list of your contacts. Having duplicate copies of t
 ### **Keywords Tab**
 
 * ISO Topic Category
-* LCC Project Category 
-* LCC Deliverable Types
-* LCC End User Types
+* SA Prior Area Category 
+* SA Science Category
+* Conservation Action Open Standard
+* Anticipated Deliverables \(Best Practice\)
 * GCMD Keywords \(Best Practice\)
 
 ### Taxonomy Tab
@@ -93,14 +96,13 @@ You should maintain a single list of your contacts. Having duplicate copies of t
 ### **Funding Tab**
 
 * Allocation
+  * AwardID
   * Amount 
   * Currency 
   * Source 
   * Recipient
-  * Other Contacts 
+  * Other Contacts\Administrator
   * Matching Funds
-  * AwardID
 * Time Period
-  * Start Date
-  * End Date
+  * Fiscal Year
 
