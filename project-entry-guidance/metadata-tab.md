@@ -4,7 +4,7 @@ The Metadata tab describes your project's metadata, including a description that
 
 | Quick Reference: Project Metadata Tab | Required? |
 | :--- | :--- |
-| Basic Information: Metadata Status, Dates | Best Practice |
+| Basic Information: Metadata Status, Dates | Required |
 | Metadata Contacts | Required |
 | Metadata Identifier | Required |
 | Parent Metadata | Required |
@@ -12,13 +12,13 @@ The Metadata tab describes your project's metadata, including a description that
 
 ## Basic Information
 
-### Metadata Status \(Best Practice\)
+### Metadata Status \(Required\)
 
-Select the appropriate status of the creation of your metadata from the drop down menu. _For example, if you have added all of your metadata, select "completed." If you still have metadata to add, select "onGoing."_
+Select the appropriate status of the creation of your metadata from the drop down menu. For example, if you have added all of your metadata, select _"completed."_ If you still have metadata to add, select _"onGoing."_
 
-### Dates \(Best Practice\)
+### Dates \(Required\)
 
-Add at least one date. Recommended are "creation" \(when you first created your metadata\) and "lastUpdate" \(when you updated metadata after initial publication\).
+Add at least one date is required. Recommended are "creation" \(when you first created your metadata\) and "lastUpdate" \(when you updated metadata after initial publication\). 
 
 ## Metadata Contacts
 
@@ -27,16 +27,19 @@ Add at least one date. Recommended are "creation" \(when you first created your 
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
 | author | See notes below | At least one is required |
-| publisher | In most cases, this will be the LCC | Best Practice |
-| pointOfContact | LCC Network Data Steward | Required |
+| publisher | default is USFWS  | Required |
+| pointOfContact | SA Data Steward | Required |
 
-**Regarding Role of "author"**
+#### Metadata Contact Notes
 
-* The author does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\).
-* "Author" can be an individual or an organization.
-* You can enter your LCC data manager as the “author”. If you prefer, you can use a generic data manager contact rather than an individual name.
+* The author should be an individual and can be a generic data manager.
+* In most cases, the author will be the data manager, but could be anyone, including someone outside of FWS \(e.g., imported FGDC metadata can list the original author\).
+* Publisher can also include the FWS region and/or program.
+* The point of contact should be a regional or national data steward.
 
-## Metadata Identifier
+![Example Metadata Contacts entry](../.gitbook/assets/image%20%2813%29.png)
+
+## Metadata Identifier 
 
 The **Metadata Identifier** is automatically populated by mdEditor. The metadata identifier gives each of your projects and products a unique ID and differentiates them from other similar projects and products.
 
@@ -47,13 +50,15 @@ The **Metadata Identifier** is automatically populated by mdEditor. The metadata
 Once a Metadata Identifier is created in the metadata, do not change it. mdEditor uses the Metadata Identifier to connect records and changing the Metadata Identifier can break those connections. If there are additional identifiers you want to include in your metadata record, include them in [Main/Citation/Identifier](record-main-copy.md#identifier).
 {% endhint %}
 
+![mdEditor Metadata auto-generated identifier entry](../.gitbook/assets/image%20%288%29.png)
+
 ## Parent Metadata
 
-**Parent Metadata** defines the ScienceBase folder in which the project will be published. The parent metadata tells mdEditor where the project metadata should go when it is published to ScienceBase.
+**Parent Metadata** tells mdEditor where the project metadata should go when it is published.  If using ScienceBase, this is the folder above the project by default.  
 
 If you imported the project metadata from ScienceBase originally, this section will be populated already.
 
-If you created the project metadata from scratch in mdEditor, this will be blank. If you provide a default parent ID in [Settings](../settings.md#publishing-settings) \(Publishing Settings for ScienceBase\), this will be generated for you when when you publish. This is most likely your LCC's project folder. You can enter the parent item SBID directly in your individual metadata record if you wish.
+If you created the project metadata from scratch in mdEditor, this will be blank. If you provide a default parent ID in [Settings](../settings.md#publishing-settings) \(Publishing Settings for ScienceBase\), this will be generated for you when when you publish. This is most likely your SA regional project folder. You can enter the parent item SBID directly in your individual metadata record if you wish.
 
 ### Parent Metadata Required Fields:
 
@@ -61,7 +66,7 @@ If you created the project metadata from scratch in mdEditor, this will be blank
 
 If this is not already populated, you can enter something like "Parent folder."
 
-#### Identifier \(Required\)
+#### Identifier and namespace \(Required\)
 
 Defines the location of the parent folder in ScienceBase.
 
@@ -73,21 +78,23 @@ Defines the location of the parent folder in ScienceBase.
 The ScienceBase identifier is the alphanumeric string in the item's URL immediately following "**item/".** For example, **59b97600e4b091459a54d9f3c** is the SBID for the item at the URL: [https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c](https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c)
 {% endhint %}
 
+![Example ScienceBase Parent Metadata entry](../.gitbook/assets/image%20%2812%29.png)
+
 ## Metadata Repositories
 
 **Metadata Repositories** indicate where the metadata will be sent upon publishing.
 
-### LCC Science Catalog
+### SA Science Catalog \(Required\)
 
-For projects that should be listed in the LCC Science Catalog: Select _“LCCScienceCatalog”_ from the repository list. _“LCC Network Science Catalog”_ should automatically show up as the collection title. If the collection title does not appear, stop and enter the correct information in [Settings](../settings.md). Then select the repository for your project. Projects without the correct tag and collection title will not show up in the Science Catalog.
+For projects that should be listed in the SA Science Catalog: Select _“ScienceCatalog”_ from the repository list. _“SA Science Catalog”_ should automatically show up as the collection title. If the collection title does not appear, stop and enter the correct information in [Settings](../settings.md). Then select the repository for your project. Projects without the correct tag and collection title will not show up in the Science Catalog.
 
 {% hint style="danger" %}
-The Metadata Repository and Collection Title must be exactly the same for each of your LCC's records with no variations in spelling, spaces, capitalization, etc. Specifying this information in Settings is the best way to ensure the repository information will be consistent across all of your records. It strongly recommended that you do not type these in by hand on individual metadata records.
+The Metadata Repository and Collection Title must be exactly the same for each of your records with no variations in spelling, spaces, capitalization, etc. Specifying this information in Settings is the best way to ensure the repository information will be consistent across all of your records. It strongly recommended that you do not type these in by hand on individual metadata records.
 {% endhint %}
 
 {% hint style="info" %}
-You should only use the data.gov repository for products \(projects are not sent to data.gov\).
+You should only use the data.gov repository for data products such as datasets, GIS data, etc.  Data.gov does not include reports, presentations, or other documents nor are projects sent to data.gov.
 {% endhint %}
 
-![](../.gitbook/assets/project_metadata.png)
+![Example SA Science Catalog Metadata entry](../.gitbook/assets/image%20%2811%29.png)
 

@@ -63,7 +63,7 @@ To add contacts to a metadata record, you must first create/upload the contacts 
 The FWS Science Applications National Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. Regional Data Steward should be included in addition as a point of contact if available.
 {% endhint %}
 
-![Example Project Points of Contact](../.gitbook/assets/image%20%288%29.png)
+![Example Project Points of Contact](../.gitbook/assets/image%20%289%29.png)
 
 ## Citation
 
@@ -112,7 +112,7 @@ You may enter as many identifiers as desired. The identifier for the repository 
 If your item does not have a ScienceBase ID yet, ScienceBase will create one automatically upon publishing. If you imported your item from ScienceBase originally, then the SBID will already be included in Metadata/Metadata Identifier and you do not need to include it here. Note that if you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created on ScienceBase. Consult the [Publish](../publish/) section of this manual to learn more.
 {% endhint %}
 
-![Example Citation Metadata](../.gitbook/assets/image%20%289%29.png)
+![Example Citation Metadata](../.gitbook/assets/image%20%2810%29.png)
 
 ## Description
 
