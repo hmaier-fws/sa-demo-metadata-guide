@@ -35,7 +35,7 @@ The **Status** drop-down menu allows you to select the status of your project. C
 
 ## Resource Types \(Required\)
 
-For projects, the Resource Type should be automatically filled in with the resource type you selected when you created your record. This should be "project" for all LCC projects. Name is optional - you can leave this blank.
+For projects, the Resource Type should be automatically filled in with the resource type you selected when you created your record. This should be "project" for all SA projects. Name is optional - you can leave this blank or enter a shorten project name.
 
 ![](../.gitbook/assets/resource_types.png)
 
@@ -51,21 +51,23 @@ To add contacts to a metadata record, you must first create/upload the contacts 
 
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
-| pointOfContact | LCC Network Data Steward | Required |
-| pointOfContact | Your LCC | NOT Required \(\*see below\) |
-| principalInvestigator | The Project PI | Best Practice |
-
-\*Note: Given the transition away from LCCs, it is no longer required to add the LCC as a Main / Point of Contact in new or updated metadata records.
+| pointOfContact | FWS Science Applications National Data Steward | Required |
+| pointOfContact | Data Steward | Required |
+| principalInvestigator | The Project PI | Required, if applicable |
+| custodian | Data Custodian | Required, if applicable |
+| administrator | Project officer and/or Data Trustee | Required |
+| administrator | FWS Region \(legacy and DOI Unified\) | Required |
+| collaborator | partnership organizations and/or programs | Required, if applicable |
 
 {% hint style="info" %}
-The LCC Network Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization.
+The FWS Science Applications National Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. Regional Data Steward should be included in addition as a point of contact if available.
 {% endhint %}
 
-![](../.gitbook/assets/main_pointsofcontact.PNG)
+![Example Project Points of Contact](../.gitbook/assets/image%20%288%29.png)
 
 ## Citation
 
-**The Citation** describes pertinent information about your project such as: responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. Adding information in the citation will also improve users' ability to find your items.
+**The Citation** describes pertinent information about your project such as: responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. The citation much like a peer-reviewed publication citation, provides credit and services a as reference. Adding information in the citation will also improve users' ability to find your items.
 
 ### Citation Required Fields
 
@@ -77,13 +79,13 @@ The citation title is automatically populated with the title of your record.
 
 You can add an alternate title if desired - generally these should be shorter than the full Title.
 
-#### Dates \(Optional\)
+#### Dates \(Required\)
 
-Enter _acquisition, creation, revision,_ or another date reference from the picklist and then enter the date.
+Enter _acquisition, creation, updated, revision_ from the picklist and then enter the date.  At least one date of these date types is required.
 
 #### Responsible Parties \(Required\)
 
-Responsible parties must include a point of contact, but may also include other responsible parties such as funders \(including your LCC\), partners, collaborators, and contributors. Collaborators could be intellectual participants while contributors could be intellectual and financial participants.
+Responsible parties must include the principal investigator of the project, but may optionally include other responsible parties such as funders \(your region and program\), partners, collaborators, and contributors. Collaborators could be intellectual participants while contributors could be intellectual and financial participants.
 
 {% hint style="info" %}
 To add contacts to a metadata record, you must first create/upload the contacts in mdEditor. See the [Contacts](../contacts/) section for more information.
@@ -91,27 +93,26 @@ To add contacts to a metadata record, you must first create/upload the contacts 
 
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
-| pointofContact | LCC Network Data Steward | Required |
-| administrator | Your LCC | Required |
-| principalInvestigator | The Project PI | Best Practice |
+| principalInvestigator | The Project PI | Required |
+| coPrincipalInvestigator | co investigators | Required, if applicable |
 
 #### Online Resource \(Required, if available\)
 
 Enter the Name and URL for the project homepage on your LCC website.
 
-#### Identifier \(Best Practice\)
+#### Identifier \(Required\)
 
-You may enter as many identifiers as desired. If you have internal LCC-specific IDs for projects, enter them here. Other optional identifiers for projects include: Archive Folder Name.
+You may enter as many identifiers as desired. The identifier for the repository is required here. If you have other internal IDs for projects, enter them here. Other optional identifiers for projects include: [Archive](../archiving.md) Folder Name. 
 
 {% hint style="info" %}
-**Best Practice**: Create and use internal identifiers that are unique within your LCC for projects and their products. Example: GNLCC2010-11.
+**Best Practice**: Create and use internal identifiers that are unique within your region or program for projects and their products. Example: GNLCC2010-11.
 {% endhint %}
 
 {% hint style="info" %}
 If your item does not have a ScienceBase ID yet, ScienceBase will create one automatically upon publishing. If you imported your item from ScienceBase originally, then the SBID will already be included in Metadata/Metadata Identifier and you do not need to include it here. Note that if you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created on ScienceBase. Consult the [Publish](../publish/) section of this manual to learn more.
 {% endhint %}
 
-#### ![](../.gitbook/assets/citation_updated.png)
+![Example Citation Metadata](../.gitbook/assets/image%20%289%29.png)
 
 ## Description
 
@@ -127,7 +128,11 @@ Tip: Write your project abstract in the present tense if the project is in progr
 
 ### Short Abstract \(Optional\)
 
-Enter a short description, limited to 300 characters, if desired.
+Enter a short description, limited to 300 characters, if desired. By default, mdEditor will fill the short abstract with the first 300 characters of the abstract.  Best practice is a public outreach abstract for pubic affairs purposes.
+
+### Purpose \(Best Practice\)
+
+Enter a short narrative about the purpose of the resource such as the issue or problem that the resource is designed to address and anticipated results or benefits.  This aligns with SA Internal Tracking metadata.
 
 ### Supplemental Information \(Optional\)
 

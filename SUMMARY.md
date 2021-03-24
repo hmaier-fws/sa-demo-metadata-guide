@@ -70,4 +70,5 @@
 * [Help](help.md)
 * [Glossary of Terms](glossary.md)
 * [Documentation Guide](documentation-guide.md)
+* [Archiving](archiving.md)
 
