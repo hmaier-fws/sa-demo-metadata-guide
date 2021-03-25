@@ -99,3 +99,8 @@ In mdEditor, contacts are created separately from individual records, and then s
   * Online Option
     * URI
 
+### Constraints
+
+* Legal
+  * Access Constraint
+
