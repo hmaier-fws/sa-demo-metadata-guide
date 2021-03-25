@@ -41,7 +41,7 @@ Add at least one date is required. Recommended are "creation" \(when you first c
 
 ## Metadata Identifier 
 
-The **Metadata Identifier** is automatically populated by mdEditor. The metadata identifier gives each of your projects and products a unique ID and differentiates them from other similar projects and products.
+The **Metadata Identifier** is automatically populated by mdEditor. The metadata identifier gives each of your projects and products a unique ID and differentiates them from other similar projects and products. Digital Object Identifiers are not needed for Projects.
 
 * If the record was imported from ScienceBase, the Metadata Identifier will be auto-populated with the ScienceBase ID \(SBID\).
 * If the record was created in mdEditor, it will generate a universally unique identifier \(UUID\).

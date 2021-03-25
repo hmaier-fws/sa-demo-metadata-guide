@@ -36,7 +36,7 @@ Select the appropriate status of the creation of your metadata from the drop-dow
 
 ## Metadata Identifier
 
-The **Metadata Identifier** is automatically populated by mdEditor. The metadata identifier gives each of your projects and products a unique ID and differentiates them from other similar projects and products.
+The **Metadata Identifier** is automatically populated by mdEditor. The metadata identifier gives each of your projects and products a unique ID and differentiates them from other similar projects and products.  Note this is difference from a Digital Object Identifier which is linked directly to the dataset.
 
 * If the record was imported from ScienceBase, the Metadata Identifier will be auto-populated with the ScienceBase ID \(SBID\).
 * If the record was created in mdEditor, it will generate a universally unique identifier \(UUID\).
