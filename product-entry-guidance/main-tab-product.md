@@ -60,11 +60,11 @@ Adding a point of contact gives staff information on who to contact should they 
 The FWS Science Applications National Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. Regional Data Steward should be included in addition as a point of contact if available.
 {% endhint %}
 
-## ![](../.gitbook/assets/main_pointsofcontact.PNG)
+## 
 
 ## Citation
 
-The **Citation** lets users know pertinent information about your project or product such as responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. Adding information in the citation will also allow users to find your item when they search for items that contain said information.
+The **Citation** lets users know pertinent information about your product such as responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. The citation much like a peer-reviewed publication citation, provides credit and services a as reference. Adding information in the citation will also allow users to find your item when they search for items that contain said information.
 
 The following fields are required in citation:
 
@@ -76,9 +76,9 @@ Added automatically based on the title of your record.
 
 Add an alternate title.
 
-#### Dates \(Optional\)
+#### Dates \(Required\)
 
-Enter _acquisition_, _creation_, _revision_, or another date reference from the picklist and then enter the date.
+Enter _acquisition_, _creation, updated_, _revision_, or _publication_ date reference from the picklist and then enter the date.  At least one of these date types is required.
 
 #### Responsible Parties \(Required\)
 
@@ -86,28 +86,27 @@ This must include a point of contact, but may also include other responsible par
 
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
-| pointofContact | LCC Network Data Steward | Required |
-| administrator | Your LCC | Required |
-| principalInvestigator | The Project PI | Best Practice |
+| principalInvestigator | data creator | Required |
+| coPrincipalInvestigator | data co-creator | Best Practice |
 
 {% hint style="info" %}
-For items that will be sent to data.gov, list the LCC Network Data Steward first in the list of Responsible Parties \(\#0\). Data.gov only shows the first contact and the data steward should be listed first.
+For items that will be sent to data.gov, only the first in the list of Responsible Parties \(\#0\) will appear.
 {% endhint %}
 
-#### Online Resource \(Required, if Available\)
+#### Online Resource \(Required\)
 
-Enter the Name and URL for the location where users can find the product \(e.g., ScienceBase page\).
+Enter the Name and URL for the location where users can find the product \(e.g., ScienceBase page\).  Data.gov refers to this online resource link to send users to the data download.
 
 {% hint style="info" %}
 Important: The URLs to access and download products must **also** be included in the Distribution tab. Distribution Links is the only online resource that data.gov reads so without a URL there, users have no way to access the actual product from data.gov.
 {% endhint %}
 
-#### Identifier \(Best Practice\)
+#### Identifier
 
-You may enter as many identifiers as desired. If you have internal LCC-specific IDs for projects, enter them here. Other optional identifiers include: Digital Object Identifier \(DOI\) and Archive Folder Name.
+You may enter as many identifiers as desired, but at least one is required. If you have internal SA specific IDs for projects, enter them here. A Digital Object Identifier \(DOI\) is the preferred identifier for this.  The Archive Folder Name may be included here as well.
 
 {% hint style="info" %}
-**Best Practice**: Create and use internal identifiers that are unique within your LCC for projects and their products. Example: GNLCC2010-11.
+**Best Practice**: Create and use internal identifiers that are unique within your region for projects and their products. Example: GNLCC2010-11.
 {% endhint %}
 
 {% hint style="info" %}
@@ -115,7 +114,7 @@ If your item does not have a ScienceBase ID \(SBID\) yet, ScienceBase will creat
 {% endhint %}
 
 {% hint style="info" %}
-If the product metadata was created by copying another mdEditor metadata record, this identifier needs to be edited/changed since it will reflect the copied record identifier. Only the mdEditor UUID changes to represent a new record when an item is copied. Consult the [Copy Records](../data-management/copy-records.md) section of this manual to learn how to make a copy.
+If the product metadata was created by copying another mdEditor metadata record, this identifier MUST be edited/changed since it will reflect the copied record identifier. Only the mdEditor UUID changes to represent a new record when an item is copied. Consult the [Copy Records](../data-management/copy-records.md) section of this manual to learn how to make a copy.
 {% endhint %}
 
 ## Description
@@ -132,7 +131,7 @@ Tip: Write your abstracts for projects in the present tense if the project is un
 
 #### Short Abstract \(Optional\)
 
-Enter a short description, limited to 300 characters, if desired
+Enter a short description, limited to 300 characters, if desired.  The Best Practice here is to include a few sentences for media communications that Public Affairs may find helpful.
 
 #### Supplemental Information \(Optional\)
 
