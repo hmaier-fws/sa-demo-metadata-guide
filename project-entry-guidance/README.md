@@ -56,7 +56,6 @@ You should maintain a single list of your contacts. Having duplicate copies of t
   * Title
   * Identifier
   * Responsible Parties 
-  * Date
   * Online Resource URI
 * Description
   * Abstract
@@ -73,13 +72,14 @@ You should maintain a single list of your contacts. Having duplicate copies of t
 * Parent Metadata
   * Title 
   * Identifier
-  * Namespace
+    * Identifier
+    * Namespace
 * Metadata Repositories
 
 ### **Keywords Tab**
 
 * ISO Topic Category
-* SA Priority Area Category 
+* SA Prior Area Category 
 * SA Science Category
 * Conservation Action Open Standard
 * Anticipated Deliverables \(Best Practice\)

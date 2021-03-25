@@ -7,7 +7,7 @@ The **Main** tab allows for the creation and/or editing of primary metadata.
 | Basic Information: Title, Status | Required |
 | Resource Type | Required |
 | Point of Contact | Required |
-| Citation: Title, Dates, Responsible Parties, Online Resource, Identifier | Required |
+| Citation: Dates, Responsible Parties, Online Resource, Identifier | Required |
 | Description: Abstract | Required |
 | Time Period | Required |
 
@@ -29,7 +29,7 @@ The **Status** drop-down menu allows you to select the status of your project. C
 
 ## Default Locale
 
-**Default Locale** allows for the selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary.  See [Settings](../settings.md) for instruction. 
+**Default Locale** allows for the selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary.
 
 ![](../.gitbook/assets/default_locale.png)
 

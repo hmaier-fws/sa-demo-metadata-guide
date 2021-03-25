@@ -4,8 +4,7 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 | **Quick Reference: Product Metadata Tab** | Required? |
 | :--- | :--- |
-| Metadata Status | Required |
-| Date | Required |
+| Basic Information | Required |
 | Metadata Contacts | Required |
 | Metadata Identifier | Required |
 | Parent Metadata | Required |

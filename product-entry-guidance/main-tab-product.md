@@ -48,14 +48,16 @@ Adding a point of contact gives staff information on who to contact should they 
 
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
-| pointOfContact | LCC Network Data Steward | Required |
-| pointOfContact | Your LCC | NOT Required \(\*see below\) |
-| principalInvestigator | The Project PI | Best Practice |
-
-\*Note: Given the transition away from LCCs, it is no longer required to add the LCC as a Main / Point of Contact in new or updated metadata records.
+| pointOfContact | FWS Science Applications National Data Steward | Required |
+| pointOfContact | Data Steward | Required |
+| principalInvestigator | The Project PI | Required, if applicable |
+| custodian | Data Custodian | Required, if applicable |
+| administrator | Data Trustee | Required |
+| administrator | FWS Region \(legacy and DOI Unified\) | Required |
+| collaborator | partnership organizations and/or programs | Required, if applicable |
 
 {% hint style="info" %}
-The LCC Network Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization.
+The FWS Science Applications National Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. Regional Data Steward should be included in addition as a point of contact if available.
 {% endhint %}
 
 ## ![](../.gitbook/assets/main_pointsofcontact.PNG)
