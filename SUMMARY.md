@@ -59,7 +59,7 @@
   * [Testing Publishing](publish/testing-publishing.md)
   * [How to Publish](publish/how-to-publish.md)
   * [Re-Publishing](publish/re-publishing.md)
-* [Metadata Improvements](metadata-improvements/README.md)
+* [Other Requirements](metadata-improvements/README.md)
   * [QA/QC Fixes](metadata-improvements/qaqc-fixes/README.md)
     * [QA/QC Resources](metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md)
   * [New Required Improvements](metadata-improvements/new-required-improvements.md)

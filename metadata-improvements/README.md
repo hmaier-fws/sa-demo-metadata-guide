@@ -1,4 +1,4 @@
-# Metadata Improvements
+# Other Requirements
 
 The following is a list of LCC metadata improvements based on QA/QC of the initial metadata and other modifications identified that will make the Science Catalog function as intended and needed. This page is temporary and will be removed from the LCC Metadata Manual after the Metadata Improvements round has concluded.
 
