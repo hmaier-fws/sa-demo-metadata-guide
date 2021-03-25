@@ -1,24 +1,24 @@
 # Product Entry Guidance
 
-The Product Entry Guidance section will cover how to create a metadata record for an LCC product.
+The Product Entry Guidance section will cover how to create a metadata record for a product.  A product can be anything from a document or presentation or website to a dataset or programming code. mdEditor offers an extensive list of product options, of which "_product_" should never be used. 
 
 ## Before You Begin
 
 ### Adjust your mdEditor [Settings](../settings.md):
 
-**Metadata Repositories**: Make sure your default settings are correct for the LCC Science Catalog and data.gov. See [Settings](../settings.md).
+**Metadata Repositories**: Make sure your default settings are correct for the SA Science Catalog and data.gov. See [Settings](../settings.md).
 
-**Parent Identifier**: In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
+**Parent Identifier**: In the publishing settings, enter your SA regional ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 
-### Select the LCC Product Profile:
+### Select the Product Profile:
 
-After creating your product record initially and before you begin adding metadata, select **lccProduct** from the **Profile** drop down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are required for product creation.
+After creating your product record initially and before you begin adding metadata, select **Product** from the **Profile** drop down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are required for product creation.
 
-![](../.gitbook/assets/profile_lccproduct.PNG)
+![Select the Product profile in the Profile dropdown in the top ribbon](../.gitbook/assets/image%20%2818%29.png)
 
 ### Make sure your contacts are loaded into mdEditor:
 
-In mdEditor, contacts are created separately from individual records, and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records.
+In mdEditor, contacts are created separately from individual records, and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records.  SA maintains a 'seed' list of contacts that can be found in the[ SA ScienceBase community item page](https://www.sciencebase.gov/catalog/item/5b4e1c3fe4b06a6dd17df2d3).
 
 ## Edit a Product
 

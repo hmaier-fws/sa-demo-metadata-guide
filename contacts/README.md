@@ -27,6 +27,8 @@ It is recommended that when you export records, you also export your entire cont
 
 The "contacts seed file" contains pre-filled information and standard naming conventions for all LCCs, common federal agencies, and the LCC Network Data Steward. Using this file will increase consistency across all LCC metadata records for common contacts and reduce the amount of processing needed before records go into the Science Catalog.
 
+SA maintains a 'seed' list of contacts that can be found in the[ SA ScienceBase community item page](https://www.sciencebase.gov/catalog/item/5b4e1c3fe4b06a6dd17df2d3).
+
 ## Importing Contacts from ScienceBase
 
 When you import a ScienceBase record, mdTranslator will automatically load all sbJSON contacts into Main/Citation/Responsible Parties. You MUST review this to check for errors and inconsistencies introduced during translation. Delete any duplicate or extraneous contacts or any errors. Then continue with edits to meet requirements, follow best practices, and add other contacts as desired.
