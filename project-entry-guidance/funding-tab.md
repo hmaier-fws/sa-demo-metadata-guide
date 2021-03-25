@@ -1,42 +1,48 @@
 # Funding Tab: Project
 
-Tracking funding in the metadata allows for identification of funding sources, comparison, and aggregation across all LCCs.
+Tracking funding in the metadata allows for identification of funding sources and recipients, enables comparisons, and aggregations across all regions.
 
 | **Quick Reference: Project Funding Tab** | Required? |
 | :--- | :--- |
-| Allocation, including Award ID, Amount, Source, Recipient | Required |
-| Funding Administrator | \*New Required Metadata Improvement |
-| Matching Funds, including Amount, Source, Recipient | Best Practice |
+| Allocation, including Award ID and Amount | Required |
+| Funding Source | Required |
+| Funding Recipient Organization | Required |
+| Funding Administrator | Required |
+| FWS sub-activity and funding codes | Best Practice |
+| Funding agreement type | Best Practice |
+| Matching Funds, including above | Best Practice |
 | Time Period \(fiscal year of allocation\) | Required |
 
 ## Funding Allocations
 
-Allocations describe where project funding came from, where and when it was distributed, and amounts. Science Catalog users can search by specific fiscal year, funders, or recipients.
+Allocations describe where project funding came from, how much, where and when it was distributed. Science Catalog users can search by specific fiscal year, funders, or recipients.
 
 A funding allocation represents a single fiscal year, source, and recipient.
 
 {% hint style="info" %}
-If you have two recipients in a single fiscal year, they need to be added as separate funding allocations.
+If you have two recipients in a single fiscal year, each needs to be added as separate funding allocations.
 {% endhint %}
 
 ### Required Fields
 
 For each funding allocation, the following fields should be filled out.
 
-#### Award ID \(Required if one exists\)
+#### Award ID \(Required\)
 
-You are required to include Award ID numbers if they exist for your project. Award IDs include grant or cooperative agreement numbers, contract numbers, or inter-agency agreement numbers. Inclusion of Award IDs provides accountability and allows tracking and auditing between financial systems and the Science Catalog.
+The Award ID numbers are internal codes that connect the distribution forms to the project metadata. Award IDs include grant or cooperative agreement numbers, contract numbers, or inter-agency agreement numbers. Inclusion of Award IDs provides accountability and allows tracking and auditing between financial systems and the Science Catalog.
+
+ If no Award ID exists, then the project is likely an internal effort. Enter '_None_" in the Award ID field. This allows for tracking and search of internally funded projects. 
 
 #### Amount \(Required\)
 
-Enter the amount of funding.
+Enter the amount of funding.  Be sure U.S. Dollars is selected \(ie. Unites States of America, the--US Dollar; this is third from the bottom of USD options in mdEditor\). 
 
 #### Source \(Required\)
 
-Add the relevant contact for the “source” of the project funding. Source should be an organization, not an individual. For LCC projects, the most common sources are U.S. Fish and Wildlife Service, Bureau of Land Management, and Bureau of Reclamation. LCCs should be added as the funding "administrator" in the Other Contacts field.
+Add the relevant contact for the “source” of the project funding. Source should be an organization, not an individual. For SA projects, the most common sources are U.S. Fish and Wildlife Service, Bureau of Land Management, and Bureau of Reclamation. 
 
 {% hint style="info" %}
-Funding source should always identify the agency or organization, rather than a sub-program or office. For example, all funding from other FWS programs need to list U.S. Fish and Wildlife Service as the source \(and not list the source as Fisheries, specific Refuges, ES, etc.\). Clarifications on the exact program or office where the funding came from can be done through the Funding/Other Contacts field \(and choose the role of "administrator"\).
+Funding source should always identify the agency or organization, rather than a sub-program or office. For example, all funding from other FWS programs need to list U.S. Fish and Wildlife Service as the source \(and not list the source as Fisheries, specific Refuges, ES, etc.\). Clarifications on the exact program or office where the funding came from should be done through the Funding/Other Contacts field.
 {% endhint %}
 
 #### Recipient \(Required\)
@@ -45,19 +51,29 @@ Add the relevant contact for the “recipient” of the project funding. Recipie
 
 You could add the Principal Investigator in the Other Contacts field as "principalInvestigator."
 
-#### Other Contacts \(\*New Required Metadata Improvement\)
+#### Other Contacts \(Required\)
 
-Add the LCC as the funding "administrator" for all LCC allocations. The funding source should identify the agency who supplied the funding.
+In most cases, a program or region has allocated the funding for a project.  In order to track funds within regions and programs and provide proper credit, add the FWS region \(yes, both the legacy region and the DOI unified region for now\) as the funding "administrator" for all allocations. Recall that the funding source should identify the agency who supplied the funding \(i.e. US Fish and Wildlife Service\).  Also, add the program name, if applicable, as a the funding "administrator".  
 
 {% hint style="info" %}
 Funding administrator can also be used to differentiate funding from different programs/offices within the same agency. For example, the U.S. Fish and Wildlife Service can be identified as the funding source and the funding administrator could include "Ecological Services" or a specific field office.
 {% endhint %}
 
+In some cases, funds are marked for specific activities and include reporting requirements accompany the funding allocations.  For example, EPA allocates Great Lakes Restoration Initiative \(GLRI\) funds on behalf of Congress to FWS, among others. FWS then distributes the funds across programs for use.  This funding flow can be tracked and aggregated with the Funding Other Contacts.  Add the Name of the funding source as an organization contact and add the funding source as the "_funder_" in Funding Other Contacts.
+
+![Example of organizational fund contact entry](../.gitbook/assets/image%20%2812%29.png)
+
+![Example of organizational fund entry in Funding metadata entry](../.gitbook/assets/image%20%2810%29.png)
+
+#### FWS sub-activity and funding codes \(Best Practice\)
+
+In order to better integrate budgeting records and align with activity tracking priorities, add the FWS sub-activity code as the funder as described above. The 1410, 1420, and 1430 sub-activity organization contacts are included in the 'seed contact' list.  The funding codes can be added in the description text box \(i.e. FWS sub-activity 1420; fundcode:190\).  At some point in the future, mdEditor may include additional fields for these values. If funds are provided from multiple sub-activities, allocations should be entered separately.
+
 #### Matching and In-kind Funds
 
-Project funds or in-kind support that were supplied by a partner \(i.e., not specifically allocated to an LCC\) should be included as an allocation with the matching fund box checked. Each matching fund provider needs to be included as a separate allocation.
+Project funds or in-kind support that were supplied by a partner \(i.e., not specifically allocated to SA\) should be included as an allocation as described above, but with the matching fund box checked. Each matching fund provider needs to be included as a separate allocation.
 
-![](../.gitbook/assets/project_funding_example.PNG)
+![Example of Matching Allocation Metadata entry](../.gitbook/assets/image%20%2816%29.png)
 
 ## Time Period
 
@@ -71,7 +87,7 @@ Use the “Pick a Fiscal Year” dropdown to autofill the date fields.
 
 ![](../.gitbook/assets/project_funding_timeperiod.PNG)
 
-Example of multiple allocations for a single project record.
+Example of multiple allocations across several fiscal years for a single project record.
 
 ![](../.gitbook/assets/project_funding_list.PNG)
 

@@ -37,7 +37,7 @@ Add at least one date is required. Recommended are "creation" \(when you first c
 * Publisher can also include the FWS region and/or program.
 * The point of contact should be a regional or national data steward.
 
-![Example Metadata Contacts entry](../.gitbook/assets/image%20%2813%29.png)
+![Example Metadata Contacts entry](../.gitbook/assets/image%20%2817%29.png)
 
 ## Metadata Identifier 
 
@@ -78,7 +78,7 @@ Defines the location of the parent folder in ScienceBase.
 The ScienceBase identifier is the alphanumeric string in the item's URL immediately following "**item/".** For example, **59b97600e4b091459a54d9f3c** is the SBID for the item at the URL: [https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c](https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c)
 {% endhint %}
 
-![Example ScienceBase Parent Metadata entry](../.gitbook/assets/image%20%2812%29.png)
+![Example ScienceBase Parent Metadata entry](../.gitbook/assets/image%20%2815%29.png)
 
 ## Metadata Repositories
 
@@ -96,5 +96,5 @@ The Metadata Repository and Collection Title must be exactly the same for each o
 You should only use the data.gov repository for data products such as datasets, GIS data, etc.  Data.gov does not include reports, presentations, or other documents nor are projects sent to data.gov.
 {% endhint %}
 
-![Example SA Science Catalog Metadata entry](../.gitbook/assets/image%20%2811%29.png)
+![Example SA Science Catalog Metadata entry](../.gitbook/assets/image%20%2813%29.png)
 
