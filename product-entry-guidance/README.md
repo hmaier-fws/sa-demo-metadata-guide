@@ -24,7 +24,7 @@ In mdEditor, contacts are created separately from individual records, and then s
 
 1. Import or create your product record \(see [workflow](../getting-started/)\).
 2. Choose the specific **Resource Type** that describes your product. Do not choose the generic "product."
-3. Select the LCC Product Profile: from the Main Menu \(Top Navigation Bar\) select "**lccProduct"** from the profile drop-down menu.
+3. Select the Product Profile: from the Main Menu \(Top Navigation Bar\) select "**Product"** from the profile drop-down menu.
 4. Fill out metadata information for the following tabs:
    * [Main Tab: Product](main-tab-product.md)
    * [Metadata Tab: Product](metadata-tab-product/)
