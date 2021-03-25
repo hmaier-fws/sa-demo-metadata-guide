@@ -139,7 +139,7 @@ Enter comments, if desired.
 
 ## Time Period
 
-**Time Period** refers to project start and end date, or the date that the product was applicable \(e.g., time that a map is valid, date of publication, date of presentation\).
+**Time Period** refers to project start and end date, or the date that the product was applicable.  For example, the time when a map is valid, date of publication, date of presentation, or dates when the data was collected.
 
 * **Required**: For each product, add a start date and end date.
 
