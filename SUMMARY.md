@@ -39,7 +39,7 @@
   * [Dictionaries Tab: Product](product-entry-guidance/dictionaries-tab-product.md)
   * [Documents Tab: Product](product-entry-guidance/documents-tab-products.md)
   * [Associating Records: Product](product-entry-guidance/associating-records-products.md)
-* [Multi-LCC and Co-funded Projects](multi-lcc-and-co-funded-projects/README.md)
+* [Co-funded Project Guidance](multi-lcc-and-co-funded-projects/README.md)
   * [Collaborating Protocol](multi-lcc-and-co-funded-projects/collaborating-protocol.md)
   * [Sub-Project Protocol](multi-lcc-and-co-funded-projects/sub-project-protocol/README.md)
     * [Sub-project of LCC Project](multi-lcc-and-co-funded-projects/sub-project-protocol/of-lcc-project.md)

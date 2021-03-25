@@ -1,4 +1,4 @@
-# Multi-LCC and Co-funded Projects
+# Co-funded Project Guidance
 
 This describes the additional metadata entry requirements for documenting projects and products that involve multiple LCCs or were co-funded with the Climate Adaptation Science Centers \(CASCs\). All other LCC metadata requirements and best practices still apply, unless otherwise noted.
 
