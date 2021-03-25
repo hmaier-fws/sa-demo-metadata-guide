@@ -65,10 +65,10 @@
   * [New Required Improvements](metadata-improvements/new-required-improvements.md)
   * [Optional Improvements](metadata-improvements/optional-improvements.md)
 * [Other Resources](other-resources/README.md)
+  * [Archiving](other-resources/archiving.md)
   * [Injector Script: Funding](other-resources/injector-script-funding.md)
   * [Injector Script: Distribution Links](other-resources/injector-script-distribution-links.md)
 * [Help](help.md)
 * [Glossary of Terms](glossary.md)
 * [Documentation Guide](documentation-guide.md)
-* [Archiving](archiving.md)
 
