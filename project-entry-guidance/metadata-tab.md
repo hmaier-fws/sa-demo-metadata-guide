@@ -30,7 +30,7 @@ Add at least one date is required. Recommended are "creation" \(when you first c
 | publisher | default is USFWS  | Required |
 | pointOfContact | SA Data Steward | Required |
 
-#### Metadata Contact Notes
+#### Metadata Contact Notes:
 
 * The author should be an individual and can be a generic data manager.
 * In most cases, the author will be the data manager, but could be anyone, including someone outside of FWS \(e.g., imported FGDC metadata can list the original author\).

@@ -24,14 +24,15 @@ Select the appropriate status of the creation of your metadata from the drop-dow
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
 | author | See notes below | At least one is required |
-| pointOfContact | LCC Network Data Steward | Required |
-| publisher | In most cases, this will be the LCC | Best Practice |
+| publisher | default is USFWS  | Required |
+| pointOfContact | SA Data Steward | Required |
 
-**Regarding the Role of "author"**
+**Metadata Contact Notes:**
 
-* The author does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\).
-* "Author" can be an individual or an organization.
-* You can enter your LCC data manager as the “author”. If you prefer, you can use a generic data manager contact rather than an individual name.
+* The author should be an individual and can be a generic data manager.
+* In most cases, the author will be the data manager, but could be anyone, including someone outside of FWS \(e.g., imported FGDC metadata can list the original author\).
+* Publisher can also include the FWS region and/or program.
+* The point of contact should be a regional or national data steward.
 
 ## Metadata Identifier
 
