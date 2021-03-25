@@ -18,7 +18,7 @@ In mdEditor, associations can be created from the Project record or the Product 
 Important: It is recommended you ALWAYS specify the Linked Association Type when you create associations. This will ensure the associations are defined from both directions and be present in the metadata no matter how the metadata is translated or where it is used in the future.
 {% endhint %}
 
-If you import records from ScienceBase, the record associations might be automatically created, but sometimes you may have to create the associations manually \(as described below\). Associations can only be made after both project and product records have been created in mdEditor.
+If you import records from ScienceBase, the record associations might be automatically created, but sometimes associations may need to be created manually \(as described below\). Associations can only be made after both project and product records have been created or imported into mdEditor.
 
 | Quick Reference: Creating an Association in a Project Record |
 | :--- |
