@@ -7,8 +7,9 @@ The **Main** tab allows for the creation and/or editing of primary metadata.
 | Basic Information: Title, Status | Required |
 | Resource Type | Required |
 | Point of Contact | Required |
-| Citation: Title, Date, Responsible Parties, Online Resource | Required |
-| Citation: Identifier | Required |
+| Citation: Title, Responsible Parties, Online Resource | Required |
+| Citation: Identifier | Best Practice |
+| Citation: Alternative Titles, Date | Optional |
 | Description: Abstract | Required |
 | Time Period: Start Date, End Date | Required |
 
@@ -30,41 +31,39 @@ The **Status** drop-down menu allows you to select the status of your product. C
 
 ## Default Locale
 
-**Default Locale** allows for the selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary. See [Settings](../settings.md) for instruction. 
+**Default Locale** allows for the selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary.
 
 ![](../.gitbook/assets/default_locale.png)
 
 ## Resource Types \(Required\)
 
-The Resource Type should be automatically filled in with the resource type you selected when you created your record. Name is optional - you can leave this blank or enter a shorten project name.
+The Resource Type should be automatically filled in with the resource type you selected when you created your record. Name is optional - you can leave this blank.
 
 {% hint style="info" %}
-Products must have a specific resource type selected, NOT just "product".
+Products must have a specific resource type selected \(not just "product"\).
 {% endhint %}
 
 ## Point of Contacts
 
-Adding a point of contact gives staff information on who to contact should they have a question regarding your project or product. From the **Role** drop-down menu, select **pointOfContact**. From the **Contacts** drop-down menu, select a contact from the list of contacts. See the [Contacts](../contacts/) section for information on creating contacts.
+Adding a point of contact gives LCC staff information on who to contact should they have a question regarding your project or product. From the **Role** drop-down menu, select **pointOfContact**. From the **Contacts** drop-down menu, select a contact from the list of contacts. See the [Contacts](../contacts/) section for information on creating contacts.
 
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
-| pointOfContact | FWS Science Applications National Data Steward | Required |
-| pointOfContact | Data Steward | Required |
-| principalInvestigator | The Project PI | Required, if applicable |
-| custodian | Data Custodian | Required, if applicable |
-| administrator | Data Trustee | Required |
-| administrator | FWS Region \(legacy and DOI Unified\) | Required |
-| collaborator | partnership organizations and/or programs | Required, if applicable |
+| pointOfContact | LCC Network Data Steward | Required |
+| pointOfContact | Your LCC | NOT Required \(\*see below\) |
+| principalInvestigator | The Project PI | Best Practice |
+
+\*Note: Given the transition away from LCCs, it is no longer required to add the LCC as a Main / Point of Contact in new or updated metadata records.
 
 {% hint style="info" %}
-The FWS Science Applications National Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. Regional Data Steward should be included in addition as a point of contact if available.
+The LCC Network Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization.
 {% endhint %}
 
-## 
+## ![](../.gitbook/assets/main_pointsofcontact.PNG)
 
 ## Citation
 
-The **Citation** lets users know pertinent information about your product such as responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. The citation much like a peer-reviewed publication citation, provides credit and services a as reference. Adding information in the citation will also allow users to find your item when they search for items that contain said information.
+The **Citation** lets users know pertinent information about your project or product such as responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. Adding information in the citation will also allow users to find your item when they search for items that contain said information.
 
 The following fields are required in citation:
 
@@ -76,9 +75,9 @@ Added automatically based on the title of your record.
 
 Add an alternate title.
 
-#### Dates \(Required\)
+#### Dates \(Optional\)
 
-Enter _acquisition_, _creation, updated_, _revision_, or _publication_ date reference from the picklist and then enter the date.  At least one of these date types is required.
+Enter _acquisition_, _creation_, _revision_, or another date reference from the picklist and then enter the date.
 
 #### Responsible Parties \(Required\)
 
@@ -86,27 +85,28 @@ This must include a point of contact, but may also include other responsible par
 
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
-| principalInvestigator | data creator | Required |
-| coPrincipalInvestigator | data co-creator | Best Practice |
+| pointofContact | LCC Network Data Steward | Required |
+| administrator | Your LCC | Required |
+| principalInvestigator | The Project PI | Best Practice |
 
 {% hint style="info" %}
-For items that will be sent to data.gov, only the first in the list of Responsible Parties \(\#0\) will appear.
+For items that will be sent to data.gov, list the LCC Network Data Steward first in the list of Responsible Parties \(\#0\). Data.gov only shows the first contact and the data steward should be listed first.
 {% endhint %}
 
-#### Online Resource \(Required\)
+#### Online Resource \(Required, if Available\)
 
-Enter the Name and URL for the location where users can find the product \(e.g., ScienceBase page\).  Data.gov refers to this online resource link to send users to the data download.
+Enter the Name and URL for the location where users can find the product \(e.g., ScienceBase page\).
 
 {% hint style="info" %}
 Important: The URLs to access and download products must **also** be included in the Distribution tab. Distribution Links is the only online resource that data.gov reads so without a URL there, users have no way to access the actual product from data.gov.
 {% endhint %}
 
-#### Identifier
+#### Identifier \(Best Practice\)
 
-You may enter as many identifiers as desired, but at least one is required. If you have internal SA specific IDs for projects, enter them here. A Digital Object Identifier \(DOI\) is the preferred identifier for this.  The Archive Folder Name may be included here as well.
+You may enter as many identifiers as desired. If you have internal LCC-specific IDs for projects, enter them here. Other optional identifiers include: Digital Object Identifier \(DOI\) and Archive Folder Name.
 
 {% hint style="info" %}
-**Best Practice**: Create and use internal identifiers that are unique within your region for projects and their products. Example: GNLCC2010-11.
+**Best Practice**: Create and use internal identifiers that are unique within your LCC for projects and their products. Example: GNLCC2010-11.
 {% endhint %}
 
 {% hint style="info" %}
@@ -114,7 +114,7 @@ If your item does not have a ScienceBase ID \(SBID\) yet, ScienceBase will creat
 {% endhint %}
 
 {% hint style="info" %}
-If the product metadata was created by copying another mdEditor metadata record, this identifier MUST be edited/changed since it will reflect the copied record identifier. Only the mdEditor UUID changes to represent a new record when an item is copied. Consult the [Copy Records](../data-management/copy-records.md) section of this manual to learn how to make a copy.
+If the product metadata was created by copying another mdEditor metadata record, this identifier needs to be edited/changed since it will reflect the copied record identifier. Only the mdEditor UUID changes to represent a new record when an item is copied. Consult the [Copy Records](../data-management/copy-records.md) section of this manual to learn how to make a copy.
 {% endhint %}
 
 ## Description
@@ -131,7 +131,7 @@ Tip: Write your abstracts for projects in the present tense if the project is un
 
 #### Short Abstract \(Optional\)
 
-Enter a short description, limited to 300 characters, if desired.  The Best Practice here is to include a few sentences for media communications that Public Affairs may find helpful.
+Enter a short description, limited to 300 characters, if desired
 
 #### Supplemental Information \(Optional\)
 
@@ -139,7 +139,7 @@ Enter comments, if desired.
 
 ## Time Period
 
-**Time Period** refers to project start and end date, or the date that the product was applicable.  For example, the time when a map is valid, date of publication, date of presentation, or dates when the data was collected.
+**Time Period** refers to project start and end date, or the date that the product was applicable \(e.g., time that a map is valid, date of publication, date of presentation\).
 
 * **Required**: For each product, add a start date and end date.
 

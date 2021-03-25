@@ -1,10 +1,11 @@
 # Metadata Tab: Product
 
-Record Metadata allows you to describe your record's metadata, including a description that outlines the process of metadata creation, contributors to the creation of the metadata, and metadata repositories.
+Record Metadata allows you to describe your record's metadata, including a description that outlines the process of metadata creation, contributors to the creation of the metadata, and repositories where the metadata should be included.
 
 | **Quick Reference: Product Metadata Tab** | Required? |
 | :--- | :--- |
-| Basic Information | Required |
+| Metadata Status | Required |
+| Date | Required |
 | Metadata Contacts | Required |
 | Metadata Identifier | Required |
 | Parent Metadata | Required |
