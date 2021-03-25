@@ -72,8 +72,7 @@ You should maintain a single list of your contacts. Having duplicate copies of t
 * Parent Metadata
   * Title 
   * Identifier
-    * Identifier
-    * Namespace
+  * Namespace
 * Metadata Repositories
 
 ### **Keywords Tab**

@@ -48,9 +48,10 @@ In mdEditor, contacts are created separately from individual records, and then s
 * Resource Type
 * Point of Contact
 * Main Citation
+  * Title
   * Identifier 
-  * Online Resource URI
   * Responsible Parties
+  * Online Resource URI
 * Description 
   * Abstract
 * Time Period
@@ -59,13 +60,14 @@ In mdEditor, contacts are created separately from individual records, and then s
 
 ### Metadata Tab
 
+* Metadata Status
+* Date
 * Metadata Contacts
 * Metadata Identifier 
 * Parent Metadata
   * Title
   * Identifier
-    * Identifier
-    * Namespace
+  * Namespace
 * Metadata Repositories
 * Online Resource
 
