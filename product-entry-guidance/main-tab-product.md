@@ -7,9 +7,8 @@ The **Main** tab allows for the creation and/or editing of primary metadata.
 | Basic Information: Title, Status | Required |
 | Resource Type | Required |
 | Point of Contact | Required |
-| Citation: Title, Responsible Parties, Online Resource | Required |
-| Citation: Identifier | Best Practice |
-| Citation: Alternative Titles, Date | Optional |
+| Citation: Title, Date, Responsible Parties, Online Resource | Required |
+| Citation: Identifier | Required |
 | Description: Abstract | Required |
 | Time Period: Start Date, End Date | Required |
 
@@ -31,21 +30,21 @@ The **Status** drop-down menu allows you to select the status of your product. C
 
 ## Default Locale
 
-**Default Locale** allows for the selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary.
+**Default Locale** allows for the selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary. See [Settings](../settings.md) for instruction. 
 
 ![](../.gitbook/assets/default_locale.png)
 
 ## Resource Types \(Required\)
 
-The Resource Type should be automatically filled in with the resource type you selected when you created your record. Name is optional - you can leave this blank.
+The Resource Type should be automatically filled in with the resource type you selected when you created your record. Name is optional - you can leave this blank or enter a shorten project name.
 
 {% hint style="info" %}
-Products must have a specific resource type selected \(not just "product"\).
+Products must have a specific resource type selected, NOT just "product".
 {% endhint %}
 
 ## Point of Contacts
 
-Adding a point of contact gives LCC staff information on who to contact should they have a question regarding your project or product. From the **Role** drop-down menu, select **pointOfContact**. From the **Contacts** drop-down menu, select a contact from the list of contacts. See the [Contacts](../contacts/) section for information on creating contacts.
+Adding a point of contact gives staff information on who to contact should they have a question regarding your project or product. From the **Role** drop-down menu, select **pointOfContact**. From the **Contacts** drop-down menu, select a contact from the list of contacts. See the [Contacts](../contacts/) section for information on creating contacts.
 
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
