@@ -78,7 +78,7 @@ You should maintain a single list of your contacts. Having duplicate copies of t
 ### **Keywords Tab**
 
 * ISO Topic Category
-* SA Prior Area Category 
+* SA Priority Area Category 
 * SA Science Category
 * Conservation Action Open Standard
 * Anticipated Deliverables \(Best Practice\)

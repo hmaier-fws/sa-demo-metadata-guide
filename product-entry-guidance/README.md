@@ -78,12 +78,18 @@ In mdEditor, contacts are created separately from individual records, and then s
 ### Keywords Tab
 
 * ISO Topic Category 
-* LCC End User Types
+* SA Priority Area Category
+* SA Science Category
+* Conservation Action Open Standard
 * GCMD Keywords \(Best Practice\)
 
 ### Taxonomy Tab
 
 * Taxonomic classifications
+
+### Extent Tab
+
+* Geographic Extent
 
 ### Distribution Tab
 
