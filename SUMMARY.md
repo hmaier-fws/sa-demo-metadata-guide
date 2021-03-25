@@ -9,6 +9,7 @@
   * [ScienceBase First](getting-started/sciencebase-first.md)
   * [Editing / Re-Publishing](getting-started/editing-re-publishing.md)
   * [PTS Considerations](getting-started/pts.md)
+* [Digital Object Identifier](digital-object-identifier.md)
 * [Settings](settings.md)
 * [mdEditor File Management](data-management/README.md)
   * [Import](data-management/import/README.md)
