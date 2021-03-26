@@ -65,9 +65,11 @@ In some cases, funds are marked for specific activities and include reporting re
 
 ![Example of organizational fund entry in Funding metadata entry](../.gitbook/assets/image%20%2810%29.png)
 
-#### FWS sub-activity and funding codes \(Best Practice\)
+#### FWS sub-activity, funding codes, agreement type \(Best Practice\)
 
-In order to better integrate budgeting records and align with activity tracking priorities, add the FWS sub-activity code as the funder as described above. The 1410, 1420, and 1430 sub-activity organization contacts are included in the 'seed contact' list.  The funding codes can be added in the description text box \(i.e. FWS sub-activity 1420; fundcode:190\).  At some point in the future, mdEditor may include additional fields for these values. If funds are provided from multiple sub-activities, allocations should be entered separately.
+In order to better integrate budgeting records and align with activity tracking priorities, add the FWS sub-activity code and funding code in the Allocation comments. Also add the funding For example, the text entry may look like this:  FWS sub-activity 1420, fundcode 190, contract.  If funds are provided from multiple sub-activities, please add this in the description \(i.e. FWS sub-activity 1430, fundcode 170, $30,000: sub-activity 1420, fundcode 170, $10,000\). At some point in the future, mdEditor may include additional fields for these values.
+
+![Example budgeting information in Allocation Description](../.gitbook/assets/image%20%2819%29.png)
 
 #### Matching and In-kind Funds
 
