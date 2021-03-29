@@ -12,11 +12,11 @@ The Metadata tab describes your project's metadata, including a description that
 
 ## Basic Information
 
-### Metadata Status \(Required\)
+### Metadata Status
 
 Select the appropriate status of the creation of your metadata from the drop down menu. For example, if you have added all of your metadata, select _"completed."_ If you still have metadata to add, select _"onGoing."_
 
-### Dates \(Required\)
+### Dates
 
 Add at least one date is required. Recommended are "creation" \(when you first created your metadata\) and "lastUpdate" \(when you updated metadata after initial publication\). 
 
@@ -84,7 +84,7 @@ The ScienceBase identifier is the alphanumeric string in the item's URL immediat
 
 **Metadata Repositories** indicate where the metadata will be sent upon publishing.
 
-### SA Science Catalog \(Required\)
+### SA Science Catalog
 
 For projects that should be listed in the SA Science Catalog: Select _“ScienceCatalog”_ from the repository list. _“SA Science Catalog”_ should automatically show up as the collection title. If the collection title does not appear, stop and enter the correct information in [Settings](../settings.md). Then select the repository for your project. Projects without the correct tag and collection title will not show up in the Science Catalog.
 

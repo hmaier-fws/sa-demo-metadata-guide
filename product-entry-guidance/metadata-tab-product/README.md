@@ -17,6 +17,10 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 Select the appropriate status of the creation of your metadata from the drop-down menu. For example, if you have added all of your metadata, select "**completed**." If you still have metadata to add, select "**onGoing**."
 
+### Dates
+
+Enter a creation date or last updated date.  At least one of these dates is required.
+
 ## Metadata Contacts
 
 **Metadata Contacts** are required and selected from your list of contacts. Adding a metadata contact will give LCC staff a contact point should they have any questions about the metadata.

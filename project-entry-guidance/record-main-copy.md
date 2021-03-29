@@ -17,11 +17,11 @@ The **Main** tab allows for the creation and/or editing of primary metadata.
 
 Record ID will be auto-generated. It can be edited but it should only be edited if absolutely necessary \(and ideally edited as soon as the record is created in mdEditor\).
 
-### Title \(Required\)
+### Title
 
 Enter as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable.
 
-### Status \(Required\)
+### Status
 
 The **Status** drop-down menu allows you to select the status of your project. Choose status ONLY from the four following options: _completed, ongoing, proposed, or accepted._
 
@@ -33,7 +33,7 @@ The **Status** drop-down menu allows you to select the status of your project. C
 
 ![](../.gitbook/assets/default_locale.png)
 
-## Resource Types \(Required\)
+## Resource Types
 
 For projects, the Resource Type should be automatically filled in with the resource type you selected when you created your record. This should be "project" for all SA projects. Name is optional - you can leave this blank or enter a shorten project name.
 
@@ -96,11 +96,11 @@ To add contacts to a metadata record, you must first create/upload the contacts 
 | principalInvestigator | The Project PI | Required |
 | coPrincipalInvestigator | co investigators | Required, if applicable |
 
-#### Online Resource \(Required, if available\)
+#### Online Resource
 
-Enter the Name and URL for the project homepage on your LCC website.
+Enter the Name and URL for the project homepage website, if available.
 
-#### Identifier \(Required\)
+#### Identifier
 
 You may enter as many identifiers as desired. The identifier for the repository is required here. If you have other internal IDs for projects, enter them here. Other optional identifiers for projects include: [Archive](../metadata-improvements/archiving.md) Folder Name. 
 
@@ -118,7 +118,7 @@ If your item does not have a ScienceBase ID yet, ScienceBase will create one aut
 
 **Description** allows for the addition of the **Abstract** as well as a Short Abstract, and Supplemental Information.
 
-### Abstract \(Required\)
+### Abstract
 
 Enter an abstract that succinctly describes the project's purpose and goals. Include key species or habitats as well.
 
@@ -126,15 +126,15 @@ Enter an abstract that succinctly describes the project's purpose and goals. Inc
 Tip: Write your project abstract in the present tense if the project is in progress and past tense if the project has been completed.
 {% endhint %}
 
-### Short Abstract \(Optional\)
+### Short Abstract
 
 Enter a short description, limited to 300 characters, if desired. By default, mdEditor will fill the short abstract with the first 300 characters of the abstract.  Best practice is a public outreach abstract for pubic affairs purposes.
 
-### Purpose \(Best Practice\)
+### Purpose
 
 Enter a short narrative about the purpose of the resource such as the issue or problem that the resource is designed to address and anticipated results or benefits.  This aligns with SA Internal Tracking metadata.
 
-### Supplemental Information \(Optional\)
+### Supplemental Information
 
 Enter comments, if desired.
 
@@ -148,7 +148,7 @@ Enter comments, if desired.
 This set of dates is distinct from the fiscal year of funding. Here you want to indicate the overall project start and end dates. In the Funding section you will specify the fiscal years that funds were allocated.
 {% endhint %}
 
-### Dates \(Required\)
+### Dates
 
 For each project, add a Start Date and End Date. If the project spanned a single fiscal year, you can use the “Pick a Fiscal Year” dropdown to autofill the date fields.
 
