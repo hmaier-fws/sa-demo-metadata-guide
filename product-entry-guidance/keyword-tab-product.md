@@ -1,11 +1,10 @@
 # Keywords Tab: Product
 
-Adding keywords to your metadata record allows for the record to be found later through a search engine, keywords are the way to tag your projects or products. The mdEditor is designed using thesauruses that contain pre-determined keywords. These thesauruses create a 'controlled vocabulary' so that all LCC staff adding metadata can adhere to the same standards, and future search results can return clear results of projects and products.
+Adding keywords to your metadata record allows for the record to be found later through a search engine, keywords are the way to tag your projects or products. The mdEditor is designed using thesauruses that contain pre-determined keywords. These thesauruses create a 'controlled vocabulary' so that all SA staff adding metadata can adhere to the same standards, and future search results can return clear results of projects and products.
 
 | Quick Reference: Product Keywords Tab | Required? |
 | :--- | :--- |
 | ISO Topic Category | Required |
-| LCC End User Types | Required |
 | GCMD Keywords | Best Practice |
 
 ## To add Keywords to your Metadata Record
@@ -14,11 +13,11 @@ Adding keywords to your metadata record allows for the record to be found later 
 2. Add keywords from the following pre-populated thesauruses.
 3. If none of the keywords in the following categories are sufficient for tagging your record, you can create a custom thesaurus \(see below for more information\).
 
-### LCC Product Required Keywords
+### Product Required Keywords
 
 #### ISO Topic Category \(Required\)
 
-Because mdJSON metadata is based on the ISO \(International Organization for Standardization\) metadata standard, all LCC projects must select at least one ISO Topic Category. ISO topics were generally meant for spatial data so they might be a bit of a stretch, but do your best to find the best fit. mdEditor provides definitions of each ISO topic category if you hover over the ? icon.
+Because mdJSON metadata is based on the ISO \(International Organization for Standardization\) metadata standard, all LCC projects must select at least one ISO Topic Category. ISO topics were generally meant for spatial data so they might be a bit of a stretch, but do your best to find the best fit. mdEditor provides definitions of each ISO topic category if you hover over the **?** icon.
 
 ISO Topic List:
 
@@ -42,29 +41,12 @@ ISO Topic List:
 18. utilitiesCommunication
 
 {% hint style="info" %}
-Tip: Biota and environment are probably the best fit for most LCC projects.
+Tip: Biota and environment are probably the best fit for most SA projects.
 {% endhint %}
-
-#### LCC End User Types \(Required\)
-
-LCC End User Types list:
-
-1. Academics & scientific researchers
-2. Conservation NGOs
-3. Federal resource managers
-4. Hunters & anglers
-5. Interested public
-6. K-12 students & teachers
-7. Other
-8. Policy makers & regulators
-9. Private land owners
-10. Regional & county planners
-11. State agencies
-12. Tribes
 
 #### GCMD Keywords \(Best Practice\)
 
-GCMD stands for Global Change Master Directory and these keywords are maintained by NASA. Look for useful keywords in the GCMD Science Keywords. There are GCMD Platforms and Instruments Keywords but they are unlikely to apply to LCCs.
+GCMD stands for Global Change Master Directory and these keywords are maintained by NASA. Look for useful keywords in the GCMD Science Keywords. There are GCMD Platforms and Instruments Keywords but they are unlikely to apply to SA products.
 
 {% hint style="info" %}
 Best Practice: Check the "Full Path" checkbox to save the full path of the keyword to your metadata. This will maintain the category and context of the specific keywords chosen.
@@ -72,7 +54,7 @@ Best Practice: Check the "Full Path" checkbox to save the full path of the keywo
 
 ## Custom Thesaurus
 
-If any of your desired keywords do not appear in the existing thesauruses, you can add them via the custom thesaurus. Use a custom thesaurus only for keywords that are not available in an existing thesaurus. For example, if a certain end user type is not available in the LCC End User Types thesaurus, you can add the type using the custom thesaurus.
+If any of your desired keywords do not appear in the existing thesauruses, you can add them via the custom thesaurus. Use a custom thesaurus only for keywords that are not available in an existing thesaurus.
 
 You cannot add keywords to an existing thesaurus; you can only add keywords in a custom thesaurus.
 
@@ -81,11 +63,11 @@ You cannot save a custom thesaurus in mdEditor.
 {% endhint %}
 
 {% hint style="info" %}
-Tip: If you have a consistent set of keywords that you use across your LCC's projects, you could add these to a "template project" record in mdEditor and then modify the specific keywords you need for each project. See the workflow section for more info about using template records.
+Tip: If you have a consistent set of keywords that you use across your projects or products, you could add these to a "template project" record in mdEditor and then modify the specific keywords you need for each entry. See the workflow section for more info about using template records.
 {% endhint %}
 
 {% hint style="info" %}
-Look for useful keywords in the GCMD Science Keywords. GCMD Science keywords would be the only ones applicable to LCCs. There are GCMD Platforms and Instruments but they are unlikely to apply to LCCs.
+Look for useful keywords in the GCMD Science Keywords. GCMD Science keywords are the most applicable to SA. There are GCMD Platforms and Instruments keywords, but they are unlikely to apply to SA.
 {% endhint %}
 
 ## Keywords and ScienceBase
