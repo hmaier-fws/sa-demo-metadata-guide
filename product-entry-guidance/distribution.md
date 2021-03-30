@@ -6,7 +6,7 @@
 An online distribution link is required for any products sent to data.gov.
 {% endhint %}
 
-| Quick Reference: Required for LCC Products | Required? |
+| Quick Reference: Required for SA Products | Required? |
 | :--- | :--- |
 | Contacts and Role | Required |
 | Transfer Options: Online Option | Required |
