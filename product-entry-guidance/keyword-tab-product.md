@@ -77,14 +77,16 @@ Look for useful keywords in the GCMD Science Keywords. GCMD Science keywords are
 mdEditor uses the term "keywords" while ScienceBase uses the term "tags."
 
 {% hint style="info" %}
-Keywords edited in mdEditor will not overwrite keywords stored in sbJSON on ScienceBase because ScienceBase only adds to the list of tags. If you do not want obsolete keywords/tags to show up on ScienceBase, you will need to manually delete in ScienceBase. mdJSON and the LCC Science Catalog, however, will reflect any changes made in mdEditor.
+Keywords edited in mdEditor will not overwrite keywords stored in ScienceBase \(i.e. sbJSON\) because ScienceBase only adds to the list of tags. If you do not want obsolete keywords/tags to show up on ScienceBase, manually delete these in ScienceBase. mdJSON and the SA Science Catalog, however, will reflect any changes made in mdEditor.
 {% endhint %}
 
 ### Imported Keywords
 
-If you imported your product metadata from ScienceBase, then the ScienceBase keywords are each created in a custom thesaurus.
+If you imported your product metadata from ScienceBase, then the ScienceBase tags are each created as a keyword in a custom thesaurus.
 
-If your LCC already has a controlled vocab list in ScienceBase, unfortunately it cannot connect to mdEditor. The selected keywords for any specific record will import into mdEditor but the saved list will not.
+Controlled vocab list in ScienceBase cannot connect to mdEditor. The selected keywords for any specific record will import into mdEditor, but the saved list will not be.
 
-![](../.gitbook/assets/keywords_window.png)
+![Example ISO Topic Category keyword entry](../.gitbook/assets/keywords_window.png)
+
+
 
