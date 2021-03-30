@@ -4,9 +4,9 @@
 
 | Quick Reference: Product Extent Tab | Required? |
 | :--- | :--- |
-| Extent | Required \(\*New Required Metadata Improvement\) |
+| Extent | Required |
 
-Spatial extents should be included for all applicable products. As a default, products can inherit extents from their parent project. geoJSON files for all LCC geographies are available on [ScienceBase](https://www.sciencebase.gov/catalog/item/5bd7c96fe4b0b3fc5ce82d44) \(private DMWG folder that requires ScienceBase login\). Download the relevant files and then import into mdEditor.
+Spatial extents should be included for all applicable products. As a default, products should inherit extents from their parent project. geoJSON files for specific geographies are available on [ScienceBase](https://www.sciencebase.gov/catalog/item/5bd7c96fe4b0b3fc5ce82d44) \(private DMWG folder that requires ScienceBase login\). Download the relevant files and then import the geoJSON files into mdEditor.
 
 {% hint style="info" %}
 Tip: You can export, save, and import an extent to use for other projects or products.
