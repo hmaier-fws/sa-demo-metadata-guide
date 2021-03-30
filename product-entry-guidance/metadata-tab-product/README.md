@@ -38,7 +38,7 @@ Enter a creation date or last updated date.  At least one of these dates is requ
 * Publisher can also include the FWS region and/or program.
 * The point of contact should be a regional or national data steward.
 
-![Example Contact Metadata entry](../../.gitbook/assets/image%20%2823%29.png)
+![Example Contact Metadata entry](../../.gitbook/assets/image%20%2824%29.png)
 
 ## Metadata Identifier
 
@@ -95,5 +95,7 @@ For products that should be sent to data.gov: Select "data.gov" from the reposit
 The Metadata Repository and Collection Title must be exactly the same for each of your LCC's records with no variations in spelling, spaces, capitalization, etc. Specifying this information in Settings is the best way to ensure the repository information will be consistent across all of your records. It strongly recommended that you do not type these in by hand on individual metadata records.
 {% endhint %}
 
-![](../../.gitbook/assets/product_metadata.png)
+![Example Metadata Repository entry](../../.gitbook/assets/image%20%2823%29.png)
+
+
 
