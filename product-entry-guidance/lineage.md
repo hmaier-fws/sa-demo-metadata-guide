@@ -1,6 +1,6 @@
 # Lineage Tab: Product
 
-**Lineage** is used to track the process of building spatial datasets. It's a space that can be used to describe the steps and sources used to create the product, and document the roles and contacts for the product contributors. Completing the lineage tab is recommended, but not required.
+**Lineage** is used to track the process of building datasets. It is most relevant for spatial datasets, but can be used for any dataset. Lineage entries are used to describe the steps and sources used to create the product, and document the roles and contacts for the product contributors. Completing the lineage tab is recommended, but not required.
 
 * **Statement** \(Required\): Notes actions taken to verify, transform, repair, and integrate the resource.
 * **Process Step** \(Optional\): Consult the [**Process Step**](https://github.com/tpatterson1996/lcc-metadata-manual/tree/287090b07635d0e76a714278ce1f6c4aac3594cc/product-entry-guidance/lineage/process-step.md) section of this manual to learn how to add information about the creation of your project.
@@ -8,11 +8,11 @@
 * **Citation** \(Optional\): If you have a citation for a manual, enter it here. _This can be done instead of completing all other fields in this tab._ 
 * **Scope** \(Optional\): Select type from the picklist. 
 
-![](../.gitbook/assets/lineage_window.png)
+![Example lineage editing view](../.gitbook/assets/lineage_window.png)
 
 ## Product Entry Guidance: Process Step
 
-**Process Step** allows for documentation of the steps taken to build spatial data.
+**Process Step** allows for documentation of the steps taken to build a dataset.
 
 _The following are available and required:_
 
