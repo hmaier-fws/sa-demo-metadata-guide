@@ -5,7 +5,7 @@ Adding keywords to your metadata record allows for the record to be found later 
 | Quick Reference: Product Keywords Tab | Required? |
 | :--- | :--- |
 | ISO Topic Category | Required |
-| LCC End User Types | Required \(\*New Required Metadata Improvement\) |
+| LCC End User Types | Required |
 | GCMD Keywords | Best Practice |
 
 ## To add Keywords to your Metadata Record
