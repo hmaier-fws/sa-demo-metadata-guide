@@ -38,7 +38,7 @@ Enter a creation date or last updated date.  At least one of these dates is requ
 * Publisher can also include the FWS region and/or program.
 * The point of contact should be a regional or national data steward.
 
-![Example Contact Metadata entry](../../.gitbook/assets/image%20%2820%29.png)
+![Example Contact Metadata entry](../../.gitbook/assets/image%20%2823%29.png)
 
 ## Metadata Identifier
 
@@ -50,6 +50,8 @@ The **Metadata Identifier** is automatically populated by mdEditor. The metadata
 {% hint style="danger" %}
 Once a Metadata Identifier is created in the metadata, do not change it. mdEditor uses the Metadata Identifier to connect records and changing the Metadata Identifier can break those connections. If there are additional identifiers you want to include in your metadata record, include them in [Main/Citation/Identifier](./#identifier-best-practice).
 {% endhint %}
+
+![Example auto-generated Metadata identifier entry](../../.gitbook/assets/image%20%2821%29.png)
 
 ## Parent Metadata
 
@@ -75,13 +77,15 @@ Defines the location of the parent folder in ScienceBase.
 The ScienceBase identifier is the alphanumeric string in the item's URL immediately following "**item/**". For example, **59b97600e4b091459a54d9f3c** is the SBID for the item at the URL: [https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c](https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c)
 {% endhint %}
 
+![Example Parent Metadata entry ](../../.gitbook/assets/image%20%2819%29.png)
+
 ## Metadata Repositories
 
 **Metadata Repositories** indicate where the metadata will be sent upon publishing.
 
-### LCC Science Catalog
+### SA Science Catalog
 
-For products that should be listed in the LCC Science Catalog: Select _“LCCScienceCatalog”_ from the repository list. _“LCC Network Science Catalog”_ should automatically show up as the collection title. If the collection title does not appear, stop and enter the correct information in [Settings](../../settings.md). Then select the repository for your project. Products without the correct tag and collection title will not show up in the Science Catalog.
+For products that should be listed in the SA Science Catalog: Select _“ScienceCatalog”_ from the repository list. _“SA Science Catalog”_ should automatically show up as the collection title. If the collection title does not appear, stop and enter the correct information in [Settings](../../settings.md). Then select the repository for your project. Products without the correct tag and collection title will not show up in the Science Catalog.  
 
 ### data.gov
 

@@ -32,7 +32,7 @@ _These must be implemented before you begin creating metadata records._
 
 **\(2\) Metadata Repositories**: In the Defaults section, add two Metadata Repositories.
 
-1. Select **ScienceCatalog** from the Repository drop-down menu. Enter “SA Science Catalog” as the collection title.
+1. Select **ScienceCatalog** from the Repository drop-down menu. Enter “SA Science Catalog” as the collection title. It is important that the text is entered exactly as written to be included in the Science Catalog.
 2. Select **data.gov** from the Repository drop-down menu. For the collection title, enter "Data.gov USFWS Science Applications". 
 
 ![Science Applications settings](.gitbook/assets/image%20%287%29.png)
