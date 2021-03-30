@@ -1,8 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [SA Science Metadata Catalog](lcc-science-catalog.md)
 * [Goals of SA Data Management](background.md)
+* [SA Science Metadata Catalog](lcc-science-catalog.md)
+* [Policy Guidance](policy-guidance.md)
 * [Projects, Products, Contacts](lcc-projects-products-contacts.md)
 * [Workflow](getting-started/README.md)
   * [From Scratch](getting-started/from-scratch.md)
