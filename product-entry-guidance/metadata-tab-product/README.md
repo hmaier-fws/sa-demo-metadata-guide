@@ -38,6 +38,8 @@ Enter a creation date or last updated date.  At least one of these dates is requ
 * Publisher can also include the FWS region and/or program.
 * The point of contact should be a regional or national data steward.
 
+![Example Contact Metadata entry](../../.gitbook/assets/image%20%2820%29.png)
+
 ## Metadata Identifier
 
 The **Metadata Identifier** is automatically populated by mdEditor. The metadata identifier gives each of your projects and products a unique ID and differentiates them from other similar projects and products.  Note this is difference from a Digital Object Identifier which is linked directly to the dataset.
