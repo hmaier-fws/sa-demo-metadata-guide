@@ -69,7 +69,7 @@ In some cases, funds are marked for specific activities and include reporting re
 
 In order to better integrate budgeting records and align with activity tracking priorities, add the FWS sub-activity code and funding code in the Allocation comments. Also add the funding For example, the text entry may look like this:  FWS sub-activity 1420, fundcode 190, contract.  If funds are provided from multiple sub-activities, please add this in the description \(i.e. FWS sub-activity 1430, fundcode 170, $30,000: sub-activity 1420, fundcode 170, $10,000\). At some point in the future, mdEditor may include additional fields for these values.
 
-![Example budgeting information in Allocation Description](../.gitbook/assets/image%20%2820%29.png)
+![Example budgeting information in Allocation Description](../.gitbook/assets/image%20%2819%29%20%281%29.png)
 
 #### Matching and In-kind Funds
 

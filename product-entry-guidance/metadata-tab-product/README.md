@@ -38,6 +38,8 @@ Enter a creation date or last updated date.  At least one of these dates is requ
 * Publisher can also include the FWS region and/or program.
 * The point of contact should be a regional or national data steward.
 
+![Example Metadata Contacts entry](../../.gitbook/assets/image%20%2820%29.png)
+
 ![Example Contact Metadata entry](../../.gitbook/assets/image%20%2824%29.png)
 
 ## Metadata Identifier
