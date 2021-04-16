@@ -6,7 +6,7 @@
 | :--- | :--- |
 | Use Limitation | Optional |
 | Legal | Required |
-| Security Constraints | Optional |
+| Security Constraints | Best Practice |
 
 ## Use Limitation
 
