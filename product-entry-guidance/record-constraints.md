@@ -5,7 +5,7 @@
 | Quick Reference: Product Constraints Tab | Required? |
 | :--- | :--- |
 | Use Limitation | Optional |
-| Legal | Optional |
+| Legal | Required |
 | Security Constraints | Optional |
 
 ## Use Limitation
@@ -24,15 +24,27 @@ If your product is licensed, let people know here. Typically files used will be 
 * **Use constraints**: How the product should be used.
 * **Other constraints:** This is a place to put standard disclaimers.
 
-![](../.gitbook/assets/legal.png)
+Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection under [17 U.S.C. § 105](http://www.copyright.gov/title17/92chap1.html#105). Government works are by default in the U.S. Public Domain. If no other open license applies, the following URL should be used in the license field.
+
+```text
+http://www.usa.gov/publicdomain/label/1.0/
+```
+
+The default U.S. Public Domain status of U.S. Government Works is limited to the jurisdiction of the United States. A public domain status is applicable internationally for works produced by government employees, by using a worldwide public domain dedication such as [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). This assures users of U.S. Government Works that they have full permission to freely use the work internationally. When Creative Commons Zero has been applied, the following URL should be used for in the license field.
+
+```text
+https://creativecommons.org/publicdomain/zero/1.0/
+```
+
+![Example legal constraint entry for U.S. Government Works open license](../.gitbook/assets/image%20%2827%29.png)
 
 ## Security Constraints
 
- ****A place to describe constraints or restrictions pertaining to security of the resource. Choose classification from the drop-down menu.
+ ****A place to describe constraints or restrictions pertaining to security of the resource. Choose classification from the drop-down menu. For products without restrictions, best practice is to indicate 'unclassified' from the security classification dropdown menu.
 
 {% hint style="info" %}
 Classification is the class of security \(e.g., top secret, public access\).
 {% endhint %}
 
-![](../.gitbook/assets/security.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
