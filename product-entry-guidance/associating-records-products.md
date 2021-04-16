@@ -1,6 +1,6 @@
 # Associating Records: Product
 
-The **Associated** section is used to connect metadata records with each other. This feature should be used when items are related. For example, products are often the result of projects, and projects can have sub-projects. Projects and Products can be linked together by using association. Adding associations will give LCC staff the ability to find items that relate to each other in ScienceBase.
+The **Associated** section is used to connect metadata records with each other. This feature should be used when items are related. For example, products are often the result of projects, and projects can have sub-projects. Projects and products can be linked together by using an association. Adding associations will allow users to find items that relate to each other quickly and easily.
 
 {% hint style="info" %}
 In ScienceBase, **Associated Records** are referred to as **Item Associations**.
@@ -12,13 +12,13 @@ Remember: Project-product associations are different than parent-child relations
 
 ## Create Associations
 
-In mdEditor you can either create the association from the Project record or the Product record. The "Association Type" will define the association from your current record to the linked record. Specifying the "Linked Association Type" will create the association from the other direction.
+In mdEditor, the association can be created either from the Project record or the Product record. The "Association Type" will define the association from your current record to the linked record. Specifying the "Linked Association Type" will create the association from the other direction.
 
-{% hint style="info" %}
-Important: It is recommended you ALWAYS specify the Linked Association Type when you create associations. This will ensure the associations are defined from both directions and be present in the metadata no matter how the metadata is translated or where it is used in the future.
+{% hint style="warning" %}
+Important: It is recommended you ALWAYS specify the Linked Association Type when you create associations. This will ensure the associations are defined from both directions and be present in the metadata regardless of how the metadata is translated or where it is used in the future.
 {% endhint %}
 
-If you import records from ScienceBase, the record associations might be automatically created, but sometimes you may have to create the associations manually \(as described below\). Associations can only be made after both project and product records have been created in mdEditor.
+If records are imported from ScienceBase, the record associations might be automatically created, but sometimes the associations may need to be recreated manually \(as described below\). Associations can only be made after both project and product records have been created in mdEditor.
 
 | Quick Reference: Creating an Association in a Product Record |
 | :--- |
