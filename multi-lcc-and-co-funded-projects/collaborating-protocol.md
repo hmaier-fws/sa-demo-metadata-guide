@@ -4,21 +4,21 @@
 
 Refer to this protocol if:
 
-* Multiple LCCs collaborate on a single project where only one LCC provided funding \(the funding LCC is the lead LCC\). There can only be one lead LCC per project.
+* Multiple regions collaborate on a single project where only one region provided funding \(the funding region is the lead\). There can only be one lead region per project.
 
 ## Metadata Responsibility
 
-The lead LCC data manager is responsible for project and product metadata. There should only be one metadata record for each collaborating project and product. These records will show up and be searchable in the Science Catalog for each collaborating LCC identified in the metadata.
+The lead region data manager is responsible for project and product metadata. There should only be one metadata record for each collaborating project and product. These records will show up and be searchable in the Science Catalog for each collaborating regions identified in the metadata.
 
 {% hint style="info" %}
-If the project is collaborative between multiple LCCs but does not involve any funding allocations, the relevant LCCs should determine who will be the lead LCC and be responsible for entering the metadata.
+If the project is collaborative between multiple regions but does not involve any funding allocations, the relevant regions should determine who will be the lead region and be responsible for entering the metadata.
 {% endhint %}
 
-In addition to standard metadata requirements, enter the following for projects with multiple LCC collaborators:
+In addition to standard metadata requirements, enter the following for projects with multiple regional collaborators:
 
 ## Main/Point of Contacts
 
-Add the collaborating LCC\(s\) as a “collaborator.”
+Add the collaborating region\(s\) as a “collaborator.”
 
 ## Main/Citation/Responsible Parties
 

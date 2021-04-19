@@ -31,11 +31,11 @@ The goals for these guidelines are:
 
 **Collaborating Project**: One region leads a project with joint support or cooperation in the form of advisory consultation or staff time from another region. The collaborating region may or may not provide funding support.
 
-**Sub-Project** or Project Continuation: One LCC \(LCC A\) is the lead LCC for a large project, while another LCC \(LCC B\), funds a distinct sub-project or distinct deliverable of the overarching project and likewise for LCC/CASC projects.
+**Sub-Project** or Project Continuation: One region \(Region A\) is the lead region for a large project, while another region \(Region B\), funds a distinct sub-project or distinct deliverable of the overarching project and likewise for FWS/CASC projects.
 
-**Multi-LCC Co-funded Project**: One LCC leads a project with funding support from another LCC\(s\). The project cannot be divided into distinct sub-projects.
+**Multi-regional Co-funded Project**: One region leads a project with funding support from another region\(s\). The project cannot be divided into distinct sub-projects.
 
-**LCC/CASC Co-funded Project**: LCC\(s\) and CASC\(s\) co-fund a project without distinct sub-projects.
+**FWS/CASC Co-funded Project**: FWS region\(s\) and CASC\(s\) co-fund a project without distinct sub-projects.
 
 ![](https://lh6.googleusercontent.com/JJ8rqLfBuc4NEoF9KxTtojXjrNVchQmcaDuXyU1WGG1g3IHT4GXl8oE0p74P6urP_mREnvjS1GZFgyue59jhQT7M8ok-Cop8Ru8qGQFKjUsY77tFLMtcBdpTLGyxA2d965bARVqz)_Figure 1: Protocol Decision Flow Chart_
 
