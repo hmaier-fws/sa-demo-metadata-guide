@@ -102,7 +102,7 @@ Enter the Name and URL for the project homepage website, if available.
 
 #### Identifier
 
-You may enter as many identifiers as desired. The identifier for the repository is required here. If you have other internal IDs for projects, enter them here. Other optional identifiers for projects include: [Archive](../metadata-improvements/archiving.md) Folder Name. 
+You may enter as many identifiers as desired. The identifier for the repository is required here. If you have other internal IDs for projects, enter them here. Other optional identifiers for projects include: [Archive](../archiving.md) Folder Name. 
 
 {% hint style="info" %}
 **Best Practice**: Create and use internal identifiers that are unique within your region or program for projects and their products. Example: GNLCC2010-11.

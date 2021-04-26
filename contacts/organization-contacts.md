@@ -18,10 +18,10 @@ _The following fields are available for **Organization Contacts:**_
   * If an organization has a logo associated with it, individuals will inherit the logos from the organization.
 
 {% hint style="danger" %}
-If you upload a logo to your contact record, you must include a filename for the logo. Otherwise you will get an error on the metadata records that include that contact.
+If you upload a logo to your contact record, you must include a filename for the logo. Otherwise, an error will occur n the metadata records that include that contact.
 {% endhint %}
 
-![](../.gitbook/assets/organization_contact_page.png)
+
 
 > For more information, consult the [**Organization Contacts**](https://adiwg.gitbooks.io/mdeditor/content/contact/new/organization.html) ****section of the mdEditor manual.
 
