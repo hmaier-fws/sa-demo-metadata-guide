@@ -8,7 +8,7 @@ This manual describes the requirements and best practices for the creation of hi
 
 ### Metadata and mdEditor
 
-The metadata editing tool employed to create and support the metadata requirements is mdEditor. This tool was an extension of an initiative by the [Alaska Data Integration Working Group](http://www.adiwg.org/about/) \([ADIwg](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#adiwg)\) and adopted by SA.
+The metadata editing tool employed to create and support metadata requirements is mdEditor. This tool was an extension of an initiative by the [Alaska Data Integration Working Group](http://www.adiwg.org/about/) \([ADIwg](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#adiwg)\) and adopted by SA.
 
 This manual refers to the creation of SA metadata specifically. If you want information on the creation of other metadata records using mdEditor, or more information in general, please refer to the [mdEditor User Manual](https://adiwg.gitbooks.io/mdeditor/content/).
 
