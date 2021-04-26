@@ -59,7 +59,9 @@ In most cases, a program or region has allocated the funding for a project.  In 
 Funding administrator can also be used to differentiate funding from different programs/offices within the same agency. For example, the U.S. Fish and Wildlife Service can be identified as the funding source and the funding administrator may also include "Ecological Services" or a specific field office.
 {% endhint %}
 
-In some cases, funds are marked for specific activities and include reporting requirements accompany the funding allocations.  For example, EPA allocates Great Lakes Restoration Initiative \(GLRI\) funds on behalf of Congress to FWS, among others. FWS then distributes the funds across programs for use.  This funding flow can be tracked and aggregated with the Funding Other Contacts.  Add the Name of the funding source as an organization contact and add the funding source as the "_funder_" in Funding Other Contacts.
+#### Marked Funding
+
+In some cases, funds are marked for specific activities and include reporting requirements that accompany the funding allocations.  For example, EPA allocates Great Lakes Restoration Initiative \(GLRI\) funds on behalf of Congress to FWS, among others. FWS then distributes the funds across programs for use. The Gulf Coast Restore funds are a similar case. This funding flow can be tracked and aggregated with the Funding Other Contacts.  Add the Name of the funding source as an organization contact and add the funding source as the "_funder_" in Funding Other Contacts.
 
 ![Example of organizational fund contact entry](../.gitbook/assets/image%20%2812%29.png)
 
