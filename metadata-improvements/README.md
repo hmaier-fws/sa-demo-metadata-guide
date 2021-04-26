@@ -1,30 +1,12 @@
-# Other Requirements
+---
+description: 'If you find an issue and have a solution to share, please contact the DMWG.'
+---
 
-The following is a list of LCC metadata improvements based on QA/QC of the initial metadata and other modifications identified that will make the Science Catalog function as intended and needed. This page is temporary and will be removed from the LCC Metadata Manual after the Metadata Improvements round has concluded.
+# Trouble-shooting Tips
 
-## **Timeline for Metadata Improvements**
+## Records fail to update to the SA Science Catalog:
 
-* October 17 \(Wednesday\): Metadata improvements round begins.
-  * Concurrently HQ will be working with DJ Case to complete the Science Catalog development and update needed functionality and search filters.
-* Between October 17 and 24: New Taxonomy functionality available in mdEditor.
-* December 7 \(Friday\): Deadline to complete metadata improvements \(by start of SA National Program Meeting\). The Science Catalog will also be updated by this date. This provides approximately 8 weeks for improvements, QA/QC, etc.
-
-## **Definitions**
-
-### **Metadata Categories:**
-
-1. QA/QC Fixes: These are common and recurring errors in the metadata that need to be fixed and are based upon the original metadata requirements.
-2. New Required Improvements: These are new requirements for metadata that have been previously undefined \(or were previously optional rather than required\).
-3. Optional Improvements: These are optional improvements that will improve the metadata but are not required.
-
-### **Priority Level:**
-
-1. Must Do: These improvements are required and essential for ensuring consistency across metadata records and functionality of the Science Catalog.
-2. Lower Priority: These improvements are lower priority compared to the rest of the list, but are still recommended to address if possible.
-
-## **Important Note Before You Begin**
-
-If you have any items where the mdJSON did not publish to ScienceBase, those items are not currently in the Science Catalog and the automated QA/QC checks from DJ Case will NOT be able to identify issues with those records. It is strongly recommended that you check the [ScienceBase scanner](http://calcommons.info/sb2/scansb.php) for any SB records that are missing mdJSON and re-publish those records before proceeding through metadata improvements. Remember that newly-published mdJSON will not be reflected in the Science Catalog until the following day \(it updates daily overnight\).
+Occasionally,  an item may seem to publish correctly to ScienceBase when if fact, the mdJSON did not publish.  ScienceBase items without mdJSON file attachements are not in the Science Catalog nor will the automated QA/QC checks identify issues with those records. It is strongly recommended that you check the [ScienceBase scanner](http://calcommons.info/sb2/scansb.php) for any SB records that are missing mdJSON and re-publish those records before proceeding through metadata improvements. Remember that newly-published mdJSON will not be reflected in the Science Catalog until the following day \(it updates daily overnight\).
 
 ## Must Do: mdEditor Files
 
