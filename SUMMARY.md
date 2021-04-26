@@ -62,7 +62,7 @@
   * [How to Publish](publish/how-to-publish.md)
   * [Re-Publishing](publish/re-publishing.md)
 * [Trouble-shooting Tips](metadata-improvements/README.md)
-  * [Archiving](metadata-improvements/archiving.md)
+  * [Archiving Requirements](metadata-improvements/archiving.md)
   * [QA/QC Fixes](metadata-improvements/qaqc-fixes/README.md)
     * [QA/QC Resources](metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md)
   * [New Required Improvements](metadata-improvements/new-required-improvements.md)
