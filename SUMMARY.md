@@ -67,7 +67,7 @@
     * [QA/QC Resources](metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md)
   * [New Required Improvements](metadata-improvements/new-required-improvements.md)
   * [Optional Improvements](metadata-improvements/optional-improvements.md)
-* [Bulk Editing Assistance](other-resources/README.md)
+* [Bulk Editing Resources](other-resources/README.md)
   * [Injector Script: Funding](other-resources/injector-script-funding.md)
   * [Injector Script: Distribution Links](other-resources/injector-script-distribution-links.md)
 * [Help](help.md)
