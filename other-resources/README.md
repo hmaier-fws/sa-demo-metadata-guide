@@ -1,4 +1,4 @@
-# Bulk Editing Resources
+# Other Resources
 
 The resources below may be of assistance as you create and edit your metadata.
 

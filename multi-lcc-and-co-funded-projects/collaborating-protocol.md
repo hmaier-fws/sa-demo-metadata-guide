@@ -4,7 +4,7 @@
 
 Refer to this protocol if:
 
-* Multiple regions collaborate on a single project where only one region provided funding \(the funding region is the lead\). There can only be one lead region per project.
+* Multiple regions may collaborate on a single project where only one region provided funding \(this funding region is the lead\). There can only be one lead region per project.
 
 ## Metadata Responsibility
 
@@ -22,17 +22,17 @@ Add the collaborating region\(s\) as a “collaborator.”
 
 ## Main/Citation/Responsible Parties
 
-Add the collaborating LCC\(s\) as a “collaborator.”
+Add the collaborating region\(s\) as a “collaborator.”
 
 {% hint style="info" %}
-The lead LCC should be listed as “administrator” and does not need to be added again as a “collaborator.”
+The lead region should be listed as “administrator” and does not need to be added again as a “collaborator.”
 {% endhint %}
 
-![](https://lh3.googleusercontent.com/SmpEd4mpmmMhWgQCiUf5yRg6EIM-iaNp1uhg_mzhd9bWyH1qHAsIaFgfH145AAqMd3DU7d6f5XacR3LR2NsTpO70Icwk0AaeIzSg79oK8EFvXTAD0XiL3sh4t-vLQCWPFmiUOHWb)_Figure 2: Example of mdEditor entry for Main/Point of Contact for a multi-LCC project. Here, UMGL LCC led the project with funding support from ETPBR LCC._
+![](https://lh3.googleusercontent.com/SmpEd4mpmmMhWgQCiUf5yRg6EIM-iaNp1uhg_mzhd9bWyH1qHAsIaFgfH145AAqMd3DU7d6f5XacR3LR2NsTpO70Icwk0AaeIzSg79oK8EFvXTAD0XiL3sh4t-vLQCWPFmiUOHWb)\_\_
+
+_Figure 2: Example of mdEditor entry for Main/Point of Contact for a multiple regional project. Here, UMGL LCC led the project with funding support from ETPBR LCC._
 
 ## Metadata/Metadata Contacts
 
-Include the lead LCC in Metadata Contacts \(choosing the appropriate role - see [Metadata Tab: Project](../project-entry-guidance/metadata-tab.md) for more info\).
-
-Collaborating LCCs do not need to be listed here.
+Include the lead region in Metadata Contacts \(see [Contact Entry Guidance](../contacts/)\).
 
