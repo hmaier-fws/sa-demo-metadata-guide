@@ -81,7 +81,7 @@ _You **have** existing parent-child relationships on ScienceBase and/or you have
    You cannot publish a record without a parent ID. Sending a non-existent parent ID to ScienceBase will return an error. If your records contain parent IDs in the metadata, you can choose to publish products without publishing their associated projects at the same time.
 
 2. mdEditor will publish your records sequentially, starting with the top record \(it will publish the project first, then the products nested below it\).
-   * If you are publishing to your _default parent identifier_ or if you have changed any project-product relationships in the publishing outline, you will see the updated parent IDs appear in the outline as publishing occurs. If you’re publishing to the existing locations on ScienceBase, the IDs won’t change.
+   * If you are publishing to your _default parent identifier_ or if you have changed any project-product relationships in the publishing outline, you will see the updated parent IDs appear in the outline as publishing occurs. If you’re publishing to the existing locations on ScienceBase, the IDs will not change.
    * These new/updated IDs will be injected directly into the mdJSON file in mdEditor. However, these updated IDs will not be included in the mdJSON file that is attached to ScienceBase as part of the publishing process. You would have to publish the record a second time to update the mdJSON file attached on ScienceBase.
 3. Upon successfully publishing to ScienceBase, the third column will display a date and time. The record's ScienceBase ID will be displayed in the first column, and the Parent ID will be displayed in the second column. If there are any errors during publishing, they will be noted in the third column.
 
@@ -92,7 +92,7 @@ _You **have** existing parent-child relationships on ScienceBase and/or you have
    * SB items should be in the location reflected in the mdEditor publishing outline
 2. You can re-publish records as needed \(e.g., after updating or correcting metadata\).
 
-### Step 5: Review Entries in the LCC Science Catalog
+### Step 5: Review Entries in the SA Science Catalog
 
 The Science Catalog updates overnight so you should review newly-published records the day after you publish to ScienceBase. This will be one of your best quality control checks.
 
