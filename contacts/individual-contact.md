@@ -8,31 +8,31 @@
 
 _The following fields are available for **Individual Contacts:**_
 
-* **Individual Name** \(Required\): Enter individual's full name If you are entering a generic Individual contact, you can enter a Position Name without entering an Individual Name. For example: you could enter GCP LCC Data Manager as a Position Name rather than an Individual Name.
-* **Position Name** \(Required\): Enter individual's full title; avoid acronyms If you have entered the individual's name, Position Name is not required \(one or the other is required, but not both\).
-* **Contact Type** \(Required\): Enter the contact type from the picklist. Make sure every contact has Contact Type selected - this is essential for the Science Catalog funding summaries.
-* **Member Organization** \(Required\): Select organization\(s\). You can make an individual part of multiple organizations.
+* **Individual Name** \(Required\): Enter individual's full name If you are entering a generic Individual contact, you can enter a Position Name without entering an Individual Name. For example: you could enter Region 3 Data Manager as a Position Name rather than an Individual Name.
+* **Position Name**: Enter individual's full title; avoid acronyms If you have entered the individual's name, Position Name is not required.
+* **Contact Type** \(Required\): Enter the contact type from the picklist. Make sure that every contact has Contact Type selected - this is essential for the Science Catalog funding summaries.
+* **Member Organization** \(Required\): Select organization\(s\). An individual may be part of multiple organizations.
 * **Email Address** \(Required\): Enter individual's email
 * **Physical Address** \(Best Practice\): Enter a physical address
 * **Logo** \(Optional\):
   * It is uncommon that you would add a logo for an individual. If the individual is part of an organization, the individual will inherit the logo from the organization.
-  * You can either select or drop an image. If you choose to load an image, mdEditor will create a URI and will have a size limit for the logo. If you have a larger image, link to it rather than loading it into mdEditor. 
+  * You can either select or drop-in an image. If you choose to load an image, mdEditor will create a URI and has a size limit for the logo. If you have a larger image, link to the image rather than loading it into mdEditor. 
 
 {% hint style="danger" %}
-If you upload a logo to your contact record, you must include a filename for the logo. Otherwise you will get an error on the metadata records that include that contact.
+If you upload a logo to your contact record, you must include a filename for the logo. Otherwise, mdEditor will indicate an error on the metadata records that includes this contact.
 {% endhint %}
 
-## LCC Network Data Steward
+## SA Network Data Steward
 
-_The LCC Network Data Steward is required as a "PointOfContact" in the Point of Contact section of the Main Tab and in the Contacts section of the Metadata Tab._
+_The SA National Data Steward is required as a "PointOfContact" in the Point of Contact section of the Main Tab and in the Contacts section of the Metadata Tab._
 
-**The LCC Network Data Steward:**
+**The SA National Data Steward:**
 
-* **Individual Name:** LCC Network Data Steward
-* **Contact Type:** lcc
-* **Email Address:** lccdatasteward@fws.gov
+* **Individual Name:** SA National Data Steward
+* **Contact Type:** federal
+* **Email Address:** sadatasteward@fws.gov
 
-![](../.gitbook/assets/individual_contact_window.png)
+![Example generic data steward contact](../.gitbook/assets/image%20%2828%29.png)
 
 > For more information, consult the [**Individual Contact**](https://adiwg.gitbooks.io/mdeditor/content/contact/new/individual.html) ****section of the mdEditor manual.
 

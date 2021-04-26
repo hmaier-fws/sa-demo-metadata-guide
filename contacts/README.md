@@ -1,21 +1,21 @@
 # Contact Entry Guidance
 
-Contacts are individuals or organizations that can be referenced by other contacts, projects, or products. Contacts contain information such as the names of individuals or organizations, email address, physical address, website, and phone number so that viewers of metadata can communicate with those affiliated with a metadata record. Contacts also enable users to know who is involved in the creation and maintenance of projects and products, funding of projects, and creation and maintenance of metadata.
+Contacts are individuals or organizations that can be referenced in project and/or product metadata and in other contacts. Contacts contain information such as the names of individuals or organizations, email address, physical address, website, and phone number so that viewers of metadata can communicate with those affiliated with a metadata record. Contacts also enable users to know who is involved in the creation and maintenance of projects and products, funding of projects, and creation and maintenance of metadata.
 
 ## General Info on Contacts
 
 In mdEditor, contacts are created separately from individual records and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in any metadata record. Editing a contact in the mdEditor contact library will update the contact information included in any metadata record that uses that contact. Editing a contact in mdEditor will also update contact information on ScienceBase once the record is published.
 
 {% hint style="danger" %}
-You should maintain a single list of your contacts. Having duplicate copies of the same contact is not desirable. It can create confusion as you edit and manage your metadata records and introduce unnecessary errors.
+You should maintain a single list of your contacts. Having duplicate copies of the same contact is not desirable. It can create confusion and unnecessary duplication errors as you edit and manage your metadata records.
 {% endhint %}
 
-Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same
+Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will remain the same in the copy.  
 
-It is recommended that you leave contacts in mdEditor in between work sessions. This allows you to readily add contacts to projects and products.
+It is recommended that you leave contacts in mdEditor between work sessions. This allows you to readily add contacts to projects and products.
 
 {% hint style="info" %}
-It is recommended that when you export records, you also export your entire contact list. If you do not export your contact list, and you later import a record that contains a contact not in your library, you may receive an error and have to re-enter the contact to that record.
+It is recommended that when you export records, you also export your entire contact list. If you do not export your contact list, and you later import a record that contains a contact not in your library, you may receive an error and have to re-enter the contact to that record.  This can cause duplication errors.
 {% endhint %}
 
 ## Best Practices for Contacts
@@ -25,7 +25,7 @@ It is recommended that when you export records, you also export your entire cont
 
 ## Contacts Seed File
 
-The "contacts seed file" contains pre-filled information and standard naming conventions for all LCCs, common federal agencies, and the LCC Network Data Steward. Using this file will increase consistency across all LCC metadata records for common contacts and reduce the amount of processing needed before records go into the Science Catalog.
+The "contacts seed file" contains pre-filled information and standard naming conventions for FWS, common federal agencies, and generic Data Stewards. Using this file will increase consistency across all SA metadata records for common contacts and reduce the amount of processing needed before records go into the Science Catalog.
 
 SA maintains a 'seed' list of contacts that can be found in the[ SA ScienceBase community item page](https://www.sciencebase.gov/catalog/item/5b4e1c3fe4b06a6dd17df2d3).
 

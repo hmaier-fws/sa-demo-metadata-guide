@@ -1,4 +1,4 @@
-# for LCC/CASC Projects
+# for FWS/CASC Projects
 
 For projects and products that were co-funded with the CASCs, there are already ScienceBase items owned by the CASCs for the projects and products. In order for those projects and products to show up in the LCC Science Catalog, you need to create LCC metadata records that will link to the CASC records. The general approach is to make a copy of the CASC metadata in mdEditor \(or PTS\), modify the metadata to follow LCC metadata requirements, tag for the Science Catalog, add a statement in the abstract explaining the collaboration, and include a link back to the CASC ScienceBase records. The statement in the abstract and the links to the CASC ScienceBase records will clarify that these are alternate references for the same item \(not duplicative efforts\), and in the case of products, provide access to the actual data/tool/etc. hosted on ScienceBase.
 
