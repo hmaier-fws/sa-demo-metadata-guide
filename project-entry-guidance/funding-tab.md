@@ -56,7 +56,7 @@ You could add the Principal Investigator in the Other Contacts field as "princip
 In most cases, a program or region has allocated the funding for a project.  In order to track funds within regions and programs and provide proper credit, add the FWS region \(yes, both the legacy region and the DOI unified region for now\) as the funding "administrator" for all allocations. Recall that the funding source should identify the agency who supplied the funding \(i.e. US Fish and Wildlife Service\).  Also, add the program name, if applicable, as a the funding "administrator".  
 
 {% hint style="info" %}
-Funding administrator can also be used to differentiate funding from different programs/offices within the same agency. For example, the U.S. Fish and Wildlife Service can be identified as the funding source and the funding administrator could include "Ecological Services" or a specific field office.
+Funding administrator can also be used to differentiate funding from different programs/offices within the same agency. For example, the U.S. Fish and Wildlife Service can be identified as the funding source and the funding administrator may also include "Ecological Services" or a specific field office.
 {% endhint %}
 
 In some cases, funds are marked for specific activities and include reporting requirements accompany the funding allocations.  For example, EPA allocates Great Lakes Restoration Initiative \(GLRI\) funds on behalf of Congress to FWS, among others. FWS then distributes the funds across programs for use.  This funding flow can be tracked and aggregated with the Funding Other Contacts.  Add the Name of the funding source as an organization contact and add the funding source as the "_funder_" in Funding Other Contacts.
