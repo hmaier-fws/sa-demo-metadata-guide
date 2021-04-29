@@ -1,6 +1,6 @@
 # Sub-project of FWS Region or Program Project
 
-When a project is a sub-project underneath a regional or programmatic project, complete the following requirements for the sub-project in addition to the standard metadata requirements. Products of a sub-project can be entered as normal \(i.e., treat the sub-project as a normal project for the purposes of the product metadata and associations\).
+When a project is a sub-project \(aka child project\) of a larger Service project, complete the following requirements for the sub-project in addition to the standard metadata requirements as described in [Project Entry Guidance](../../project-entry-guidance/). Products of a sub-project can be entered as described in [Product Entry Guidance](../../product-entry-guidance/) \(i.e., treat the sub-project as a normal project for the purposes of the product metadata and associations\).
 
 ## Main/Points of Contact
 
