@@ -16,19 +16,7 @@ If the project is collaborative between multiple regions but neither provides di
 
 In addition to metadata requirements described in [Project Entry Guidance](../project-entry-guidance/), enter the following for projects with multiple Service regional  or program collaborators:
 
-## Main/Point of Contacts
+## Funding/Other Contacts
 
-Add the collaborating region\(s\) or program as a “collaborator.”
-
-{% hint style="info" %}
-The lead region should be listed as “administrator” and does not need to be added again as a “collaborator.”
-{% endhint %}
-
-\_\_
-
-_Figure 2: Example of mdEditor entry for Main/Point of Contact for a multiple regional project._ 
-
-## Metadata/Metadata Contacts
-
-Include the lead region in Metadata Contacts \(see [Contact Entry Guidance](../contacts/)\).
+Include the lead region and/or program in other funding Contacts as 'administrator' \(see [Contact Entry Guidance](../contacts/)\).
 
