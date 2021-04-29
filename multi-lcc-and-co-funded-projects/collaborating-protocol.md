@@ -4,33 +4,29 @@
 
 Refer to this protocol if:
 
-* Multiple regions may collaborate on a single project where only one region provided funding \(this funding region is the lead\). There can only be one lead region per project.
+* Multiple regions, programs, etc. collaborate on a single project where only one region provided funding \(this funding region is the lead\). There can only be one lead region per project.
 
 ## Metadata Responsibility
 
-The lead region data manager is responsible for project and product metadata. There should only be one metadata record for each collaborating project and product. These records will show up and be searchable in the Science Catalog for each collaborating regions identified in the metadata.
+The lead region data manager is responsible for project and product metadata. There should only be one metadata record for each collaborating project and product. These records will publish and be searchable in the Science Catalog for each collaborating regions identified in the metadata.
 
 {% hint style="info" %}
-If the project is collaborative between multiple regions but does not involve any funding allocations, the relevant regions should determine who will be the lead region and be responsible for entering the metadata.
+If the project is collaborative between multiple regions but neither provides direct funding allocations, the regions should determine who will be the lead region and be responsible for entering the metadata.
 {% endhint %}
 
-In addition to standard metadata requirements, enter the following for projects with multiple regional collaborators:
+In addition to metadata requirements described in [Project Entry Guidance](../project-entry-guidance/), enter the following for projects with multiple Service regional  or program collaborators:
 
 ## Main/Point of Contacts
 
-Add the collaborating region\(s\) as a “collaborator.”
-
-## Main/Citation/Responsible Parties
-
-Add the collaborating region\(s\) as a “collaborator.”
+Add the collaborating region\(s\) or program as a “collaborator.”
 
 {% hint style="info" %}
 The lead region should be listed as “administrator” and does not need to be added again as a “collaborator.”
 {% endhint %}
 
-![](https://lh3.googleusercontent.com/SmpEd4mpmmMhWgQCiUf5yRg6EIM-iaNp1uhg_mzhd9bWyH1qHAsIaFgfH145AAqMd3DU7d6f5XacR3LR2NsTpO70Icwk0AaeIzSg79oK8EFvXTAD0XiL3sh4t-vLQCWPFmiUOHWb)\_\_
+\_\_
 
-_Figure 2: Example of mdEditor entry for Main/Point of Contact for a multiple regional project. Here, UMGL LCC led the project with funding support from ETPBR LCC._
+_Figure 2: Example of mdEditor entry for Main/Point of Contact for a multiple regional project._ 
 
 ## Metadata/Metadata Contacts
 
