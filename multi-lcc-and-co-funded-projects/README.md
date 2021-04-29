@@ -29,9 +29,9 @@ The goals for these guidelines are:
 
 ## Scenario Descriptions
 
-**Collaborating Project**: One region leads a project with joint support or cooperation in the form of advisory consultation or staff time from another region. The collaborating region does not provide direct funding support.
+**Collaborating Project**: One Service region leads a project with joint support or cooperation in the form of advisory consultation or staff time from another region. The collaborating region\(s\) does not provide direct funding support.
 
-**Sub-Project** \(see definition above\) or Project Continuation: One region \(Region A\) is the lead region for a large project, while another region \(Region B\), funds a distinct sub-project or distinct deliverable of the overarching project and likewise for FWS/CASC projects.
+**Sub-Project** \(see definition above\): One region \(Region A\) is the lead for a large project \(parent project\), while another region \(Region B\), funds a distinct sub-project effort or distinct deliverable of the large project.  This scenario can apply to FWS-CASC parent projects and may include project continuations when new objectives or deliverables are described.
 
 **Multi-regional Co-funded Project**: One region leads a project with funding support from another region\(s\). The project cannot be divided into distinct sub-projects.
 
