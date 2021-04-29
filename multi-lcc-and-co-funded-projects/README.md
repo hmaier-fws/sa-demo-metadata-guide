@@ -1,6 +1,6 @@
-# Co-funded Project Guidance
+# Co-funded Project Requirements
 
-This describes the additional metadata entry requirements for documenting projects and products that involve multiple SA regions, or FWS programs, or were co-funded with the USGS Climate Adaptation Science Centers \(CASCs\). All other SA metadata requirements and best practices still apply, unless otherwise noted.
+This section describes the additional metadata entry requirements for documenting projects and products that involved multiple SA regions or FWS programs, or were co-funded with the USGS Climate Adaptation Science Centers \(CASCs\).  SA metadata requirements and best practices described in [Project Entry Guidance](../project-entry-guidance/) still apply, unless otherwise noted.
 
 ## Goals
 
