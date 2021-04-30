@@ -1,6 +1,6 @@
 # CASC Responsibilities
 
-The CASCs will complete the following metadata responsibilities for the CASC records for co-funded projects and products, after being notified that an LCC has created associations to the CASC ScienceBase records.
+The CASCs will complete the following metadata responsibilities for the CASC records for co-funded projects and products, after being notified that a Service metadata record has been created with associations to the CASC ScienceBase records.
 
 ## Co-funded Protocol
 
