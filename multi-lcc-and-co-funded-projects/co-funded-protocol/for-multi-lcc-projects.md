@@ -4,7 +4,7 @@
 
 Refer to this protocol if:
 
-* One or more region or program each contribute funding for a project and distinct sub-projects can not be attributed separately to any region or program.
+* One or more regions or programs each contribute funding for a project and distinct sub-projects can not identified and attributed to any region or program.
 
 ## Metadata Responsibility
 
@@ -39,10 +39,10 @@ Collaborators do not need to be listed here.
 
 ## Funding \(for Projects only\)
 
-Add a separate funding allocation for each year and each region or program that provided funding.
+Add a separate funding allocation for each year and each region or program that provided funding as described in [Funding Tab: Project](../../project-entry-guidance/funding-tab.md).
 
 1. The source should be U.S. Fish and Wildlife Service \(or other agency that provided project funding such as Bureau of Reclamation\)
-2. Add the funding region or program as the “administrator” in the Other Contacts section \(see Figure 2 and 3\).
+2. Add the funding region or program associated with the amount as the “administrator” in the Other Contacts section \(see Figure 2\).
 
 ![](https://lh5.googleusercontent.com/FuzsddF2rFu5QQiRYIC7xLYOQrFWwHFoqIIMa0OuODOz52A3oSi1tAUUfh58HTjYmtKohXAGKwWfoKXdRXjol3J-A_zBCl6kddAGBjErEWIfSrSoYAkdmieraFzgSYR3jBwG0q26)_Figure 2: Example of mdEditor entry for funding allocation for a region. Here, SA Headquarters administered the USFWS funds; a second funding entry would be added for each USFWS allocation administered by the co-funding region or program._
 
