@@ -1,14 +1,6 @@
 # for FWS/CASC Products
 
-## Applicability
-
-Refer to this protocol if:
-
-* One or more Service regions or programs co-funds a project with one or more CASCs without distinct sub-parts that could be attributed to either. This protocol is for the product metadata.
-
-## Metadata Responsibility
-
-The co-funding LCC data manager is responsible for processing the CASC project and product metadata for inclusion in the LCC Science Catalog. The CASC data manager will complete their metadata responsibilities for the CASC records as well.
+## 
 
 ## Co-funded Product Workflow
 
@@ -22,14 +14,7 @@ The co-funding LCC data manager is responsible for processing the CASC project a
 ### Workflow Option 2
 
 1. Create a record from scratch in mdEditor
-2. Copy the title, abstract, and other pertinent info from the CASC ScienceBase record. 
-3. Complete the additional metadata requirements for a cofunded product.
-4. Associate this LCC product record with the LCC version of the project record you created
-
-Note: The LCC copy of the CASC metadata should not include the data.gov tag. As a general rule, the entity who owns/hosts the data should be responsible for sending information to data.gov. In this case, the CASC is hosting the product/data on ScienceBase and they will be sending their information to data.gov directly.
-
-In addition to standard metadata requirements, complete the following for the co-funded product record. All are required unless otherwise noted.
-
+2. 
 ## Main/Point of Contacts
 
 Add the collaborating LCC\(s\) and CASC\(s\) as a “collaborator.”

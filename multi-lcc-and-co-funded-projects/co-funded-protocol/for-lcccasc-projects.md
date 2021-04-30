@@ -55,7 +55,15 @@ Add the following text as the last sentence:
 
 The CASC will include a parallel statement in the Summary field for their ScienceBase record \(and link back to the this record\).
 
-## Metadata/Metadata Contacts
+## Main/Supplemental Information
+
+Add the following text \(Best Practice\):
+
+“This product was co-funded by the \[A, B, C\] Landscape Conservation Cooperatives and \[X, Y, Z\] Climate Adaptation Science Centers. An alternate reference to this product can be found here: \[insert CASC ScienceBase URL\].”
+
+* Example: “This project was co-funded by the Gulf Coast Prairie Landscape Conservation Cooperative and the South Central Climate Adaptation Science Center. An alternate reference to this product can be found here: [https://www.sciencebase.gov/catalog/item/5887c1c3e4b02e34393da82d](https://www.sciencebase.gov/catalog/item/5887c1c3e4b02e34393da82d).”
+
+## Meta**d**ata/Metadata Contacts
 
 Include the USFWS as “publisher.”
 
@@ -108,6 +116,14 @@ The only associations that ScienceBase recognizes from mdJSON are parentProject/
 ![](https://lh5.googleusercontent.com/s4tNZQxUK5yvtjEtAP-NWIKDvv1hY2IGjTxr7zHoDZnV931sZ9JRjLeHt4inqF0AIZSiHqjNM8-Ev30woD6tCngPnwG_CWnz2K-X8PBXOXLMqTTFtvOmId9C8WxdkAv-QxRBHSL4)
 
 ![](https://lh5.googleusercontent.com/FPfhTiqh2kFQ3B6MAawlBytGNKOkmlivoJBgL_Ehld7D1hSyR3EVF6V7eO_hZ5HB4eaq-WUPQ_kPWBIcAkyPTNTOLdSEZtJR0W5ROAWs0ylrLP_RQb_5zF0UEyCFuN4kDzdHT7Py)_Figure 5: Example of entering an association directly in ScienceBase. From the SA project record, select “Associate an Item” and enter the SBID of the CASC project record and select “alternate” as the relationship type._
+
+## Distribution \(Product only\)
+
+Include the CASC weblinks and identifiers that were entered in the mdEditor Associated tab in the Online Resource section.
+
+* List the role of the CASC as “owner.” 
+
+The Distribution links are critical for providing access to the actual data/tool/etc.
 
 ## Notifying CASCs
 
