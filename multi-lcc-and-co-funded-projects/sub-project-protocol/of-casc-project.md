@@ -1,8 +1,6 @@
 # Sub-project of CASC Project
 
-USGS CASC have their own metadata requirements.  If your project is a sub-project of a CASC project, complete a unique metadata record with the following requirements. Products of a sub-project can be entered as described in [Product Entry Guidance](../../product-entry-guidance/).
-
- If the SA and CASC contributions cannot be teased apart into project and sub-project, then follow the [co-funded protocol ](../collaborating-protocol.md)instead.
+If your project is a sub-project of a CASC project, complete the following requirements for the sub-project in addition to the standard metadata requirements. Products of a sub-project can be entered as usual \(i.e., treat the sub-project as a normal project for the purposes of the product metadata and associations\).
 
 ## Main/Points of Contact
 
@@ -16,6 +14,14 @@ Add the following text as the last sentence:
 
 * Example: “This project is a sub-project of the South Central Climate Adaptation Science Center project described here.”
 
+## Main/Supplemental Information
+
+Add the following text \(Best Practice\):
+
+“This project is a sub-project of the \[X\] Climate Adaptation Science Center project described here \[insert hyperlink to CASC ScienceBase URL\].”
+
+* Example: “This project is a sub-project of the South Central Climate Adaptation Science Center project described here.”
+
 ## Metadata/Metadata Contacts
 
 Default is USFWS, if Service is lead on the project, as “publisher.”
@@ -24,7 +30,7 @@ Collaborating CASCs do not need to be listed here.
 
 ## Associated
 
-Since the CASC metadata is outside the SA communities in ScienceBase, you must manually associate the CASC projects both in the mdEditor Associated tab and directly in ScienceBase.
+Since the CASC metadata is outside the SA communities in ScienceBase, you must manually associate the CASC projects both in the mdEditor Associated tab and directly on ScienceBase.
 
 ### Associations in mdEditor
 
@@ -37,7 +43,7 @@ Manually associate the CASC project as a “subProject” relationship in the As
 5. Add the CASC ScienceBase item URL in the Online Resource field. This is important to provide discovery and access to items outside of the SA Science Catalog.
 6. Add the ScienceBase Identifier of the CASC project.
 
-The CASC associated items will not appear in the Science Catalog as standalone items, but will appear as links in SA records in the Science Catalog.  The assumption here is that the sub-project metadata contains all SA-relevant information and contributions and the CASC project record is essentially not needed.
+The CASC associated items will not appear in the Science Catalog as standalone items, but will appear as links on the SA record\(s\) in the Science Catalog under a header that labels the type of association. The assumption here is that your sub-project contains all SA-relevant information and contributions and that the CASC project record is not needed. If you find that the SA and CASC contributions cannot be teased apart into project and sub-project, then you should follow the [co-funded protocol ](../collaborating-protocol.md)instead.
 
 ### Associations in ScienceBase
 
