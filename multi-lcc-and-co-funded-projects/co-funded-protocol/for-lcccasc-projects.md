@@ -1,4 +1,4 @@
-# for FWS/CASC Projects
+# for FWS/CASC Projects & Products
 
 ## Applicability
 
@@ -61,7 +61,7 @@ Include the USFWS as “publisher.”
 
 Collaborators do not need to be listed here.
 
-## Funding
+## Funding \(Project Only\)
 
 ### Service Allocations
 

@@ -48,7 +48,7 @@
     * [Sub-project of CASC Project](multi-lcc-and-co-funded-projects/sub-project-protocol/of-casc-project.md)
   * [Co-funded Protocol](multi-lcc-and-co-funded-projects/co-funded-protocol/README.md)
     * [for FWS multiple region or program funded Projects](multi-lcc-and-co-funded-projects/co-funded-protocol/for-multi-lcc-projects.md)
-    * [for FWS/CASC Projects](multi-lcc-and-co-funded-projects/co-funded-protocol/for-lcccasc-projects.md)
+    * [for FWS/CASC Projects & Products](multi-lcc-and-co-funded-projects/co-funded-protocol/for-lcccasc-projects.md)
     * [for FWS/CASC Products](multi-lcc-and-co-funded-projects/co-funded-protocol/for-lcccasc-products.md)
     * [CASC Responsibilities](multi-lcc-and-co-funded-projects/co-funded-protocol/casc-responsibilities.md)
     * [Examples](multi-lcc-and-co-funded-projects/co-funded-protocol/examples.md)

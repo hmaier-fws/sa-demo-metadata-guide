@@ -4,7 +4,7 @@
 
 Refer to this protocol if:
 
-* One or more LCCs co-funds a project with one or more CASCs without distinct sub-parts that could be attributed to either an LCC or CASC. This protocol is for the product metadata.
+* One or more Service regions or programs co-funds a project with one or more CASCs without distinct sub-parts that could be attributed to either. This protocol is for the product metadata.
 
 ## Metadata Responsibility
 
