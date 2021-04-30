@@ -1,12 +1,14 @@
 # for FWS/CASC Projects
 
-For projects and products that were co-funded with the CASCs, there are already ScienceBase items owned by the CASCs for the projects and products. In order for those projects and products to show up in the LCC Science Catalog, you need to create LCC metadata records that will link to the CASC records. The general approach is to make a copy of the CASC metadata in mdEditor \(or PTS\), modify the metadata to follow LCC metadata requirements, tag for the Science Catalog, add a statement in the abstract explaining the collaboration, and include a link back to the CASC ScienceBase records. The statement in the abstract and the links to the CASC ScienceBase records will clarify that these are alternate references for the same item \(not duplicative efforts\), and in the case of products, provide access to the actual data/tool/etc. hosted on ScienceBase.
-
 ## Applicability
 
-Refer to this protocol if:
+* One or more Service regions or programs provides funding support for a project with one or more CASCs and distinct sub-projects can not identified and attributed to any Service region or program or CASC separately.  This protocol is for the project metadata.
 
-* One or more LCCs co-funds a project with one or more CASCs and there are not distinct sub-projects that can be attributed to an LCC or CASC separately. This protocol is for the project metadata.
+For projects and products co-funded with the CASC, the CASCs will create their own ScienceBase items according to their requirements. In order for those projects and products to be included in the SA Science Catalog, you need to create a metadata records that will link to the CASC metadata records. 
+
+The general approach is to make a copy of the CASC metadata in mdEditor \(or PTS\), modify the metadata to follow LCC metadata requirements, tag for the Science Catalog, add a statement in the abstract explaining the collaboration, and include a link back to the CASC ScienceBase records. The statement in the abstract and the links to the CASC ScienceBase records will clarify that these are alternate references for the same item \(not duplicative efforts\), and in the case of products, provide access to the actual data/tool/etc. hosted on ScienceBase.
+
+## 
 
 ## Metadata Responsibility
 
