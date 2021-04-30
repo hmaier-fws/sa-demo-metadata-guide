@@ -4,13 +4,13 @@
 
 Refer to this protocol if:
 
-* One or more region or program co-funds a project with one or more region or program and there are not distinct sub-projects that can be attributed separately to any region or program.
+* One or more region or program each contribute funding for a project and distinct sub-projects can not be attributed separately to any region or program.
 
 ## Metadata Responsibility
 
-The lead regional data manager is responsible for project and product metadata. There should only be one metadata record for each multi-regional or programmatic project and product. These records will show up and be searchable in the Science Catalog for each collaborating entity identified in the metadata.
+The lead region or program data manager is responsible for project and product metadata. There should only be one metadata record for each multi-regional or programmatic project and product. These records will be searchable in the Science Catalog for each collaborating entity identified in the metadata.
 
-In addition to standard metadata requirements, enter the following for the multi-regional or program project and product records:
+In addition to standard metadata requirements as described in [Project Entry Guidance](../../project-entry-guidance/), include the following additions.
 
 ## Main/Point of Contacts
 
