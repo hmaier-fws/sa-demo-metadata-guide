@@ -4,7 +4,7 @@ The CASCs will complete the following metadata responsibilities for the CASC rec
 
 ## Co-funded Protocol
 
-### When a CASC project is co-funded with an LCC:
+### When a CASC project is co-funded with the Service:
 
 Add the following statement to the Summary in the CASC ScienceBase record:
 
