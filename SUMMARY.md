@@ -50,7 +50,7 @@
     * [for FWS multiple region or program funded Projects](multi-lcc-and-co-funded-projects/co-funded-protocol/for-multi-lcc-projects.md)
     * [for FWS/CASC Projects & Products](multi-lcc-and-co-funded-projects/co-funded-protocol/for-lcccasc-projects.md)
     * [CASC Responsibilities](multi-lcc-and-co-funded-projects/co-funded-protocol/casc-responsibilities.md)
-    * [Examples](multi-lcc-and-co-funded-projects/co-funded-protocol/examples.md)
+    * [LCC Examples](multi-lcc-and-co-funded-projects/co-funded-protocol/examples.md)
 * [Contact Entry Guidance](contacts/README.md)
   * [Summary Contact Requirements](contacts/summary-contact-requirements.md)
   * [Individual Contacts](contacts/individual-contact.md)

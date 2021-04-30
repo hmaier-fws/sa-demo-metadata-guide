@@ -1,6 +1,6 @@
-# Examples
+# LCC Examples
 
-The following are real examples of LCC and CASC co-funded projects and products. The links go directly to the ScienceBase records so you can download their mdJSON to explore how these were done.
+The following are real examples of past LCC and CASC co-funded projects and products. The links go directly to the ScienceBase records so you can download their mdJSON to explore how these were done.
 
 ## Example: Gulf Coast Prairie LCC / Gulf Coastal Plains and Ozarks LCC / South Central CASC
 
