@@ -30,11 +30,11 @@ In the Associated tab, add the association type as one of the following and sele
 
 ### When you do NOT have edit rights to Parent Project
 
-If your sub-project falls underneath a project to which you do not have edit rights for its ScienceBase record or mdEditor file, you must associate the item manually within mdEditor. \(or contact the metadata owner to request assistance with creating the association.\)
+If your sub-project falls underneath a project to which you do not have edit rights for its ScienceBase record or mdEditor file,  the metadata records will need to be associated manually within mdEditor \(or contact the metadata owner to request assistance with creating the association.\)
 
 To create the association manually, enter the association type as described above, enter the resource type, then copy and paste the title and ScienceBase Identifier for the associated item \(see Figure 1\).
 
-If you are creating associations to other regional or program items that have the Science Catalog tag, then those items will show up in the Science Catalog, along with your sub-projects and products.
+If creating associations to other regional or program items that have s SA Science Catalog tag, then those items will show up in the Science Catalog, along with your sub-projects and products.
 
 {% hint style="info" %}
 If your sub-project falls underneath a CASC project, refer to the next page: [Sub-project of CASC Project](of-casc-project.md) .
