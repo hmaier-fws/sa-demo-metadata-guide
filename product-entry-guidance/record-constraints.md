@@ -1,3 +1,9 @@
+---
+description: >-
+  THIS SECTION IS UNDER REVIEW FOR FOIA, RECORDS MANAGEMENT, AND PRIVACY POLICY
+  GUIDANCE.
+---
+
 # Constraints Tab: Product
 
 **The Constraint** tab allows you to enter information into the metadata about how the resource can and cannot be used.
