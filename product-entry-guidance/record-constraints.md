@@ -30,6 +30,10 @@ If your product is licensed, let people know here. Typically files used will be 
 * **Use constraints**: How the product should be used.
 * **Other constraints:** This is a place to put standard disclaimers.
 
+**Access Constraints are limited to Open, Limited Access, Sensitive/Protected, and Restricted**
+
+#### Open Access
+
 Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection under [17 U.S.C. § 105](http://www.copyright.gov/title17/92chap1.html#105). Government works are by default in the U.S. Public Domain. If no other open license applies, the following URL should be used in the license field.
 
 ```text
@@ -43,6 +47,16 @@ https://creativecommons.org/publicdomain/zero/1.0/
 ```
 
 ![Example legal constraint entry for U.S. Government Works open license](../.gitbook/assets/image%20%2827%29.png)
+
+#### Limited Access
+
+
+
+#### Sensitive/Protected Access
+
+
+
+#### Restricted Access
 
 ## Security Constraints
 
