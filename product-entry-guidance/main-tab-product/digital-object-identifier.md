@@ -8,15 +8,13 @@ DOIs should be assigned to Service-funded assets such as dataset, services, mode
 
 The Service [Digital Object Identifier Management Tool](https://www1.usgs.gov/fws/doi/) enables Service personnel to assign DOIs, registered with [DataCite](https://datacite.org/), to Service-funded data products and other resources.  This tool is used to mint \(create\), update, publish, administer, and search for Service DOIs.  DOI required metadata includes the asset title, creator\(s\), publication date, type of data product, abstract, dates relevant to the resource, and an online link to the permanent repository location of resource and can be updated at any time.
 
-![ Figure 1:  Anatomy of a DOI URL](../../.gitbook/assets/image%20%2832%29.png)
+![ Figure 1:  Anatomy of a DOI URL](../../.gitbook/assets/image%20%2833%29.png)
 
 **Figure 1 from** [**Alaska Region Interim Data Management User Guide**](https://ak-region-dst.gitbook.io/alaska-region-interim-data-management-user-guide/sharing/obtaining-a-digital-object-identifier-doi)
 
 Once minted, the DOI is included as an identifier in your metadata record \(Figure 2\)
 
-![](file:///C:/Users/TPATTE~1/AppData/Local/Temp/1/msohtmlclip1/01/clip_image004.png)
-
-Figure 2: CORRECT DOI identifier entry in metadata editor \(mdEditor\)
+![](../../.gitbook/assets/image%20%2830%29.png)
 
 This Tool was developed and is managed by the United States Geological Survey \(USGS\) [Science Analytics and Synthesis \(SAS\)](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) Science Data Management Branch, under an interagency agreement with the Service.
 

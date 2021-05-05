@@ -55,7 +55,7 @@ Once a Metadata Identifier is created in the metadata, do not change it. mdEdito
 
 ![Example auto-generated Metadata identifier entry](../../.gitbook/assets/image%20%2821%29.png)
 
-![Example of identifiers in citation.](../../.gitbook/assets/image%20%2830%29.png)
+![Example of identifiers in citation.](../../.gitbook/assets/image%20%2831%29.png)
 
 ## Parent Metadata
 
