@@ -26,13 +26,13 @@ Enter as informative a title as possible. Good titles, when they appear in a sea
 
 The **Status** drop-down menu allows you to select the status of your product. Choose status ONLY from the four following options: _completed_, _ongoing_, _proposed_, or _accepted_.
 
-![](../.gitbook/assets/main_screenshot_updated.png)
+![](../../.gitbook/assets/main_screenshot_updated.png)
 
 ## Default Locale
 
-**Default Locale** allows for the selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary. See [Settings](../settings.md) for instruction. 
+**Default Locale** allows for the selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary. See [Settings](../../settings.md) for instruction. 
 
-![](../.gitbook/assets/default_locale.png)
+![](../../.gitbook/assets/default_locale.png)
 
 ## Resource Types \(Required\)
 
@@ -44,7 +44,7 @@ Products must have a specific resource type selected, NOT just "product".
 
 ## Point of Contacts
 
-Adding a point of contact gives staff information on who to contact should they have a question regarding your project or product. From the **Role** drop-down menu, select **pointOfContact**. From the **Contacts** drop-down menu, select a contact from the list of contacts. See the [Contacts](../contacts/) section for information on creating contacts.
+Adding a point of contact gives staff information on who to contact should they have a question regarding your project or product. From the **Role** drop-down menu, select **pointOfContact**. From the **Contacts** drop-down menu, select a contact from the list of contacts. See the [Contacts](../../contacts/) section for information on creating contacts.
 
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
@@ -105,7 +105,7 @@ Important: The URLs to access and download products must **also** be included in
 
 You may enter as many identifiers as desired, but at least one is required. If you have internal SA specific IDs for projects, enter them here. A Digital Object Identifier \(DOI\) is the preferred identifier for this.  The Archive Folder Name may be included here as well.
 
-![Example of Online resource and identifier metadata entries](../.gitbook/assets/image%20%2829%29.png)
+![Example of Online resource and identifier metadata entries](../../.gitbook/assets/image%20%2829%29.png)
 
 {% hint style="danger" %}
 Digital Object Identifier can be entered both as an online resource AND an identifier.  Note that the entry format is different.  As an online resource, the entire url is required, however, as an identifier, only the prefix and suffix of the DOI are required \(see figure above\).
@@ -116,11 +116,11 @@ Digital Object Identifier can be entered both as an online resource AND an ident
 {% endhint %}
 
 {% hint style="info" %}
-If your item does not have a ScienceBase ID \(SBID\) yet, ScienceBase will create one automatically upon publishing. If you imported your item from ScienceBase originally, then the SBID will already be included in Metadata/Metadata Identifier and you do not need to include it here. Note that if you edit an item that is already on ScienceBase without using its existing SBID, a duplicate item will be created on ScienceBase. Consult the [Publish](../publish/) section of this manual to learn more.
+If your item does not have a ScienceBase ID \(SBID\) yet, ScienceBase will create one automatically upon publishing. If you imported your item from ScienceBase originally, then the SBID will already be included in Metadata/Metadata Identifier and you do not need to include it here. Note that if you edit an item that is already on ScienceBase without using its existing SBID, a duplicate item will be created on ScienceBase. Consult the [Publish](../../publish/) section of this manual to learn more.
 {% endhint %}
 
 {% hint style="info" %}
-If the product metadata was created by copying another mdEditor metadata record, this identifier MUST be edited/changed since it will reflect the copied record identifier. Only the mdEditor UUID changes to represent a new record when an item is copied. Consult the [Copy Records](../data-management/copy-records.md) section of this manual to learn how to make a copy.
+If the product metadata was created by copying another mdEditor metadata record, this identifier MUST be edited/changed since it will reflect the copied record identifier. Only the mdEditor UUID changes to represent a new record when an item is copied. Consult the [Copy Records](../../data-management/copy-records.md) section of this manual to learn how to make a copy.
 {% endhint %}
 
 ## Description
@@ -149,5 +149,5 @@ Enter comments, if desired.
 
 * **Required**: For each product, add a start date and end date.
 
-![](../.gitbook/assets/main-time-period.PNG)
+![](../../.gitbook/assets/main-time-period.PNG)
 
