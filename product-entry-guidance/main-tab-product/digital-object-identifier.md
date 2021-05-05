@@ -39,9 +39,7 @@ To mint a DOI, follow these steps:
   
 The DOI is comprised of the resolvable service url, the registered prefix and a product identifier suffix \(Figure 2\). Service DOI are assigned the prefix of **10.7964.**  The DOI URL can be used as a weblink to the registered asset.
 
-
-
-3.       Once created, the DOI is ready for use asset related metadata, reports, publications, and other elements that need to refer to DOIs as soon as necessary.
+3.       Once created, the DOI is ready for use asset related metadata, reports, publications, and other elements that need to refer to DOIs as soon as necessary.
 
 4.       During the maintain phase of the data lifecycle, any empty fields in the DOI metadata should be updated.
 
