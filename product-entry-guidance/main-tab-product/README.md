@@ -60,8 +60,6 @@ Adding a point of contact gives staff information on who to contact should they 
 The FWS Science Applications National Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. Regional Data Steward should be included in addition as a point of contact if available.
 {% endhint %}
 
-## 
-
 ## Citation
 
 The **Citation** lets users know pertinent information about your product such as responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. The citation much like a peer-reviewed publication citation, provides credit and services a as reference. Adding information in the citation will also allow users to find your item when they search for items that contain said information.
