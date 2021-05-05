@@ -29,7 +29,7 @@
   * [Associating Records: Project](project-entry-guidance/associating-records.md)
 * [Product Entry Guidance](product-entry-guidance/README.md)
   * [Main Tab: Product](product-entry-guidance/main-tab-product/README.md)
-    * [Digital Object Identifier](product-entry-guidance/main-tab-product/digital-object-identifier.md)
+    * [Digital Object Identifier Tool](product-entry-guidance/main-tab-product/digital-object-identifier.md)
   * [Metadata Tab: Product](product-entry-guidance/metadata-tab-product/README.md)
     * [data.gov Guidance](product-entry-guidance/metadata-tab-product/datagov-guidance.md)
   * [Keywords Tab: Product](product-entry-guidance/keyword-tab-product.md)
