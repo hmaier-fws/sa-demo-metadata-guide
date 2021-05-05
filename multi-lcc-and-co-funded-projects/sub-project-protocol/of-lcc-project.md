@@ -1,22 +1,22 @@
 # Sub-project of FWS Region or Program Project
 
-When your project is a sub-project underneath a regional or programmatic project, complete the following requirements for the sub-project in addition to the standard metadata requirements. Products of a sub-project can be entered as normal \(i.e., treat the sub-project as a normal project for the purposes of the product metadata and associations\).
+When a project is a sub-project \(aka child project\) of a larger Service project, complete a project metadata record for the sub-project as in [Project Entry Guidance](../../project-entry-guidance/) with the following additions.  Products of a sub-project are handled as described in [Product Entry Guidance](../../product-entry-guidance/) with no additional requirements.
 
 ## Main/Points of Contact
 
-Add the collaborating region\(s\) or program\(s\) as a “collaborator” in the metadata Point of contacts.
+Add the parent project region\(s\) or program\(s\) as a “collaborator”.
 
 {% hint style="info" %}
-Note: the region or program that is funding the sub-project or distinct product is the “administrator” in the sub-project metadata and should be included as such according to standard metadata contact requirements.
+Note: the region or program that is funding the sub-project or distinct product is the “administrator” in the sub-project funding metadata as described in [Funding Tab: Project](../../project-entry-guidance/funding-tab.md).
 {% endhint %}
 
 ## Metadata/Metadata Contacts
 
-The default publisher is USFWS.  The lead region or program may be included as “publisher”, but is not required.  Collaborators do not need to be listed here either.
+The default publisher is USFWS.  The lead region or program may be included as “publisher”, but this is not required.  Collaborators do not need to be listed here either.
 
 ## Associated
 
-Associate the relevant projects, sub-projects, and products with each other in mdEditor under Associated. Your ownership/edit access to the related items will determine how you enter the associations in mdEditor. Information below refers to the Associated tab.
+Associate the relevant projects, sub-projects, and products with each other in mdEditor as described in [Associating Records: Project](../../project-entry-guidance/associating-records.md). Your ownership/edit access to the related items will determine how you enter the associations in mdEditor. Information below refers to the Associated tab.
 
 ### When you have edit rights to Parent Project
 
@@ -30,11 +30,11 @@ In the Associated tab, add the association type as one of the following and sele
 
 ### When you do NOT have edit rights to Parent Project
 
-If your sub-project falls underneath a project to which you do not have edit rights for its ScienceBase record or mdEditor file, you must associate the item manually within mdEditor. \(or contact the metadata owner to request assistance with creating the association.\)
+If your sub-project falls underneath a project to which you do not have edit rights for its ScienceBase record or mdEditor file,  the metadata records will need to be associated manually within mdEditor \(or contact the metadata owner to request assistance with creating the association.\)
 
 To create the association manually, enter the association type as described above, enter the resource type, then copy and paste the title and ScienceBase Identifier for the associated item \(see Figure 1\).
 
-If you are creating associations to other regional or program items that have the Science Catalog tag, then those items will show up in the Science Catalog, along with your sub-projects and products.
+If creating associations to other regional or program items that have s SA Science Catalog tag, then those items will show up in the Science Catalog, along with your sub-projects and products.
 
 {% hint style="info" %}
 If your sub-project falls underneath a CASC project, refer to the next page: [Sub-project of CASC Project](of-casc-project.md) .

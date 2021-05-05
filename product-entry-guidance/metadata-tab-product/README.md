@@ -55,6 +55,8 @@ Once a Metadata Identifier is created in the metadata, do not change it. mdEdito
 
 ![Example auto-generated Metadata identifier entry](../../.gitbook/assets/image%20%2821%29.png)
 
+![Example of identifiers in citation.](../../.gitbook/assets/image%20%2830%29.png)
+
 ## Parent Metadata
 
 **Parent Metadata** defines the ScienceBase folder in which the product will be published. The parent metadata tells mdEditor where the product metadata should go when it is published to ScienceBase.

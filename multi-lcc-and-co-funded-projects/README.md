@@ -1,23 +1,23 @@
-# Co-funded Project Guidance
+# Co-funded Project Requirements
 
-This describes the additional metadata entry requirements for documenting projects and products that involve multiple SA regions, or FWS programs, or were co-funded with the USGS Climate Adaptation Science Centers \(CASCs\). All other SA metadata requirements and best practices still apply, unless otherwise noted.
+This section describes the additional metadata entry requirements for documenting projects and products that involved multiple SA regions or FWS programs, or were co-funded with the USGS Climate Adaptation Science Centers \(CASCs\).  SA metadata requirements and best practices described in [Project Entry Guidance](../project-entry-guidance/) still apply, unless otherwise noted.
 
 ## Goals
 
 The goals for these guidelines are:
 
 1. to maintain consistent, quality metadata records for projects and products across all FWS regions for inclusion in the SA Science Catalog;
-2. to avoid duplicate reporting of the same funding, while also allowing each regional program to fully describe how it provided funds or otherwise supported a project;
-3. to avoid the appearance of duplicated research between FWS and CASCs; and
+2. to avoid duplicate reporting of the same funding dollars, while also allowing each regional program to fully describe how it provided funds or otherwise supported a project;
+3. to avoid the appearance of duplicated research efforts between FWS and CASCs; and
 4. to clearly communicate the relationships between FWS and CASC funded projects to the public.
 
 ## Terms
 
-**Multi-regional** refers to a single project or product that is supported by more than one SA region. Support may come in the form of collaboration, in-kind donations of effort, and/or from funding allocations.
+**Multi-regional** refers to a single project or product that is supported by more than one FWS region. Support may come in the form of collaboration, in-kind donations of effort, and/or funding allocations.
 
 **Multi-regional co-funded** refers to a single project that is financially supported by more than one region.
 
-**Lead region** refers to the region that is instrumental in initializing and administering a project. There can be only one lead region per project.
+**Lead region** refers to the region that was instrumental in initializing and administering a project. There can be only one lead region per project.
 
 **CASC co-funded** refers to a single project or product that is supported by one or more FWS region and one or more USGS Climate Adaptation Science Centers \(CASCs\).
 
@@ -25,13 +25,13 @@ The goals for these guidelines are:
 
 **Project** is a particular effort in a particular geography with specific outcomes.
 
-**Sub-project** is an effort that is related to a project, but is distinctly different in some specific aspect, such as geography, goal, or product. A sub-project often expands the scope of a project or grows from a research need identified by the parent project. If two regions fund similar work in different geographical regions, or for different species, then these are considered to be separate projects with separate deliverables, even if both are part of a larger effort.
+**Sub-project** is an effort that is related to a project, but is distinctly different in some specific aspect, such as geography, goal, or product. A sub-project often expands the scope of a project or grows from a research need identified by the project \(aka parent project\). If two regions fund similar work in different geographical regions, or for different species with separate deliverables, then these are considered to be separate projects. If both projects are part of a larger effort, and/or administered from the same grant, and/or developed in collaboration with the same investigators, then these are sub-projects.
 
 ## Scenario Descriptions
 
-**Collaborating Project**: One region leads a project with joint support or cooperation in the form of advisory consultation or staff time from another region. The collaborating region may or may not provide funding support.
+**Collaborating Project**: One Service region leads a project with joint support or cooperation in the form of advisory consultation or staff time from another region. The collaborating region\(s\) does not provide direct funding support.
 
-**Sub-Project** or Project Continuation: One region \(Region A\) is the lead region for a large project, while another region \(Region B\), funds a distinct sub-project or distinct deliverable of the overarching project and likewise for FWS/CASC projects.
+**Sub-Project** \(see definition above\): One region \(Region A\) is the lead for a large project \(parent project\), while another region \(Region B\), funds a distinct sub-project effort or distinct deliverable of the large project.  This scenario can apply to FWS-CASC parent projects and may include project continuations when new objectives or deliverables are described.
 
 **Multi-regional Co-funded Project**: One region leads a project with funding support from another region\(s\). The project cannot be divided into distinct sub-projects.
 

@@ -95,7 +95,7 @@ For items that will be sent to data.gov, only the first in the list of Responsib
 
 #### Online Resource \(Required\)
 
-Enter the Name and URL for the location where users can find the product \(e.g., ScienceBase page\).  Data.gov refers to this online resource link to send users to the data download.
+Enter the Name and URL for the location where users can find the product \(e.g., ScienceBase page or DOI url\).  Data.gov refers to this online resource link to send users to the data download.
 
 {% hint style="info" %}
 Important: The URLs to access and download products must **also** be included in the Distribution tab. Distribution Links is the only online resource that data.gov reads so without a URL there, users have no way to access the actual product from data.gov.
@@ -104,6 +104,12 @@ Important: The URLs to access and download products must **also** be included in
 #### Identifier
 
 You may enter as many identifiers as desired, but at least one is required. If you have internal SA specific IDs for projects, enter them here. A Digital Object Identifier \(DOI\) is the preferred identifier for this.  The Archive Folder Name may be included here as well.
+
+![Example of Online resource and identifier metadata entries](../.gitbook/assets/image%20%2829%29.png)
+
+{% hint style="danger" %}
+Digital Object Identifier can be entered both as an online resource AND an identifier.  Note that the entry format is different.  As an online resource, the entire url is required, however, as an identifier, only the prefix and suffix of the DOI are required \(see figure above\).
+{% endhint %}
 
 {% hint style="info" %}
 **Best Practice**: Create and use internal identifiers that are unique within your region for projects and their products. Example: GNLCC2010-11.
