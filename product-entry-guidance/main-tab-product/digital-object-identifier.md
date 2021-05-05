@@ -4,6 +4,8 @@ A Digital Object Identifier \(DOI\) is a globally unique, persistent, and resolv
 
 DOIs should be assigned to Service-funded assets such as dataset, services, models, and reports, with the exception of research publications where journals assign the DOIs.  Using DOIs promotes discovery and re-useability of the Service’s work and investments in data and ensures appropriate recognition for those collecting and properly managing data assets.
 
+For more information on DOIs, see [Digital Object Identifier Handbook](https://www.doi.org/hb.html).
+
 The Service [Digital Object Identifier Management Tool](https://www1.usgs.gov/fws/doi/) enables Service personnel to assign DOIs, registered with [DataCite](https://datacite.org/), to Service-funded data products and other resources.  This tool is used to mint \(create\), update, publish, administer, and search for Service DOIs.  DOI required metadata includes the asset title, creator\(s\), publication date, type of data product, abstract, dates relevant to the resource, and an online link to the permanent repository location of resource and can be updated at any time.
 
 ![ Figure 1:  Anatomy of a DOI URL](../../.gitbook/assets/image%20%2836%29.png)
