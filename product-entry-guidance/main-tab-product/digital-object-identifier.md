@@ -40,7 +40,7 @@ To mint a DOI, follow these steps:
 
 1.       Enter our existing metadata into the DOI Tool following the instructions provided on the site. New users are encouraged to review the “NEW USER?” section in the login page \(Figure 1\). The DOI does not need to be published publicly until the DOI metadata is completed.
 
-![New User Instructions on the Login Page](../../.gitbook/assets/image%20%2839%29.png)
+![New User Instructions on the Login Page](../../.gitbook/assets/image%20%2841%29.png)
 
   
 The DOI is comprised of the resolvable service url, the registered prefix and a product identifier suffix \(Figure 2\). Service DOI are assigned the prefix of **10.7964.**  The DOI URL can be used as a weblink to the registered asset.
@@ -61,7 +61,32 @@ The DOI is comprised of the resolvable service url, the registered prefix and a 
 
 ![INCORRECT DOI entry as identifier in metadata](../../.gitbook/assets/image%20%2833%29.png)
 
-![CORRECT DOI entry as identifier in metadata](../../.gitbook/assets/image%20%2838%29.png)
+![CORRECT DOI entry as identifier in metadata](../../.gitbook/assets/image%20%2840%29.png)
 
 ![Example of DOI entered as both online resource and identifier](../../.gitbook/assets/image%20%2834%29.png)
+
+### DOI Administration
+
+The Service has secured a large, yet limited bank \(range\) of DOIs. Once minted, the DOI is valid in perpetuity. If you are new to the DOI, please get familiar with the tool in the training [beta version](https://www1-beta.usgs.gov/fws/doi/). When ready to officially reserve a DOI, use the [live version](https://www1.usgs.gov/fws/doi/index.htm) of the tool.  The DOI tool was not intended to be used do not for data assets that were not initiated, funded, or delivered as part of a Service project.
+
+To date the Service has not identified a responsible party or governance for administering DOIs within the Service. As a result, the duties of DOI administration must fall to the collective of Service DOI creators/editors. DOI administration duties include:
+
+Ensuring minted DOIs are being used for their intended purpose, which includes:  
+
+* Minimizing the number of DOIs being minted and never published,
+  * Ensuring one DOI per digital object \(e.g. research reports, data sets, service, etc.\)
+  * Ensuring URL paths are still resolvable \(no broken web links attached to the DOI\)
+* Providing usage reports
+* Helping to reconcile previous DOIs from other DOI services
+* Enhancing supplemental DOI metadata
+
+Each Service program, currently without enterprise level governance, has the option to administer the assignment of DOIs to their data assets within their program such that it meets their workflow. While the tool is available for any Service employee to login and create a DOI, a program may prefer to have a process to trigger a review or notification before a DOI is created. For example, an employee may login and create a DOI during planning set the DOI to hidden until the data and set edit rights to other accountable data staff.  Once completed and approved, the DOI status can be set to public.
+
+![Example of DOI Tool Dashboard](../../.gitbook/assets/image%20%2837%29.png)
+
+### Bulk DOI Creation and Updates API
+
+This tool also has an optional Web API \(application programming interface\) component for the automated creation and editing of DOIs and may be useful for bulk creation of DOIs through scripting/programming. After logging into the tool with your Department of Interior Active Directory credentials, see the DOI API link for more information.
+
+![DOI API tool link indicated with red arrow](../../.gitbook/assets/image%20%2838%29.png)
 
