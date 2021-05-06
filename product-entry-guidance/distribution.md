@@ -21,7 +21,7 @@ This section involves adding distributor information and a URL for data products
 
 If anything is filled out in the distribution section, a contact must be added. The appropriate role is "distributor."
 
-The contact should ideally be someone who will remain available to respond to potential inquiries about the product. If there is not an appropriate contact specific to the product, you can use the LCC Network Data Steward contact so there is a long-term backup contact.
+The contact should ideally be someone who will remain available to respond to potential inquiries about the product. If there is not an appropriate contact specific to the product, you can use a generic SA Data Steward contact for a long-term backup contact.
 
 ## Transfer Options \(Required\)
 
