@@ -6,6 +6,10 @@ _Note: This is a working draft that will continue to be edited. **Last updated: 
 
 This manual describes the requirements and best practices for the creation of high-quality and consistent metadata records for projects and products for USFWS Science Applications. These metadata requirements conform to the standardized metadata format agreed upon by the SA Data Management Working Group and meets USFWS policy requirements for data management. This metadata drives the unified SA Science Catalog, where SA projects and products are discoverable, accessible, and usable.
 
+## USFWS Data Management Integration
+
+
+
 ### Metadata and mdEditor
 
 The metadata editing tool employed to create and support metadata requirements is mdEditor. This tool was an extension of an initiative by the [Alaska Data Integration Working Group](http://www.adiwg.org/about/) \([ADIwg](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#adiwg)\) and adopted by SA.
