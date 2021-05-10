@@ -8,7 +8,8 @@ Based on a 2017 OIG audit, minimal metadata fields are required to be published 
 | :--- | :--- |
 | Basic Information: Title, Status | Required |
 | Point of Contact: administrator | Required |
+| Principal Investigator\(s\), organization | Required |
 | Description: Abstract | Required |
 | Time Period | Required |
-| Funding: Award Number, amount, source, fiscal year | Required |
+| Funding: Award Number, amount, source, fiscal year, recipients | Required |
 
