@@ -8,7 +8,7 @@ This manual describes the requirements and best practices for the creation of hi
 
 ## USFWS Data Management Integration
 
-
+Metadata creation is part of the Maintain step of the [Data Management Lifecycle](https://doimspp.sharepoint.com/sites/fws-data/SitePages/Data_management_life_cycle_home.aspx).   \(link to USFWS data management handbook\)
 
 ### Metadata and mdEditor
 
