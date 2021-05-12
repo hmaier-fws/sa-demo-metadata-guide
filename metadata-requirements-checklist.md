@@ -13,7 +13,7 @@ Below are metadata fields that are required for Project metadata, Data Product m
 | Resource Type |  | **Required** |  |  |
 | Point of Contact | **Required** | **Required** |  |  |
 | Custodian | **Required** | **Required** |  |  |
-| Principal Investigator | As applicable | As applicable |  |  |
+| Principal Investigator | As applicable | As applicable | **Required** |  |
 | Administrator | **Required** |  | **Required** |  |
 | Administrative Region | **Required** | **Required** |  |  |
 | co-Principal Investigator | As applicable |  |  |  |
