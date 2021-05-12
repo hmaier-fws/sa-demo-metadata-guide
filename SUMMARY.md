@@ -18,6 +18,7 @@
     * [FGDC](data-management/import/fgdc.md)
   * [Export](data-management/export.md)
   * [Copy Records](data-management/copy-records.md)
+* [Metadata Requirements Checklist](metadata-requirements-checklist.md)
 * [Project Entry Guidance](project-entry-guidance/README.md)
   * [Main Tab: Project](project-entry-guidance/record-main-copy.md)
   * [Metadata Tab: Project](project-entry-guidance/metadata-tab.md)
