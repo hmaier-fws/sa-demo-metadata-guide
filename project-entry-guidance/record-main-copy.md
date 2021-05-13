@@ -65,23 +65,23 @@ The FWS Science Applications National Data Steward will serve as the long term c
 
 ## Citation
 
-**The Citation** describes pertinent information about your project such as: responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. The citation much like a peer-reviewed publication citation, provides credit and services a as reference. Adding information in the citation will also improve users' ability to find your items.
+The **Citation** describes pertinent information about your project such as: responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. The citation much like a peer-reviewed publication citation, provides credit and services as a reference citation. Adding information in the citation will also improve users' ability to find your items.
 
 ### Citation Required Fields
 
-#### Title \(Required\)
+#### Title
 
 The citation title is automatically populated with the title of your record.
 
-#### Alternate Title \(Optional\)
+#### Alternate Title
 
 You can add an alternate title if desired - generally these should be shorter than the full Title.
 
-#### Dates \(Required\)
+#### Dates
 
 Enter _acquisition, creation, updated, revision_ from the picklist and then enter the date.  At least one date of these date types is required.
 
-#### Responsible Parties \(Required\)
+#### Responsible Parties
 
 Responsible parties must include the principal investigator of the project, but may optionally include other responsible parties such as funders \(your region and program\), partners, collaborators, and contributors. Collaborators could be intellectual participants while contributors could be intellectual and financial participants.
 
