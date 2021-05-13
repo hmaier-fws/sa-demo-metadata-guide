@@ -21,11 +21,11 @@ Below are metadata fields that are required for Project metadata, Data Product m
 | [Start Date](project-entry-guidance/record-main-copy.md#time-period) | **Required** | As Applicable | **Required** |  |
 | [End Date](project-entry-guidance/record-main-copy.md#time-period) | **Required** | **Required** | **Required** |  |
 
-#### [Citation Information](project-entry-guidance/record-main-copy.md#citation)
+#### Citation Information
 
 | Metadata Field | Project metadata |  Product metadata | ScienceBase  30-day Policy |     DOI metadata  |
 | :--- | :--- | :--- | :--- | :--- |
-| Title | **Required** | **Required** | \*\*\*\* |  |
+| [Title](project-entry-guidance/record-main-copy.md#title-1) | **Required** | **Required** | \*\*\*\* |  |
 | Acquisition Date |  | As Applicable |  |  |
 | Creation Date |  | As Applicable |  |  |
 | Date Updated |  | As Applicable |  |  |
