@@ -14,15 +14,15 @@ The **Main** tab allows for the creation and/or editing of primary metadata.
 
 ## Basic Information
 
-### Record ID \(Required\)
+### Record ID
 
 Will be auto-generated but can be edited.
 
-### Title \(Required\)
+### Title
 
 Enter as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable.
 
-### Status \(Required\)
+### Status
 
 The **Status** drop-down menu allows you to select the status of your product. Choose status ONLY from the four following options: _completed_, _ongoing_, _proposed_, or _accepted_.
 
@@ -34,7 +34,7 @@ The **Status** drop-down menu allows you to select the status of your product. C
 
 ![](../../.gitbook/assets/default_locale.png)
 
-## Resource Types \(Required\)
+## Resource Types
 
 The Resource Type should be automatically filled in with the resource type you selected when you created your record. Name is optional - you can leave this blank or enter a shorten project name.
 
@@ -66,19 +66,19 @@ The **Citation** lets users know pertinent information about your product such a
 
 The following fields are required in citation:
 
-#### Title \(Auto-Generated\)
+#### Title
 
 Added automatically based on the title of your record.
 
-#### Alternate Title \(Optional\)
+#### Alternate Title
 
 Add an alternate title.
 
-#### Dates \(Required\)
+#### Dates
 
 Enter _acquisition_, _creation, updated_, _revision_, or _publication_ date reference from the picklist and then enter the date.  At least one of these date types is required.
 
-#### Responsible Parties \(Required\)
+#### Responsible Parties
 
 This must include a point of contact, but may also include other responsible parties such as funders \(including your LCC\), partners, collaborators, and contributors. Collaborators could be intellectual participants while contributors could be intellectual and financial participants.
 
@@ -91,7 +91,7 @@ This must include a point of contact, but may also include other responsible par
 For items that will be sent to data.gov, only the first in the list of Responsible Parties \(\#0\) will appear.
 {% endhint %}
 
-#### Online Resource \(Required\)
+#### Online Resource
 
 Enter the Name and URL for the location where users can find the product \(e.g., ScienceBase page or DOI url\).  Data.gov refers to this online resource link to send users to the data download.
 
@@ -125,7 +125,7 @@ If the product metadata was created by copying another mdEditor metadata record,
 
 **Description** allows for the addition of the **Abstract** as well as a Short Abstract, Purpose, Supplemental Information, and an Environment Description.
 
-#### Abstract \(Required\)
+#### Abstract
 
 Enter an Abstract
 
@@ -133,11 +133,11 @@ Enter an Abstract
 Tip: Write your abstracts for projects in the present tense if the project is underway and past tense if it has been completed.
 {% endhint %}
 
-#### Short Abstract \(Optional\)
+#### Short Abstract
 
 Enter a short description, limited to 300 characters, if desired.  The Best Practice here is to include a few sentences for media communications that Public Affairs may find helpful.
 
-#### Supplemental Information \(Optional\)
+#### Supplemental Information
 
 Enter comments, if desired.
 

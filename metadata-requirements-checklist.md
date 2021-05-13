@@ -8,7 +8,7 @@ Below are metadata fields that are required for Project metadata, Data Product m
 
 | Metadata Field | Project metadata |  Product metadata | ScienceBase  30-day Policy |     DOI metadata  |
 | :--- | :--- | :--- | :--- | :--- |
-| Title | **Required** | **Required** | **Required** | **Required** |
+| Title | [**Required**](project-entry-guidance/record-main-copy.md#title)\*\*\*\* | \*\*\*\*[**Required**](product-entry-guidance/main-tab-product/#title-required)\*\*\*\* | **Required** | **Required** |
 | Status | **Required** | **Required** | **Required** | **Required** |
 | Resource Type |  | **Required** |  |  |
 | Point of Contact | **Required** | **Required** |  |  |
