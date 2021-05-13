@@ -1,4 +1,4 @@
-# Digital Object Identifier Tool
+# Digital Object Identifier \(DOI\)
 
 A Digital Object Identifier \(DOI\) is a globally unique, persistent, and resolvable identifier used to uniquely identify objects and are widely used to identify academic, professional, and government information \(e.g., journal articles, research reports, data sets, official publications\).  DOIs are standardized by the International Organization of Standards \(ISO\).  DOIs are connected to the asset in perpetuity through a DOI hosting service \(e.g., DataCite or CrossRef\) that maintains the link to the resource. 
 
@@ -8,13 +8,13 @@ For more information on DOIs, see [Digital Object Identifier Handbook](https://w
 
 The Service [Digital Object Identifier Management Tool](https://www1.usgs.gov/fws/doi/) enables Service personnel to assign DOIs, registered with [DataCite](https://datacite.org/), to Service-funded data products and other resources.  This tool is used to mint \(create\), update, publish, administer, and search for Service DOIs.  DOI required metadata includes the asset title, creator\(s\), publication date, type of data product, abstract, dates relevant to the resource, and an online link to the permanent repository location of resource and can be updated at any time.
 
-![ Figure 1:  Anatomy of a DOI URL](../../.gitbook/assets/image%20%2837%29.png)
+![ Figure 1:  Anatomy of a DOI URL](.gitbook/assets/image%20%2837%29.png)
 
 **Figure 1 from** [**Alaska Region Interim Data Management User Guide**](https://ak-region-dst.gitbook.io/alaska-region-interim-data-management-user-guide/sharing/obtaining-a-digital-object-identifier-doi)
 
 Once minted, the DOI is included as an identifier in your metadata record \(Figure 2\)
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 This Tool was developed and is managed by the United States Geological Survey \(USGS\) [Science Analytics and Synthesis \(SAS\)](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) Science Data Management Branch, under an interagency agreement with the Service.
 
@@ -36,7 +36,7 @@ To mint a DOI, follow these steps:
 
 2.       Enter our existing metadata into the DOI Tool following the instructions provided on the site. New users are encouraged to review the “NEW USER?” section in the login page \(Figure 1\). The DOI does not need to be published publicly until the DOI metadata is completed.
 
-![New User Instructions on the Login Page](../../.gitbook/assets/image%20%2842%29.png)
+![New User Instructions on the Login Page](.gitbook/assets/image%20%2842%29.png)
 
   
 The DOI is comprised of the resolvable service url, the registered prefix and a product identifier suffix \(Figure 2\). Service DOI are assigned the prefix of **10.7964.**  The DOI URL can be used as a weblink to the registered asset.
@@ -53,11 +53,11 @@ The DOI is comprised of the resolvable service url, the registered prefix and a 
 
 8.       Include the DOI as an online resource in your metadata record \(Figure 2c\).  In this case the entire DOI url is needed.
 
-![INCORRECT DOI entry as identifier in metadata](../../.gitbook/assets/image%20%2833%29.png)
+![INCORRECT DOI entry as identifier in metadata](.gitbook/assets/image%20%2833%29.png)
 
-![CORRECT DOI entry as identifier in metadata](../../.gitbook/assets/image%20%2841%29.png)
+![CORRECT DOI entry as identifier in metadata](.gitbook/assets/image%20%2841%29.png)
 
-![Example of DOI entered as both online resource and identifier](../../.gitbook/assets/image%20%2835%29.png)
+![Example of DOI entered as both online resource and identifier](.gitbook/assets/image%20%2835%29.png)
 
 ### DOI Administration
 
@@ -76,11 +76,11 @@ Ensuring minted DOIs are being used for their intended purpose, which includes:
 
 Each Service program, currently without enterprise level governance, has the option to administer the assignment of DOIs to their data assets within their program such that it meets their workflow. While the tool is available for any Service employee to login and create a DOI, a program may prefer to have a process to trigger a review or notification before a DOI is created. For example, an employee may login and create a DOI during planning set the DOI to hidden until the data and set edit rights to other accountable data staff.  Once completed and approved, the DOI status can be set to public.
 
-![Example of DOI Tool Dashboard](../../.gitbook/assets/image%20%2838%29.png)
+![Example of DOI Tool Dashboard](.gitbook/assets/image%20%2838%29.png)
 
 ### Bulk DOI Creation and Updates API
 
 This tool also has an optional Web API \(application programming interface\) component for the automated creation and editing of DOIs and may be useful for bulk creation of DOIs through scripting/programming. After logging into the tool with your Department of Interior Active Directory credentials, see the DOI API link for more information.
 
-![DOI API tool link indicated with red arrow](../../.gitbook/assets/image%20%2839%29.png)
+![DOI API tool link indicated with red arrow](.gitbook/assets/image%20%2839%29.png)
 

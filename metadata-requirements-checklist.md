@@ -8,8 +8,8 @@ Below are metadata fields that are required for Project metadata, Data Product m
 
 | Metadata Field | Project metadata |  Product metadata | ScienceBase  30-day Policy |     DOI metadata  |
 | :--- | :--- | :--- | :--- | :--- |
-| Title | [**Required**](project-entry-guidance/record-main-copy.md#title)\*\*\*\* | \*\*\*\*[**Required**](product-entry-guidance/main-tab-product/#title-required)\*\*\*\* | **Required** | **Required** |
-| Status | \*\*\*\*[**Required**](project-entry-guidance/record-main-copy.md#status)\*\*\*\* | [**Required**](product-entry-guidance/main-tab-product/#status)\*\*\*\* | **Required** | **Required** |
+| Title | [**Required**](project-entry-guidance/record-main-copy.md#title)\*\*\*\* | \*\*\*\*[**Required**](product-entry-guidance/main-tab-product.md#title-required)\*\*\*\* | **Required** | **Required** |
+| Status | \*\*\*\*[**Required**](project-entry-guidance/record-main-copy.md#status)\*\*\*\* | [**Required**](product-entry-guidance/main-tab-product.md#status)\*\*\*\* | **Required** | **Required** |
 | Resource Type |  | **Required** |  |  |
 | Point of Contact | **Required** | **Required** |  |  |
 | Custodian | **Required** | **Required** |  |  |

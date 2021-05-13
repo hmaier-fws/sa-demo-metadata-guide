@@ -19,7 +19,7 @@ Avoid submitting a dataset more than once. If someone else from any organization
 ## Requirements to send something to data.gov
 
 1. Set the appropriate [data.gov Metadata Repository tag](./#metadata-repositories).
-2. List the Science Applications National Data Steward first in the list of [Responsible Parties](../main-tab-product/#citation) \(\#0\). data.gov only displays the first contact and the data steward should be listed first.
+2. List the Science Applications National Data Steward first in the list of [Responsible Parties](../main-tab-product.md#citation) \(\#0\). data.gov only displays the first contact and the data steward should be listed first.
 3. Include a [Distribution Link](../distribution.md) where the product can be accessed or downloaded.
 
 ## data.doi.gov
