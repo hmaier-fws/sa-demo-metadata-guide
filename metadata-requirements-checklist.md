@@ -8,32 +8,32 @@ Below are metadata fields that are required for Project metadata, Data Product m
 
 | Metadata Field | Project metadata |  Product metadata | ScienceBase  30-day Policy |     DOI metadata  |
 | :--- | :--- | :--- | :--- | :--- |
-| [Title](project-entry-guidance/record-main-copy.md#title) | **Required** | **Required** | **Required** | **Required** |
-| [Status](project-entry-guidance/record-main-copy.md#status) | **Required** | **Required** | **Required** | **Required** |
-| [Resource Type](project-entry-guidance/record-main-copy.md#resource-types) |  | **Required** |  |  |
-| [Point of Contact](project-entry-guidance/record-main-copy.md#point-of-contacts) | **Required** | **Required** |  |  |
-| [Custodian](project-entry-guidance/record-main-copy.md#point-of-contacts) | **Required** | **Required** |  |  |
-| [Principal Investigator](project-entry-guidance/record-main-copy.md#point-of-contacts) | As applicable | As applicable | **Required** |  |
-| [Administrator](project-entry-guidance/record-main-copy.md#point-of-contacts) | **Required** |  | **Required** |  |
-| [Administrative Region](project-entry-guidance/record-main-copy.md#point-of-contacts) | **Required** | **Required** |  |  |
-| [co-Principal Investigator](project-entry-guidance/record-main-copy.md#point-of-contacts) | As applicable |  |  |  |
-| [Abstract](project-entry-guidance/record-main-copy.md#abstract) | **Required** | **Required** | **Required** |  |
-| [Start Date](project-entry-guidance/record-main-copy.md#time-period) | **Required** | As Applicable | **Required** |  |
-| [End Date](project-entry-guidance/record-main-copy.md#time-period) | **Required** | **Required** | **Required** |  |
+| Title | **Required** | **Required** | **Required** | **Required** |
+| Status | **Required** | **Required** | **Required** | **Required** |
+| Resource Type |  | **Required** |  |  |
+| Point of Contact | **Required** | **Required** |  |  |
+| Custodian | **Required** | **Required** |  |  |
+| Principal Investigator | As applicable | As applicable | **Required** |  |
+| Administrator | **Required** |  | **Required** |  |
+| Administrative Region | **Required** | **Required** |  |  |
+| co-Principal Investigator | As applicable |  |  |  |
+| Abstract | **Required** | **Required** | **Required** |  |
+| Start Date | **Required** | As Applicable | **Required** |  |
+| End Date | **Required** | **Required** | **Required** |  |
 
 #### Citation Information
 
 | Metadata Field | Project metadata |  Product metadata | ScienceBase  30-day Policy |     DOI metadata  |
 | :--- | :--- | :--- | :--- | :--- |
-| [Title](project-entry-guidance/record-main-copy.md#title-1) | **Required** | **Required** | \*\*\*\* |  |
+| Title | **Required** | **Required** | \*\*\*\* |  |
 | Acquisition Date |  | As Applicable |  |  |
 | Creation Date |  | As Applicable |  |  |
 | Date Updated |  | As Applicable |  |  |
 | Date Revised |  | As Applicable |  |  |
 | Date Published |  | As Applicable |  |  |
-| [Principal Investigator](project-entry-guidance/record-main-copy.md#citation-required-fields) | **Required** | **Required** | **Required** | **Required** |
+| Principal Investigator | **Required** | **Required** | **Required** | **Required** |
 | Online Resource Name | As Applicable | As Applicable |  |  |
-| [Online Resource URL](project-entry-guidance/record-main-copy.md#online-resource) | **Required** | **Required** |  |  |
+| Online Resource URL | **Required** | **Required** |  |  |
 | URL Function | As Applicable | As Applicable |  |  |
 | Metadata Identifier | Required | Required |  |  |
 | identifier Namespace | Required | Required |  |  |
