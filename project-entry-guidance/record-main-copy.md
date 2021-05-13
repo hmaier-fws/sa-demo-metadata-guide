@@ -136,7 +136,7 @@ Enter a short narrative about the purpose of the resource such as the issue or p
 
 Enter comments, if desired.
 
-![](../.gitbook/assets/description_lcc.png)
+![Example Abstract entry in mdEditor](../.gitbook/assets/description_lcc.png)
 
 ## Time Period
 
@@ -148,5 +148,5 @@ This set of dates is distinct from the fiscal year of funding. Here you want to 
 
 For each project, add a Start Date and End Date. If the project spanned a single fiscal year, you can use the “Pick a Fiscal Year” dropdown to autofill the date fields.
 
-![](../.gitbook/assets/main-time-period.PNG)
+![Example Project Start and End Dates entry in mdEditor](../.gitbook/assets/main-time-period.PNG)
 
