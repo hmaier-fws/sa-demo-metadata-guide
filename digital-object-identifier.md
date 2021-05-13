@@ -1,6 +1,6 @@
 # Digital Object Identifier \(DOI\)
 
-A Digital Object Identifier \(DOI\) is a globally unique, persistent, and resolvable identifier used to uniquely identify objects and are widely used to identify academic, professional, and government information \(e.g., journal articles, research reports, data sets, official publications\).  DOIs are standardized by the International Organization of Standards \(ISO\).  DOIs are connected to the asset in perpetuity through a DOI hosting service \(e.g., DataCite or CrossRef\) that maintains the link to the resource. 
+A Digital Object Identifier \(DOI\) is a globally unique, persistent, and resolvable identifier used to uniquely identify objects and are widely used to identify academic, professional, and government information \(e.g., journal articles, research reports, data sets, official publications\).  Think of it as a Social Security Number for your data.  DOIs are standardized by the International Organization of Standards \(ISO\).  DOIs are connected to the asset in perpetuity through a DOI hosting service \(e.g., DataCite or CrossRef\) that maintains the link to the resource. 
 
 DOIs should be assigned to Service-funded assets such as dataset, services, models, and reports, with the exception of research publications where journals assign the DOIs.  Using DOIs promotes discovery and re-useability of the Service’s work and investments in data and ensures appropriate recognition for those collecting and properly managing data assets.
 
