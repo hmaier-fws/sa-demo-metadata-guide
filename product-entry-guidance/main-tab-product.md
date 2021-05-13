@@ -36,7 +36,7 @@ The **Status** drop-down menu allows you to select the status of your product. C
 
 ## Resource Types
 
-The Resource Type should be automatically filled in with the resource type you selected when you created your record. Name is optional - you can leave this blank or enter a shorten project name.
+The Resource Type must be identified when the record is created.  Products must be identified from the list of options, but 'product', while on the list, is not a valid option.  After the record is initiated the field should be automatically filled in with the resource type selected when the record was created.  Name is optional - you can leave this blank or enter a shorten project name.
 
 {% hint style="info" %}
 Products must have a specific resource type selected, NOT just "product".

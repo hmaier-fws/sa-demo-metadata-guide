@@ -10,7 +10,7 @@ Below are metadata fields that are required for Project metadata, Data Product m
 | :--- | :--- | :--- | :--- | :--- |
 | Title | [**Required**](project-entry-guidance/record-main-copy.md#title)\*\*\*\* | \*\*\*\*[**Required**](product-entry-guidance/main-tab-product.md#title-required)\*\*\*\* | **Required** | **Required** |
 | Status | \*\*\*\*[**Required**](project-entry-guidance/record-main-copy.md#status)\*\*\*\* | [**Required**](product-entry-guidance/main-tab-product.md#status)\*\*\*\* | **Required** | **Required** |
-| Resource Type |  | **Required** |  |  |
+| Resource Type |  | \*\*\*\*[**Required**](product-entry-guidance/main-tab-product.md#resource-types)\*\*\*\* |  |  |
 | Point of Contact | **Required** | **Required** |  |  |
 | Custodian | **Required** | **Required** |  |  |
 | Principal Investigator | As applicable | As applicable | **Required** |  |
