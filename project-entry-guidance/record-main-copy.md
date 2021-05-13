@@ -47,8 +47,6 @@ Adding a point of contact gives users information on who to contact should they 
 To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the [Contact](https://github.com/tpatterson1996/lcc-metadata-manual/tree/287090b07635d0e76a714278ce1f6c4aac3594cc/product-entry-guidance/contact-entry-guidance.md) Section for more information.
 {% endhint %}
 
-### Contacts
-
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
 | pointOfContact | FWS Science Applications National Data Steward | Required |
@@ -147,8 +145,6 @@ Enter comments, if desired.
 {% hint style="info" %}
 This set of dates is distinct from the fiscal year of funding. Here you want to indicate the overall project start and end dates. In the Funding section you will specify the fiscal years that funds were allocated.
 {% endhint %}
-
-### Dates
 
 For each project, add a Start Date and End Date. If the project spanned a single fiscal year, you can use the “Pick a Fiscal Year” dropdown to autofill the date fields.
 

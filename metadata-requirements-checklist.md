@@ -8,18 +8,18 @@ Below are metadata fields that are required for Project metadata, Data Product m
 
 | Metadata Field | Project metadata |  Product metadata | ScienceBase  30-day Policy |     DOI metadata  |
 | :--- | :--- | :--- | :--- | :--- |
-| Title | **Required** | **Required** | **Required** | **Required** |
-| Status | **Required** | **Required** | **Required** | **Required** |
-| Resource Type |  | **Required** |  |  |
-| Point of Contact | **Required** | **Required** |  |  |
+| [Title](project-entry-guidance/record-main-copy.md#title) | **Required** | **Required** | **Required** | **Required** |
+| [Status](project-entry-guidance/record-main-copy.md#status) | **Required** | **Required** | **Required** | **Required** |
+| [Resource Type](project-entry-guidance/record-main-copy.md#resource-types) |  | **Required** |  |  |
+| [Point of Contact](project-entry-guidance/record-main-copy.md#point-of-contacts) | **Required** | **Required** |  |  |
 | Custodian | **Required** | **Required** |  |  |
 | Principal Investigator | As applicable | As applicable | **Required** |  |
 | Administrator | **Required** |  | **Required** |  |
 | Administrative Region | **Required** | **Required** |  |  |
 | co-Principal Investigator | As applicable |  |  |  |
-| Abstract | **Required** | **Required** | **Required** |  |
-| Start Date | **Required** | As Applicable | **Required** |  |
-| End Date | **Required** | **Required** | **Required** |  |
+| [Abstract](project-entry-guidance/record-main-copy.md#abstract) | **Required** | **Required** | **Required** |  |
+| [Start Date](project-entry-guidance/record-main-copy.md#time-period) | **Required** | As Applicable | **Required** |  |
+| [End Date](project-entry-guidance/record-main-copy.md#time-period) | **Required** | **Required** | **Required** |  |
 
 #### Citation Information
 
