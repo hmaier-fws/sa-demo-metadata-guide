@@ -19,7 +19,7 @@ Record ID will be auto-generated. It can be edited but it should only be edited 
 
 ### Title
 
-Enter as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable.
+Enter a concise, yet informative title. Good titles, when they appear in a search, will be understood and/or traceable.
 
 ### Status
 
