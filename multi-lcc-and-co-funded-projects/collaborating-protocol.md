@@ -1,4 +1,4 @@
-# Collaborating Protocol
+# Collaboration Protocol
 
 ## Applicability
 

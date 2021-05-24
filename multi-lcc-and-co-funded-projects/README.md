@@ -1,15 +1,16 @@
 # Co-funded Project Requirements
 
-This section describes the additional metadata entry requirements for documenting projects and products that involved multiple SA regions or FWS programs, or were co-funded with the USGS Climate Adaptation Science Centers \(CASCs\).  SA metadata requirements and best practices described in [Project Entry Guidance](../project-entry-guidance/) still apply, unless otherwise noted.
+This section describes the additional metadata entry requirements for documenting projects and products that involved multiple SA regions or FWS programs, or were co-funded with the USGS Climate Adaptation Science Centers \(CASCs\) or other federal bureaus.  SA metadata requirements and best practices described in [Project Entry Guidance](../project-entry-guidance/) still apply, unless otherwise noted below.
 
 ## Goals
 
 The goals for these guidelines are:
 
-1. to maintain consistent, quality metadata records for projects and products across all FWS regions for inclusion in the SA Science Catalog;
-2. to avoid duplicate reporting of the same funding dollars, while also allowing each regional program to fully describe how it provided funds or otherwise supported a project;
-3. to avoid the appearance of duplicated research efforts between FWS and CASCs; and
-4. to clearly communicate the relationships between FWS and CASC funded projects to the public.
+1. to identify when a project is co-funded and which protocol to follow;
+2. to maintain consistent, quality metadata records for projects and products across all FWS regions for inclusion in the SA Science Catalog;
+3. to avoid duplicate reporting of the same funding dollars, while also allowing each regional program to fully describe its financial contribution and  project support;
+4. to avoid the appearance of duplicated research efforts between FWS and CASCs or other federal bureaus \(see [Policy Guidance](../policy-guidance.md#non-duplication-policy)\)
+5. and to clearly communicate the relationships between separate, but related, FWS and CASC funded projects to the public.
 
 ## Terms
 
@@ -37,5 +38,7 @@ The goals for these guidelines are:
 
 **FWS/CASC Co-funded Project**: FWS region\(s\) and CASC\(s\) co-fund a project without distinct sub-projects.
 
-![](https://lh6.googleusercontent.com/JJ8rqLfBuc4NEoF9KxTtojXjrNVchQmcaDuXyU1WGG1g3IHT4GXl8oE0p74P6urP_mREnvjS1GZFgyue59jhQT7M8ok-Cop8Ru8qGQFKjUsY77tFLMtcBdpTLGyxA2d965bARVqz)_Figure 1: Protocol Decision Flow Chart_
+![](https://lh6.googleusercontent.com/JJ8rqLfBuc4NEoF9KxTtojXjrNVchQmcaDuXyU1WGG1g3IHT4GXl8oE0p74P6urP_mREnvjS1GZFgyue59jhQT7M8ok-Cop8Ru8qGQFKjUsY77tFLMtcBdpTLGyxA2d965bARVqz)_See the flowchart below for identifying which protocol to follow._
+
+![Decision Support Flow Chart for co-funded projects](../.gitbook/assets/datamangerssciececatalogv2april.jpg)
 
