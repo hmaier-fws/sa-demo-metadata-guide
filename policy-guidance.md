@@ -1,4 +1,4 @@
-# Policy Guidance
+# Non Duplication Policy Guidance
 
 ### Non Duplication Policy
 
@@ -7,10 +7,10 @@ Based on a 2017 OIG audit, minimal metadata fields are required to be published 
 | Quick Reference: Project metadata for Non Duplication Policy | Required? |
 | :--- | :--- |
 | Basic Information: Title, Status | Required |
-| Point of Contact: administrator | Required |
-| Principal Investigator\(s\), organization | Required |
+| Point of Contacts \(see [Main Tab: Project](project-entry-guidance/record-main-copy.md#point-of-contacts)\) | Required |
 | Description: Abstract | Required |
 | Time Period | Required |
+| Keywords | Required |
 | Funding: Award Number, amount, source, fiscal year, recipients | Required |
 
 Below is a copy of the Non Duplication Policy guidance memo, in detail for reference: 

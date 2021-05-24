@@ -50,18 +50,18 @@ To add contacts to a metadata record, you must first create/upload the contacts 
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
 | pointOfContact | FWS Science Applications National Data Steward | Required |
-| pointOfContact | Data Steward | Required |
-| principalInvestigator | The Project PI | Required, if applicable |
+| pointOfContact | Data Trustee, Data Steward | Required |
+| principalInvestigator | The Project PI and/or producer | Required, if applicable |
 | custodian | Data Custodian | Required, if applicable |
 | administrator | Project officer and/or Data Trustee | Required |
-| administrator | FWS Region \(legacy and DOI Unified\) | Required |
+| administrator | FWS Region \(legacy and DOI Unified\), FWS Program | Required |
 | collaborator | partnership organizations and/or programs | Required, if applicable |
+
+![Example Points of Contact Entry in mdEditor](../.gitbook/assets/image%20%2846%29.png)
 
 {% hint style="info" %}
 The FWS Science Applications National Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. Regional Data Steward should be included in addition as a point of contact if available.
 {% endhint %}
-
-![Example Points of Contact in mdEditor](../.gitbook/assets/image%20%2843%29.png)
 
 ## Citation
 
