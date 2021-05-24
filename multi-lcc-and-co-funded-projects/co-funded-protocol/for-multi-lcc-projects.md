@@ -1,10 +1,10 @@
-# for FWS multiple region or program funded Projects
+# FWS co-funded Projects
 
 ## Applicability
 
 Refer to this protocol if:
 
-* One or more regions or programs each contribute funding for a project and distinct sub-projects can not identified and attributed to any region or program.
+* One or more regions or programs each contribute funding for a project and distinct sub-projects or products cannot be identified and attributed to any region or program.
 
 ## Metadata Responsibility
 

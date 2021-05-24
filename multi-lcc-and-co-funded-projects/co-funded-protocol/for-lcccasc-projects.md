@@ -1,4 +1,4 @@
-# for FWS/CASC Projects & Products
+# FWS/CASC Projects & Products
 
 ## Applicability
 

@@ -36,7 +36,7 @@ The goals for these guidelines are:
 
 **Multi-regional Co-funded Project**: One region leads a project with funding support from another region\(s\). The project cannot be divided into distinct sub-projects.
 
-**FWS/CASC Co-funded Project**: FWS region\(s\) and CASC\(s\) co-fund a project without distinct sub-projects.
+**FWS/CASC Co-funded Project**: FWS region\(s\) and CASC\(s\) co-fund a project without distinct sub-projects or products.
 
 ![](https://lh6.googleusercontent.com/JJ8rqLfBuc4NEoF9KxTtojXjrNVchQmcaDuXyU1WGG1g3IHT4GXl8oE0p74P6urP_mREnvjS1GZFgyue59jhQT7M8ok-Cop8Ru8qGQFKjUsY77tFLMtcBdpTLGyxA2d965bARVqz)_See the flowchart below for identifying which protocol to follow._
 
