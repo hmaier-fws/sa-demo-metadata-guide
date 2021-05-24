@@ -2,11 +2,11 @@
 
 ## Applicability
 
-* One or more Service regions or programs provides funding support for a project with one or more CASCs and distinct sub-projects can not identified and attributed to any Service region or program or CASC separately.  This protocol is for the project metadata.
+* One or more Service regions or programs provides funding support for a project with one or more USGS Climate Adaptation Science Center \(CASC\) or other DOI agency where distinct sub-projects or products cannot be separately identified and attributed to either agency.
 
 ## Metadata Responsibility
 
-The Service data manager is responsible for processing the CASC project and product metadata for inclusion in the SA Science Catalog. The CASC data manager will complete their metadata responsibilities for the CASC records independently according to their requirements.
+This protocol was developed with the CASCc and therefore, focuses on their specific needs, but may be applied to other DOI agency collaborations. The Service data manager is responsible communications with the partner agency and for processing the project and product metadata for inclusion in the SA Science Catalog. The CASC data manager will complete their metadata responsibilities for the CASC records independently according to their requirements.
 
 ## Co-funded Project Workflow
 
