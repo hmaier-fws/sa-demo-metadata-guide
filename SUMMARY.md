@@ -11,7 +11,7 @@
   * [Editing / Re-Publishing](getting-started/editing-re-publishing.md)
   * [PTS Considerations](getting-started/pts.md)
 * [Settings](settings.md)
-* [mdEditor File Management](data-management/README.md)
+* [mdEditor Metadata File Management](data-management/README.md)
   * [Import](data-management/import/README.md)
     * [mdJSON](data-management/import/mdjson.md)
     * [sbJSON](data-management/import/sbjson.md)
