@@ -1,4 +1,4 @@
-# mdEditor Metadata File Management
+# mdEditor File Management
 
 File management in mdEditor involves consistent and proper handling and storage of mdEditor derived formats of metadata. These files are essential for long-term access to metadata beyond a single work session.
 
