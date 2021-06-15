@@ -21,7 +21,7 @@ _The following fields are available for **Organization Contacts:**_
 If you upload a logo to your contact record, you must include a filename for the logo. Otherwise, an error will occur n the metadata records that include that contact.
 {% endhint %}
 
-_Commonly used organization contacts are populated_ _in the 'seed' contact list available on the_ [SA HQ ScienceBase community item](https://www.sciencebase.gov/catalog/item/5df8d2b7e4b0cdded73b4069) page.
+
 
 > For more information, consult the [**Organization Contacts**](https://adiwg.gitbooks.io/mdeditor/content/contact/new/organization.html) ****section of the mdEditor manual.
 
