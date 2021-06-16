@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Roles & Responsibilities \(draft\)](roles-and-responsibilities-draft.md)
 * [Goals of SA Data Management](background.md)
 * [SA Science Metadata Catalog](lcc-science-catalog.md)
 * [Projects, Products, Contacts](lcc-projects-products-contacts.md)
