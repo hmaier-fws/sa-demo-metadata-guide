@@ -1,6 +1,8 @@
 # Introduction
 
-_Note: This is a working draft that will continue to be edited. **Last updated: 4 December 2018**. Please refresh this manual every time you open it to ensure you are viewing the most recent version._
+_Note: This is a working draft that will continue to be edited. **Last updated: 15 June 2021**. Please refresh this manual every time you open it to ensure you are viewing the most recent version._
+
+If you have questions/concerns regarding this guidance, please contact the FWS SA National Data Steward \(sadatasteward@fws.gov\) or Tammy Patterson \(tpatterson@usgs.gov until August 1\).
 
 ## Introduction
 
@@ -8,7 +10,7 @@ This manual describes the requirements and best practices for the creation of hi
 
 ## USFWS Data Management Integration
 
-Metadata creation is part of the Maintain step of the [Data Management Lifecycle](https://doimspp.sharepoint.com/sites/fws-data/SitePages/Data_management_life_cycle_home.aspx).   \(link to USFWS data management handbook\)
+Metadata creation is part of the Maintain step of the [Data Management Lifecycle](https://doimspp.sharepoint.com/sites/fws-data/SitePages/Data_management_life_cycle_home.aspx).   Guidance is also available in the [USFWS data management handbook.](https://doimspp.sharepoint.com/sites/fws-data/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Ffws%2Ddata%2FShared%20Documents%2FDataManagementHandbook%2Epdf&parent=%2Fsites%2Ffws%2Ddata%2FShared%20Documents)
 
 ### Metadata and mdEditor
 
