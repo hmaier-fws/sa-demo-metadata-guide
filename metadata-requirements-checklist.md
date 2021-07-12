@@ -11,14 +11,14 @@ Below are metadata fields that are required for Project metadata, Data Product m
 | Title | [**Required**](project-entry-guidance/record-main-copy.md#title)\*\*\*\* | \*\*\*\*[**Required**](product-entry-guidance/main-tab-product.md#title-required)\*\*\*\* | **Required** | **Required** |
 | Status | \*\*\*\*[**Required**](project-entry-guidance/record-main-copy.md#status)\*\*\*\* | [**Required**](product-entry-guidance/main-tab-product.md#status)\*\*\*\* | **Required** | **Required** |
 | Resource Type |  | \*\*\*\*[**Required**](product-entry-guidance/main-tab-product.md#resource-types)\*\*\*\* |  |  |
-| Point of Contact | **Required** | **Required** |  |  |
+| Point of Contact | \*\*\*\*[**Required**](project-entry-guidance/#main-tab)\*\*\*\* | \*\*\*\*[**Required**](product-entry-guidance/#main-tab)\*\*\*\* |  |  |
 | Custodian | **Required** | **Required** |  |  |
 | Principal Investigator | As applicable | As applicable | **Required** |  |
 | Administrator | **Required** |  | **Required** |  |
 | Administrative Region | **Required** | **Required** |  |  |
 | co-Principal Investigator | As applicable |  |  |  |
 | Abstract | **Required** | **Required** | **Required** |  |
-| Start Date | **Required** | As Applicable | **Required** |  |
+| Start Date | \*\*\*\*[**Required**](project-entry-guidance/)  | As Applicable | **Required** |  |
 | End Date | **Required** | **Required** | **Required** |  |
 
 #### Citation Information
