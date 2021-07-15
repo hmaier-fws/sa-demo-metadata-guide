@@ -4,13 +4,12 @@
 
 Based on a 2017 OIG audit, minimal metadata fields are required to be published within 30-days of project funding. The purpose of this policy is to share information with partners regarding what science projects SA is supporting.  This transparency helps to reduce duplication of efforts across funding agencies and allows partners to discover and engage in SA supported science as desired. 
 
-| Quick Reference: Project metadata for Non Duplication Policy | Required? |
+| Quick Reference: Project metadata for Non Duplication Policy | Required |
 | :--- | :--- |
 | Basic Information: Title, Status | Required |
 | Point of Contacts \(see [Main Tab: Project](project-entry-guidance/record-main-copy.md#point-of-contacts)\) | Required |
 | Description: Abstract | Required |
 | Time Period | Required |
-| Keywords | Required |
 | Funding: Award Number, amount, source, fiscal year, recipients | Required |
 
 Below is a copy of the Non Duplication Policy guidance memo, in detail for reference: 
@@ -89,7 +88,7 @@ d.      Include copies of [ScienceBase search template](https://doimspp.sharepoi
 3. You can use mdEditor to make the records if that is your preference, or do it directly in ScienceBase. Here is a [video tutorial](https://doimspp.sharepoint.com/sites/NationalScienceApplicationsTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FNationalScienceApplicationsTeam%2FShared%20Documents%2FGeneral%2FFinancial%20Resources%2FNon%2Dduplication%20Policies%2FAll%20Other%20SA%20NonDuplication%20Policy%20Documents%2FEnterScienceProjectsOnScienceBase%2Emp4&parent=%2Fsites%2FNationalScienceApplicationsTeam%2FShared%20Documents%2FGeneral%2FFinancial%20Resources%2FNon%2Dduplication%20Policies%2FAll%20Other%20SA%20NonDuplication%20Policy%20Documents) showing how to enter directly on ScienceBase.
 4. If you have a science activity that more than one FWS region contributed funds to, but there was a “lead region” that actually administered a single financial award / contract, then that lead region should create and maintain a single record in ScienceBase for the project and its products. The project record should list the total amount of Service funds in the financial / award contract \(i.e., all regions combined\).
 5. If you have a science activity with multiple financial awards / contracts, then each award / contract should have its own ScienceBase record \(note: modifications ARE NOT considered new awards / contracts\). Whichever region administered each financial award / contract should create and maintain project and product records in ScienceBase. Please include the ScienceBase URL\(s\) for the related projects in the abstract. Example language: “this project is part of a larger initiative; you can find related records here: URL 1, URL 2, …”\).
-6. If you need “editing” access to your region’s [ScienceBase folder](https://www.sciencebase.gov/catalog/item/5b4e1c3fe4b06a6dd17df2d3)...email Jill \([jillian\_cohen@fws.gov](mailto:jillian_cohen@fws.gov)\) or Megan \([megan\_cook@fws.gov](mailto:megan_cook@fws.gov)\).
+6. If you need “editing” access to your region’s [ScienceBase folder](https://www.sciencebase.gov/catalog/item/5b4e1c3fe4b06a6dd17df2d3)...email Jill \([jillian\_cohen@fws.gov](mailto:jillian_cohen@fws.gov)\).
 7. If you want a little more detail about what the “ScienceBase” policy is…Start with [slides  from a presentation](https://doimspp.sharepoint.com/:p:/r/sites/NationalScienceApplicationsTeam/Shared%20Documents/NonDuplication%20Policy%20Resources/All%20Other%20SA%20NonDuplication%20Policy%20Documents/Presentations%20and%20webinars/Non-duplication%20for%20data%20managers.pptx?d=wea644bccaf384d4e8fa6e0bfc5b8553d&csf=1&e=e8Ppoe) Jill gave to the Data Management Working Group August 2018.
 8. If you want all the details about the non-duplication policies...[This dashboard](https://doimspp.sharepoint.com/:w:/r/sites/NationalScienceApplicationsTeam/Shared%20Documents/NonDuplication%20Policy%20Resources/READ%20ME%20FIRST.docx?d=wbbecf1f040af46c892c2246b50f327cb&csf=1&e=xoY6en) is your gateway.
 9. If you read through the slides and other documents and still have questions, or just want to check to make sure you’re doing things right...Call or email Jill \([jillian\_cohen@fws.gov](mailto:jillian_cohen@fws.gov); 703.358.1764\).
