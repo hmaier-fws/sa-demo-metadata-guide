@@ -12,7 +12,7 @@ This protocol was developed with the CASCc and therefore, focuses on their speci
 
 For projects and products co-funded with the CASC, the CASCs will create their own ScienceBase items according to their requirements. In order for those projects and products to be included in the SA Science Catalog, a duplicate metadata records need to be created and linked to the CASC metadata records. While duplicate metadata records are not the preferred option, the specific individual requirements for each agency warrants this system.   
 
-The general approach is to make a copy of the CASC metadata in mdEditor, modify the metadata to meet SA metadata requirements, including the repository tag for the Science Catalog, add a statement in the abstract explaining the collaboration, and include a url link to the CASC ScienceBase record. The statement in the abstract and the links to the CASC ScienceBase records will clarify that these are alternate references for the same item \(not duplicative efforts\), and in the case of products, provide access to the actual data/tool/etc. hosted on ScienceBase.  These additions are detailed below.
+The general approach is to make a copy of the CASC metadata in mdEditor, modify the metadata to meet SA metadata requirements, including the repository tag for the Science Catalog, **add a statement in the abstract explaining the collaboration**, and include a url link to the CASC ScienceBase record. The statement in the abstract and the links to the CASC ScienceBase records will clarify that these are alternate references for the same item \(not duplicative efforts\), and in the case of products, provide access to the actual data/tool/etc. hosted on ScienceBase.  These additions are detailed below.
 
 ### Workflow Option 1
 
