@@ -50,9 +50,10 @@ To add contacts to a metadata record, you must first create/upload the contacts 
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
 | pointOfContact | FWS Science Applications National Data Steward | Required |
-| pointOfContact | Data Trustee, Data Steward | Required |
+| pointOfContact | Data Steward | Required |
 | principalInvestigator | The Project PI and/or producer | Required, if applicable |
 | custodian | Data Custodian | Required, if applicable |
+| owner | Data Trustee | Required |
 | administrator | Project officer and/or Data Trustee | Required |
 | administrator | FWS Region \(legacy and DOI Unified\), FWS Program | Required |
 | collaborator | partnership organizations and/or programs | Required, if applicable |
