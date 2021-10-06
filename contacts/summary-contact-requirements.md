@@ -18,10 +18,12 @@ _Please see the corresponding sections for which contacts should be added where.
 
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
-| pointOfContact | SA National Data Steward | Required |
+| pointOfContact | FWS SA National Data Steward | Required |
 | pointOfContact | your region Data Steward | Best Practice |
 | pointOfContact | data steward | Required |
 | custodian | data custodian | Best Practice |
+| originator | data producer | Best Practice |
+| owner | data trustee | Best Practice |
 | principalInvestigator | The Project PI | Best Practice |
 | administrator | FWS project officer | Required |
 | administrator | FWS region | Required |
@@ -41,11 +43,11 @@ This must include a point of contact, but may also include other responsible par
 | :--- | :--- | :--- |
 | author | See notes below | At least one is required |
 | publisher | default is FWS | Required |
-| pointOfContact | FWS data steward | Required |
+| pointOfContact | FWS SA National Data Steward | Required |
 
 **Regarding Role of "author"**
 
-* The author does not necessarily have to be the data steward \(e.g., imported FGDC metadata can list the original author\).
+* The author does not necessarily have to be the data steward \(e.g., metadata imported FGDC metadata can list the original author\).
 * "Author" can be an individual or an organization.
 * You can enter your regional or program data manager as the “author”. If you prefer, you can use a generic data manager contact rather than an individual name.
 * At least one contact with the role of “author” is required.
@@ -64,7 +66,7 @@ Funding source should always identify the agency or organization, rather than a 
 
 Add the relevant contact for the “recipient” of the project funding. Recipient should always be an organization, not an individual. For example, the Principal Investigator would not be listed as the recipient, but their organization would be. If there are multiple recipients for a project, they should be added as separate allocations.
 
-The Principal Investigator may be added n the Other Contacts field as "principalInvestigator."
+The Principal Investigator may be added in the Other Contacts field as "principalInvestigator."
 
 {% hint style="info" %}
 Funding administrator can also be used to differentiate funding from different programs/offices within the same agency. For example, the U.S. Fish and Wildlife Service can be identified as the funding source and the funding administrator could include "Ecological Services" or a specific field office.

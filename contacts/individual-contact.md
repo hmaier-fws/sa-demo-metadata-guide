@@ -22,13 +22,15 @@ _The following fields are available for **Individual Contacts:**_
 If you upload a logo to your contact record, you must include a filename for the logo. Otherwise, mdEditor will indicate an error on the metadata records that includes this contact.
 {% endhint %}
 
-## SA Network Data Steward
+## FWS SA National Data Steward
 
 _The SA National Data Steward is required as a "PointOfContact" in the Point of Contact section of the Main Tab and in the Contacts section of the Metadata Tab._
 
+_This contact information is populated in the 'seed' contact list available on the_ [SA HQ ScienceBase community item](https://www.sciencebase.gov/catalog/item/5df8d2b7e4b0cdded73b4069) page.
+
 **The SA National Data Steward:**
 
-* **Individual Name:** SA National Data Steward
+* **Individual Name:** FWS Science Applications National Data Steward
 * **Contact Type:** federal
 * **Email Address:** sadatasteward@fws.gov
 

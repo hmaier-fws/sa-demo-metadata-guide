@@ -23,11 +23,11 @@ It is recommended that when you export records, you also export your entire cont
 * Always spell out acronyms and organization names.
 * Make sure your contacts are loaded and accurate in mdEditor before creating or editing your metadata records. 
 
-## Contacts Seed File
+## mdEditor Contacts Seed File
 
-The "contacts seed file" contains pre-filled information and standard naming conventions for FWS, common federal agencies, and generic Data Stewards. Using this file will increase consistency across all SA metadata records for common contacts and reduce the amount of processing needed before records go into the Science Catalog.
+The "contacts seed file" contains pre-filled information and standard naming conventions for FWS, common federal agencies and partners, and generic Data Stewards. This file is quickly imported into mdEditor and is intended to provide consistency for SA metadata records across the regions for common contacts and reduce the amount of processing needed before records go into the Science Catalog.
 
-SA maintains a 'seed' list of contacts that can be found in the[ SA ScienceBase community item page](https://www.sciencebase.gov/catalog/item/5b4e1c3fe4b06a6dd17df2d3).
+SA headquarters maintains a 'seed' list of contacts that can be found in the [SA HQ ScienceBase community item](https://www.sciencebase.gov/catalog/item/5df8d2b7e4b0cdded73b4069) page.
 
 ## Importing Contacts from ScienceBase
 

@@ -7,7 +7,6 @@
 * [Projects, Products, Contacts](lcc-projects-products-contacts.md)
 * [Non Duplication Policy Guidance](policy-guidance.md)
 * [Workflow](getting-started/README.md)
-  * [Data Management Workflow](getting-started/data-management-workflow.md)
   * [Metadata From Scratch](getting-started/from-scratch.md)
   * [Metadata From ScienceBase](getting-started/sciencebase-first.md)
   * [Metadata Editing / Re-Publishing](getting-started/editing-re-publishing.md)
