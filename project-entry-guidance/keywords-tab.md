@@ -1,28 +1,28 @@
 # Keywords Tab: Project
 
-Adding keywords to your metadata record allows for the record to be found later through a search engine, keywords are the way to tag your projects or products. The mdEditor is designed using thesauruses that contain pre-determined keywords. There are three LCC-specific thesauruses that provide These thesauruses create a 'controlled vocabulary' so that all LCC metadata can adhere to the same standards, and future search results can return clear results of projects and products.
+Adding keywords to your metadata record allows for the record to be found later through a search engine, keywords are the way to tag your projects or products. mdEditor is designed using existing thesauruses that contain pre-determined keywords.&#x20;
 
-| Quick Reference: Project Keywords Tab | Required? |
-| :--- | :--- |
-| ISO Topic Category | Required |
-| SA Priority Category | Required |
-| Science Topic Category | Required |
-| Conservation Action Open Standard | Required, if applicable |
+| Quick Reference: Project Keywords Tab    | Required?               |
+| ---------------------------------------- | ----------------------- |
+| ISO Topic Category                       | Required                |
+| SA Priority Category                     | Required                |
+| Science Topic Category                   | Required                |
+| Conservation Action Open Standard        | Required, if applicable |
 | Strategic Habitat Conservation Component | Required, if applicable |
-| GCMD Keywords | Best Practice |
-| Shared Priority Keywords | Best Practice |
+| GCMD Keywords                            | Best Practice           |
+| Shared Priority Keywords                 | Best Practice           |
 
 ## Add Keywords to your Project
 
 1. Click “+ Add Thesaurus” on the right to add the different thesauruses.
 2. Add keywords from the following pre-populated thesauruses.
-3. If none of the keywords in the following categories are sufficient for tagging your project, you can add other keywords with a custom thesaurus \(see below for more information\).
+3. If none of the keywords in the following categories are sufficient for tagging your project, you can add other keywords with a custom thesaurus (see below for more information).
 
 ## SA Project Required Keywords
 
-### ISO Topic Category \(Required\)
+### ISO Topic Category (Required)
 
-Because mdJSON metadata is based on the ISO \(International Organization for Standardization\) metadata standard, all LCC projects must select at least one ISO Topic Category. ISO topics were generally meant for spatial data so they might be a bit of a stretch, bu do your best to find the best fit. mdEditor provides definitions of each ISO topic category if you hover over the ? icon.
+Because mdJSON metadata is based on the ISO (International Organization for Standardization) metadata standard, all LCC projects must select at least one ISO Topic Category. ISO topics were generally meant for spatial data so they might be a bit of a stretch, bu do your best to find the best fit. mdEditor provides definitions of each ISO topic category if you hover over the ? icon.
 
 Choose all that apply.  The ISO Topic list is as follows:
 
@@ -49,7 +49,7 @@ Choose all that apply.  The ISO Topic list is as follows:
 Tip: Biota and environment are probably the best fit for most LCC projects.
 {% endhint %}
 
-### SA Priority Area \(Required\)
+### SA Priority Area (Required)
 
 Choose all that apply.  The list of options includes the following:
 
@@ -64,7 +64,7 @@ Choose all that apply.  The list of options includes the following:
 9. Organization Operations and Standards
 10. Communications
 
-### Science Topic \(Required\)
+### Science Topic (Required)
 
 Choose all that apply.  The list of options includes the following:
 
@@ -93,53 +93,53 @@ Choose all that apply.  The list of options includes the following:
 23. Policy
 24. Economics
 
-### Conservation Action Open Standard \(Required, if applicable\)
+### Conservation Action Open Standard (Required, if applicable)
 
 The Open Standards for the Practice of Conservation is a globally utilized nomenclature for conservation. Including these keywords helps to align the work of USFWS Science Applications with global conservation efforts and to utilize the shared resources of the Conservation Standards Network. The open standards keywords for conservation actions are as listed:
 
-|   Land / Water Management  \(1.0\) |
-| :--- |
-|      Site/Area Stewardship \(1.1\) |
-|      Ecosystem & natural process \(re\)creation \(1.2\) |
-| Species Management  \(2.0\) |
-|      Species stewardship \(2.1\) |
-|      Species re-introduction & translocation \(2.2\) |
-|      Ex-situ conservation \(2.3\) |
-| Awareness Raising  \(3\) |
-|      Outreach & communications \(3.1\) |
-|      Protests & Civil Dosobedience \(3.2\) |
-| Law Enforcement and Protection \(4.0\) |
-|      Detection & Arrest \(4.1\) |
-|      Criminal Prosecution & Conviction \(4.2\) |
-|       Non-Criminal Legal Action \(4.3\) |
-| Livelihood, Economic, and Moral Incentives  \(5\) |
-|      Linked enterprises & alternative livelihoods \(5.1\) |
-|      Better products & management practices \(5.2\) |
-|      Market-base incentives \(5.3\) |
-|      Direct economic incentives \(5.4\) |
-|      Non-monetary values \(5.5\) |
-| Conservation Designation and Planning  \(6\) |
-|      Protected area designation or acquisition \(6.1\) |
-|      Easements & Resource rights \(6.2\) |
-|      Land/Water use zoning & designation \(6.3\) |
-|      Conservation planning \(6.4\) |
-|      Site Infrastructure \(6.5\) |
-| Legal & Policy Frameworks  \(7\) |
-|       Laws, regulations, & codes \(7.1\) |
-|       Policies & guidelines \(7.2\) |
-| Research and Monitoring  \(8\) |
-|      Basic research & Status monitoring \(8.1\) |
-|      Evaluation, effectiveness measures & learning \(8.2\) |
-| Education and Training  \(9\) |
-|      Formal education \(9.1\) |
-|      Training & individual capacity development \(9.2\) |
-| Institutional Development  \(10\) |
-|      Internal organizational management & administration \(10.1\) |
-|      External organizational development & support \(10.2\) |
-|      Alliance & partnership development \(10.3\) |
-|      Financing conservation \(10.4\) |
+|   Land / Water Management  (1.0)                                |
+| --------------------------------------------------------------- |
+|      Site/Area Stewardship (1.1)                                |
+|      Ecosystem & natural process (re)creation (1.2)             |
+| Species Management  (2.0)                                       |
+|      Species stewardship (2.1)                                  |
+|      Species re-introduction & translocation (2.2)              |
+|      Ex-situ conservation (2.3)                                 |
+| Awareness Raising  (3)                                          |
+|      Outreach & communications (3.1)                            |
+|      Protests & Civil Disobedience (3.2)                        |
+| Law Enforcement and Protection (4.0)                            |
+|      Detection & Arrest (4.1)                                   |
+|      Criminal Prosecution & Conviction (4.2)                    |
+|       Non-Criminal Legal Action (4.3)                           |
+| Livelihood, Economic, and Moral Incentives  (5)                 |
+|      Linked enterprises & alternative livelihoods (5.1)         |
+|      Better products & management practices (5.2)               |
+|      Market-base incentives (5.3)                               |
+|      Direct economic incentives (5.4)                           |
+|      Non-monetary values (5.5)                                  |
+| Conservation Designation and Planning  (6)                      |
+|      Protected area designation or acquisition (6.1)            |
+|      Easements & Resource rights (6.2)                          |
+|      Land/Water use zoning & designation (6.3)                  |
+|      Conservation planning (6.4)                                |
+|      Site Infrastructure (6.5)                                  |
+| Legal & Policy Frameworks  (7)                                  |
+|       Laws, regulations, & codes (7.1)                          |
+|       Policies & guidelines (7.2)                               |
+| Research and Monitoring  (8)                                    |
+|      Basic research & Status monitoring (8.1)                   |
+|      Evaluation, effectiveness measures & learning (8.2)        |
+| Education and Training  (9)                                     |
+|      Formal education (9.1)                                     |
+|      Training & individual capacity development (9.2)           |
+| Institutional Development  (10)                                 |
+|      Internal organizational management & administration (10.1) |
+|      External organizational development & support (10.2)       |
+|      Alliance & partnership development (10.3)                  |
+|      Financing conservation (10.4)                              |
 
-### GCMD Keywords \(Best Practice\)
+### GCMD Keywords (Best Practice)
 
 GCMD stands for Global Change Master Directory and these keywords are maintained by NASA. Look for useful keywords in the GCMD Science Keywords. There are GCMD Platforms and Instruments Keywords but they are unlikely to apply to LCCs.
 
@@ -177,5 +177,4 @@ If you imported your project metadata from ScienceBase, then the ScienceBase key
 
 If your LCC already has a controlled vocab list in ScienceBase, unfortunately it cannot connect to mdEditor. The selected keywords for any specific record will import into mdEditor, but the saved list will not be.
 
-![Example ISO Topic Category Keywords](../.gitbook/assets/keywords_window.png)
-
+![Example ISO Topic Category Keywords](../.gitbook/assets/keywords\_window.png)
