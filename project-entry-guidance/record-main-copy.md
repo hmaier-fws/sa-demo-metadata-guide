@@ -1,21 +1,21 @@
 # Main Tab: Project
 
-The **Main** tab allows for the creation and/or editing of primary metadata.
+The **Main **tab allows for the creation and/or editing of primary metadata.
 
-| Quick Reference: Project Main Tab | Required? |
-| :--- | :--- |
-| Basic Information: Title, Status | Required |
-| Resource Type | Required |
-| Point of Contact | Required |
-| Citation: Title, Dates, Responsible Parties, Online Resource, Identifier | Required |
-| Description: Abstract | Required |
-| Time Period | Required |
+| Quick Reference: Project Main Tab                                        | Required? |
+| ------------------------------------------------------------------------ | --------- |
+| Basic Information: Title, Status                                         | Required  |
+| Resource Type                                                            | Required  |
+| Point of Contact                                                         | Required  |
+| Citation: Title, Dates, Responsible Parties, Online Resource, Identifier | Required  |
+| Description: Abstract                                                    | Required  |
+| Time Period                                                              | Required  |
 
 ## Basic Information
 
 ### Record ID
 
-Record ID will be auto-generated. It can be edited but it should only be edited if absolutely necessary \(and ideally edited as soon as the record is created in mdEditor\).
+Record ID will be auto-generated. It can be edited but it should only be edited if absolutely necessary (and ideally edited as soon as the record is created in mdEditor).
 
 ### Title
 
@@ -25,19 +25,19 @@ Enter a concise, yet informative title. Good titles, when they appear in a searc
 
 The **Status** drop-down menu allows you to select the status of your project. Choose status ONLY from the four following options: _completed, ongoing, proposed, or accepted._
 
-![](../.gitbook/assets/main_screenshot_updated.png)
+![](../.gitbook/assets/main\_screenshot\_updated.png)
 
 ## Default Locale
 
-**Default Locale** allows for the selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary.  See [Settings](../settings.md) for instruction. 
+**Default Locale** allows for the selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary.  See [Settings](../settings.md) for instruction.&#x20;
 
-![](../.gitbook/assets/default_locale.png)
+![](../.gitbook/assets/default\_locale.png)
 
 ## Resource Types
 
 For projects, the Resource Type should be automatically filled in with the resource type you selected when you created your record. This should be "project" for all SA projects. Name is optional - you can leave this blank or enter a shorten project name.
 
-![](../.gitbook/assets/resource_types.png)
+![](../.gitbook/assets/resource\_types.png)
 
 ## Point of Contacts
 
@@ -47,18 +47,18 @@ Adding a point of contact gives users information on who to contact should they 
 To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the [Contact](https://github.com/tpatterson1996/lcc-metadata-manual/tree/287090b07635d0e76a714278ce1f6c4aac3594cc/product-entry-guidance/contact-entry-guidance.md) Section for more information.
 {% endhint %}
 
-| Role | Contact | Required? |
-| :--- | :--- | :--- |
-| pointOfContact | FWS Science Applications National Data Steward | Required |
-| pointOfContact | Data Steward | Required |
-| principalInvestigator | The Project PI and/or producer | Required, if applicable |
-| custodian | Data Custodian | Required, if applicable |
-| owner | Data Trustee | Required |
-| administrator | Project officer and/or Data Trustee | Required |
-| administrator | FWS Region \(legacy and DOI Unified\), FWS Program | Required |
-| collaborator | partnership organizations and/or programs | Required, if applicable |
+| Role                  | Contact                                          | Required?               |
+| --------------------- | ------------------------------------------------ | ----------------------- |
+| pointOfContact        | FWS Science Applications National Data Steward   | Required                |
+| pointOfContact        | Data Steward                                     | Required                |
+| principalInvestigator | The Project PI and/or producer                   | Required, if applicable |
+| custodian             | Data Custodian                                   | Required, if applicable |
+| owner                 | Data Trustee                                     | Required                |
+| administrator         | Project officer, if not the steward              | Required                |
+| administrator         | FWS Region (legacy and DOI Unified), FWS Program | Required                |
+| collaborator          | partnership organizations and/or programs        | Required, if applicable |
 
-![Example Points of Contact Entry in mdEditor](../.gitbook/assets/image%20%2846%29.png)
+![Example Points of Contact Entry in mdEditor](<../.gitbook/assets/image (46).png>)
 
 {% hint style="info" %}
 The FWS Science Applications National Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. Regional Data Steward should be included in addition as a point of contact if available.
@@ -84,15 +84,15 @@ Enter _acquisition, creation, updated, revision_ from the picklist and then ente
 
 #### Responsible Parties
 
-Responsible parties must include the principal investigator of the project, but may optionally include other responsible parties such as funders \(your region and program\), partners, collaborators, and contributors. Collaborators could be intellectual participants while contributors could be intellectual and financial participants.
+Responsible parties must include the principal investigator of the project, but may optionally include other responsible parties such as funders (your region and program), partners, collaborators, and contributors. Collaborators could be intellectual participants while contributors could be intellectual and financial participants.
 
 {% hint style="info" %}
 To add contacts to a metadata record, you must first create/upload the contacts in mdEditor. See the [Contacts](../contacts/) section for more information.
 {% endhint %}
 
-| Role | Contact | Required? |
-| :--- | :--- | :--- |
-| principalInvestigator | The Project PI | Required |
+| Role                    | Contact          | Required?               |
+| ----------------------- | ---------------- | ----------------------- |
+| principalInvestigator   | The Project PI   | Required                |
 | coPrincipalInvestigator | co investigators | Required, if applicable |
 
 #### Online Resource
@@ -101,7 +101,7 @@ Enter the Name and URL for the project homepage website, if available.
 
 #### Identifier
 
-You may enter as many identifiers as desired. The identifier for the repository is required here. If you have other internal IDs for projects, enter them here. Other optional identifiers for projects include: [Archive](../archiving.md) Folder Name. 
+You may enter as many identifiers as desired. The identifier for the repository is required here. If you have other internal IDs for projects, enter them here. Other optional identifiers for projects include: [Archive](../archiving.md) Folder Name.&#x20;
 
 {% hint style="info" %}
 **Best Practice**: Create and use internal identifiers that are unique within your region or program for projects and their products. Example: GNLCC2010-11.
@@ -111,7 +111,7 @@ You may enter as many identifiers as desired. The identifier for the repository 
 If your item does not have a ScienceBase ID yet, ScienceBase will create one automatically upon publishing. If you imported your item from ScienceBase originally, then the SBID will already be included in Metadata/Metadata Identifier and you do not need to include it here. Note that if you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created on ScienceBase. Consult the [Publish](../publish/) section of this manual to learn more.
 {% endhint %}
 
-![Example Citation in mdEditor](../.gitbook/assets/image%20%2834%29.png)
+![Example Citation in mdEditor](<../.gitbook/assets/image (34).png>)
 
 ## Description
 
@@ -137,7 +137,7 @@ Enter a short narrative about the purpose of the resource such as the issue or p
 
 Enter comments, if desired.
 
-![Example Abstract entry in mdEditor](../.gitbook/assets/description_lcc.png)
+![Example Abstract entry in mdEditor](../.gitbook/assets/description\_lcc.png)
 
 ## Time Period
 
@@ -150,4 +150,3 @@ This set of dates is distinct from the fiscal year of funding. Here you want to 
 For each project, add a Start Date and End Date. If the project spanned a single fiscal year, you can use the “Pick a Fiscal Year” dropdown to autofill the date fields.
 
 ![Example Project Start and End Dates entry in mdEditor](../.gitbook/assets/main-time-period.PNG)
-
