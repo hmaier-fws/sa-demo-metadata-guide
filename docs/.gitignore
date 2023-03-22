@@ -1,0 +1,8 @@
+node_modules/*
+
+# Ignore directory used for local rendering
+_book/*
+
+
+# Ignore backup files created by editor
+*.bak
