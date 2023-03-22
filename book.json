@@ -1,5 +1,19 @@
 {
   "plugins": [
-    "hints"
-  ]
+    "hints",
+    "anchorjs"
+  ],
+  
+  "pluginsConfig": {
+    "anchorjs": {
+      "selector": "h1, h2, h3, h4, h5",
+      "icon": "👄",
+      "x-icon": "🔗",
+      "placement": "right",
+      "visible": "hover",
+      "class": "sa-anchor",
+      "truncate": 64,
+      "ariaLabel": "Anchor"
+      }
+    }
 }
