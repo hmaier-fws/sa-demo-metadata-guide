@@ -14,6 +14,12 @@
       "class": "sa-anchor",
       "truncate": 64,
       "ariaLabel": "Anchor"
-      }
-    }
+     }
+   },
+  
+  "pdf": {
+    "pageNumbers": true,
+    "paperSize": "letter"
+  }
+
 }

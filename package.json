@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "ebook-convert": "^2.0.1",
     "gitbook-plugin-anchorjs": "^2.1.0",
     "gitbook-plugin-anchors": "^0.7.1",
     "gitbook-plugin-hints": "^1.0.2",
