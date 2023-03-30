@@ -1,5 +1,7 @@
 # Table of contents
 
+## Part 1
+
 * [Introduction](README.md)
 * [Roles & Responsibilities \(draft\)](roles-and-responsibilities-draft.md)
 * [Goals of SA Data Management](background.md)
@@ -12,6 +14,9 @@
   * [Metadata Editing / Re-Publishing](getting-started/editing-re-publishing.md)
   * [PTS Considerations](getting-started/pts.md)
 * [Settings](settings.md)
+
+## Part 2
+
 * [mdEditor Metadata File Management](data-management/README.md)
   * [Import](data-management/import/README.md)
     * [mdJSON](data-management/import/mdjson.md)
@@ -19,6 +24,11 @@
     * [FGDC](data-management/import/fgdc.md)
   * [Export](data-management/export.md)
   * [Copy Records](data-management/copy-records.md)
+
+
+---
+
+
 * [Metadata Requirements Checklist](metadata-requirements-checklist.md)
 * [Digital Object Identifier \(DOI\)](digital-object-identifier.md)
 * [Project Entry Guidance](project-entry-guidance/README.md)

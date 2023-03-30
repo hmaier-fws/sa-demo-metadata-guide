@@ -1,4 +1,6 @@
 {
+  "title": "My new title",
+  
   "plugins": [
     "hints",
     "anchorjs"
@@ -7,11 +9,13 @@
   "pluginsConfig": {
     "anchorjs": {
       "selector": "h1, h2, h3, h4, h5",
-      "icon": "👄",
-      "x-icon": "🔗",
+      "x-icon": "👄",
+      "x2-icon": "🔗",
+      "icon": "\uF0C1",
       "placement": "right",
       "visible": "hover",
-      "class": "sa-anchor",
+      "x-class": "sa-anchor",
+      "class": "fa",
       "truncate": 64,
       "ariaLabel": "Anchor"
      }
@@ -19,7 +23,9 @@
   
   "pdf": {
     "pageNumbers": true,
-    "paperSize": "letter"
+    "paperSize": "letter",
+    "toc-title": "SA Custom TOC Title",
+    "insert-metadata": true
   }
 
 }
