@@ -1,8 +1,8 @@
-# Introduction
+# New-new Introduction for demo5
 
 _Note: This is a working draft that will continue to be edited. **Last updated: 15 June 2021**. Please refresh this manual every time you open it to ensure you are viewing the most recent version._
 
-If you have questions/concerns regarding this guidance, please contact the FWS SA National Data Steward \(sadatasteward@fws.gov\) or Tammy Patterson \(tpatterson@usgs.gov until August 1\).
+If you have questions/concerns regarding this guidance, please contact the FWS SA National Data Steward (sadatasteward@fws.gov) or Tammy Patterson (tpatterson@usgs.gov until August 1).
 
 ## Introduction
 
@@ -31,7 +31,7 @@ Directly accessing this manual from the internet is the recommended way to use t
 If needed, you can download this manual as a PDF and save a copy to your computer for printing or offline use. If you choose this method, be sure to reference the online version regularly and save a new PDF as updates are made to the online version. Also note that not all of the formatting will be exactly the same as the online version.
 
 {% hint style="info" %}
-Some of the stylized text boxes \(like this one\) will not translate to the PDF exactly. The text will still be outlined with a background color, but the icon to the left of the text will not display in the PDF.
+Some of the stylized text boxes (like this one) will not translate to the PDF exactly. The text will still be outlined with a background color, but the icon to the left of the text will not display in the PDF.
 {% endhint %}
 
 ## Disclaimer

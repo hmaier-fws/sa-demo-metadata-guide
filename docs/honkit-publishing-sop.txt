@@ -1,0 +1,312 @@
+# Honkit guidelines for publishing to GitHub pages
+
+## Purpose
+
+Describe the procedure for rendering documentation maintained on GitHub to a GitBook like output for hosting on GitHub Pages or other static web hosting site. The hosted markdown files are compiled into a book using the Honkit plugin for Node.JS. Several add-on packages exist that enable the creation of a PDF document from the same source used to render html documentation; discussion of these packages is beyond the scope of this SOP.
+
+## Scope
+Use of Node.js and Honkit to create a static HTML website from a collection of Markdown files hosted on a GitHub repository.
+
+
+## Definitions/Acronyms
+
+
+## Software Requirements
+
+The following components must be properly installed and configured.
+
+  - [Node.js](https://nodejs.org/).
+  - [HonKit plugin](https://www.npmjs.com/package/honkit) for Node.js.
+  - [GitHub](https://github.com/) or [Git](https://git-scm.com/) version control system.
+  - OPTIONAL: the open source [calibre](https://github.com/kovidgoyal/calibre) e-book to PDF conversion application ([Windows binaries](https://calibre-ebook.com/download_portable)).
+
+## Personnel Qualifications
+
+Staff who edit content and render content for web distribution should have knowledge of: 
+
+  - Access to an appropriate [GitHub](https://github.com/).
+  - Knowledge of [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github) formatting syntax.
+  - Knowledge of procedures required to [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [contribute](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) to GitHub repositories.
+
+## Procedures
+
+### Perform and preview edits locally
+
+  - Fork desired repository.
+  - Edit source files as required.
+  - Preview changes locally
+    - Use `npx honkit serve` command.
+    	- Page served at: http://localhost:4000/
+      - Provides a live preview of edits
+  - Issue pull request to initiate review for incorporation into production version.
+  
+Note: Serve to docs
+
+  - npx honkit serve --format website --live true --watch true ./ ./docs/
+
+
+### Generate static HTML site
+
+  - Use `npx honkit build --format website [source path] [output path]`, where:
+    - [**source path**] is the documentation source directory (typically "./"),
+    - [**output path**] is the destination directory for the rendered HTML (default = "./docs")
+  - Upload contents of `output path` to html server.
+
+## References
+
+  - [HonKit Documentation](https://honkit.netlify.app/)
+  - 
+
+## Revision History
+
+### <Date - Version>
+
+  **Author**:  
+  **Change Summary**:  
+  Initial version
+
+---
+# Appendices
+
+
+## Plugin for PDF conversion
+
+### Install Node.js dpendancies
+
+` npm install`
+
+See: [npm install](https://docs.npmjs.com/cli/v8/commands/npm-install) reference.
+
+### Install HonKit
+
+  - npm install honkit
+  - Manual: https://github.com/honkit/honkit
+  - version: 4.0.4
+
+
+### Install ebook-convert to create PDF files. See:
+  https://honkit.netlify.app/ebook.html
+  https://www.npmjs.com/package/ebook-convert
+  https://manual.calibre-ebook.com/generated/en/ebook-convert.html
+
+
+`npm install ebook-convert`
+
+  1. Download calibre Portable https://calibre-ebook.com/download_portable
+  2. Install calibre portable
+  3. Add to path to directory containing Calibre Portable executable:
+		`set path=[path to Calibre];%path%`
+
+### build e-book:
+  npx honkit pdf ./ newpdf.pdf
+  
+### Add PDF options to "book.json" file
+
+  {
+    "pdf": {
+      "pageNumbers": true,
+      "paperSize": "legal"
+    }
+  }
+
+  Page size successfully changes.
+
+## Updated "book.json" to use font awesome icons
+
+    "anchorjs": {
+      "selector": "h1, h2, h3, h4, h5",
+      "x-icon": "👄",
+      "x2-icon": "🔗",
+  --> "icon": "\uF0C1",
+      "placement": "right",
+      "visible": "hover",
+      "x-class": "sa-anchor",
+  --> "class": "fa",
+      "truncate": 64,
+      "ariaLabel": "Anchor"
+     }
+
+
+-------------------------------------------------
+2023-03-28 08:43:12
+
+  Install ebook-convert:
+    npm install ebook-convert
+  
+  
+
+	Update "book.json" to file to include:
+		{
+			"pdf": {
+				"pageNumbers": true,
+				"paperSize": "legal"
+			}
+		}
+
+See HonKit [PDF Options](https://honkit.netlify.app/config.html#pdf-options) for additional PDF options.
+
+	build book:
+		npx honkit pdf ./ test-pdf.pdf
+
+
+See:
+  - https://manual.calibre-ebook.com/generated/en/ebook-convert.html
+  - https://manual.calibre-ebook.com/generated/en/ebook-convert.html#txt-input-options
+  - https://manual.calibre-ebook.com/generated/en/ebook-convert.html#pdf-output-options
+  - https://manual.calibre-ebook.com/generated/en/ebook-convert.html#html-output-options
+
+
+Updated "book.json":
+  "pdf": {
+    "pageNumbers": true,
+    "paperSize": "letter",
+    "toc-title": "SA Custom TOC Title",
+    "insert-metadata": true
+  }
+
+  Generated: npx honkit pdf ./ ./docs/test-pdf-3.pdf
+  
+  
+
+## Plugin for callout boxes
+
+20221206:
+	Install honkit-plugin-alert-msg (npmjs.com/package/honkit-plugin-alert-msg)
+		npm install honkit-plugin-alert-msg
+		
+	Update book.json to include
+		{
+			"plugins": [
+					"alert-msg"
+			]
+		}
+		
+
+---
+## Edit content and build HTML 
+
+	
+	
+	npx honkit pdf --log debug C:\Users\HMaier\Documents\projects\hmaier_git_repo\dm-user-guide pdf-test
+		Didn't work. Need to install ebook-convert (npm install ebook-convert)
+		
+	Create PDF
+		npx honkit build
+		npx honkit pdf ./_book newpdf
+		
+## Test of various plugins
+
+20221213
+	Install https://www.npmjs.com/package/gitbook-plugin-styled-blockquotes
+	
+	npm install gitbook-plugin-styled-blockquotes
+	[Not installed: npm install gitbook-plugin-hints]
+	
+20221227
+	Install https://www.npmjs.com/package/gitbook-plugin-hints
+	
+		npm install gitbook-plugin-hints
+	
+	Edited book.json file to include:
+		"plugins": ["hints"]
+
+## Things to fix
+
+### GitBook images do not render
+  Images names includes parenthesis and spaces and must be url encoded e.g.
+		"../.gitbook/assets/image (9).png" -> "../.gitbook/assets/image%20%289%29.png"
+    
+### Notes about gh-pages rendering:
+
+  - heading anchors (#) do not display
+  - Image at https://tpatterson.gitbook.io/sametadatacreationguide/lcc-science-catalog#architecture-editing-in-progress does not rendere on gh-pages (https://hmaier-fws.github.io/SA_Metadata_Manual/lcc-science-catalog.html#architecture-editing-in-progress)
+  - 
+
+Moved /.gitbook/assests/ to /assets/
+  - Rebuild docs
+  - deploy to gh-pages
+
+### Replace all ".gitbook/assets/" with "assets/"
+
+---
+## Git notes
+		
+	Update .gitignore to include *.txt.bak
+	
+		Untrack file that is already checked in before adding a rule to ignore it. (as per https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files)
+		
+			git rm --cached FILENAME
+			
+		Seems that the entire path needs to be entered (e.g. "*.bak" and *.txt.bak" don't work)
+    
+    
+-------------------------------------------------
+2023-03-21 08:56:03
+
+Install https://www.npmjs.com/package/gitbook-plugin-hints
+	npm install gitbook-plugin-hints
+  
+Run "npx honkit serve"
+  Errors: unknown block tag: hint
+  
+Created book.json with the following content:
+  {
+    "plugins": [
+        "alert-msg"
+    ]
+  }
+
+
+
+
+Install: gitbook-plugin-anchors-with-target
+  https://www.npmjs.com/package/gitbook-plugin-anchors-with-target
+  npm install gitbook-plugin-anchors-with-target
+  
+  updated book.json to include: "plugins" : [ "anchors" ]
+
+Render to docs:
+  npx honkit serve --format website ./ ./docs/
+  Doesn't work!
+  
+
+Try: gitbook-plugin-anchors (https://www.npmjs.com/package/gitbook-plugin-anchors)
+  npm install gitbook-plugin-anchors
+  Works.
+  
+    See also:
+      - https://github.com/bryanbraun/anchorjs
+      - https://www.bryanbraun.com/anchorjs/
+
+  
+  Added to book.json:
+  "pluginsConfig": {
+    "anchorjs": {
+      "selector": "h1,h2,h3,h4,h5",
+      "icon": "u+8691",
+      "placement": "right",
+      "visible": "hover",
+      "class": "custom-class another-one",
+      "truncate": 64,
+      "ariaLabel": "Anchor"
+      }
+    }
+  
+
+=================================================
+Testing Resources
+=================================================
+
+  Current gh-page: https://hmaier-fws.github.io/SA_Metadata_Manual/
+  Current gh reop: https://github.com/hmaier-fws/SA_Metadata_Manual
+  Source GitBook: https://tpatterson.gitbook.io/sametadatacreationguide/
+  Tammy's source GitHub: https://github.com/tpatterson1996/SA_Metadata_Manual
+  
+ 
+=================================================
+Try later:
+=================================================
+
+	Install honkit-plugin-alert-msg (npmjs.com/package/honkit-plugin-alert-msg)
+		npm install honkit-plugin-alert-msg
+

@@ -15,12 +15,11 @@
   - Basic Markdown syntax including some [HonKit-specific](https://honkit.netlify.app/syntax/markdown.html) formatting.
   - Callout box formatting is specified by the [hints plugin](https://www.npmjs.com/package/gitbook-plugin-hints#usage).
 
-## Quick setup
-
-  1. `npm install`
+## Quick setup##
+  1. node install
   
 The above command will read the package.json file and install all required modules.
-Running the `install` command for each module is not necessary.
+Running the 
 
 ## New Install
 

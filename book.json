@@ -21,6 +21,7 @@
      }
    },
   
+  
   "pdf": {
     "pageNumbers": true,
     "paperSize": "letter",
