@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "gitbook-plugin-anchorjs": "^2.1.0",
-    "gitbook-plugin-hints": "^1.0.2",
-    "honkit": "^4.0.7"
-  }
-}
