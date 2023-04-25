@@ -1,5 +1,7 @@
 {
-  "title": "My new title",
+  "title": "My title from book.json",
+  "pubdate": "2023-04-24",
+  "root": "./",
   
   "plugins": [
     "hints",
@@ -26,7 +28,8 @@
     "pageNumbers": true,
     "paperSize": "letter",
     "toc-title": "SA Custom TOC Title",
-    "insert-metadata": true
+    "insert-metadata": true,
+    "add-toc": true
   }
 
 }

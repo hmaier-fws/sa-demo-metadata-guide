@@ -28,15 +28,16 @@ Running the `install` command for each module is not necessary.
   2. Install HonKit: `npm install honkit`
   3. Install Hints plugin: `npm install gitbook-plugin-hints`
   4. Install anchorjs plugin: `npm install gitbook-plugin-anchorjs`
+  5. Install ebook convert plugin" `npm install ebook-convert`
   
 The above commands insatll the minimum required modules to create a GitBook-type documentation collection.  
 
 
 ## Local edits and preview
 
-### Command: `npx honkit serve ./ ./docs`
+### Command: `npx honkit serve ./source ./docs`
 
-The complete syntax of the command is: `npx honkit serve --format website ./ ./docs/`
+The complete syntax of the command is: `npx honkit serve --format website ./source ./docs`
 
 This command builds the book and serves it locally at [http://localhost:4000](http://localhost:4000). The rendered book is updated as files are edited, allowing for the viewing of changes in real time.
 
@@ -51,11 +52,17 @@ A complete list of HonKit options can be viewed by typing: `npx honkit serve --h
 
 ## Build book
 
-### Command: `npx honkit build --format website ./ ./docs/`
+### Command: `npx honkit build --format website ./source ./docs`
 
 This command should not be necessary if the above syntax is used to preview the book while editing.
 
+## Generate PDF
 
+  1. Install ebook convert: `npm install ebook-convert`
+  2. Install Calibre Portable executable
+  3. Add to path to directory containing Calibre Portable executable:
+    `set path=C:\Users\HMaier\bin\Calibre Portable\Calibre;%path%`
+  4. Build PDF: `npx honkit pdf ./source ./test-pdf.pdf`
 ---
 
 # References

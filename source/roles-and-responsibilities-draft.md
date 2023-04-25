@@ -4,6 +4,27 @@ description: Describes FWS Enterprise Roles and defines Responsibilities within 
 
 # Roles & Responsibilities \(draft\)
 
+  - This document was last updated (honkit.time): {{ honkit.time }}
+  - This page was last modified (file.mtime): {{ file.mtime }}
+  - honkit.description: {{ honkit.description }}
+  - 
+  - pubdate: {{ pubdate }}
+  - honkit.pubdate: {{ honkit.pubdate }}
+  - book.pubdate: {{ this.pubdate }}
+  - gitbook.pubdate: {{ gitbook.pubdate }}
+  - gitbook.time: {{ gitbook.time }}
+  - honkit.time: {{ this.time }}
+  - honkit.version: {{ this.version }}
+  - gitbook.version: {{ gitbook.version }}
+  - book.description: {{ book.description }}
+  - title:: {{ title }}
+  - book.title: {{ gitbook.title }}
+  
+### book.config
+
+{{ book.config }}
+
+
 ### ARDs
 
 Definition​: Assistant Regional Directors for Science Applications

@@ -52,6 +52,10 @@ Note: Serve to docs
     - [**output path**] is the destination directory for the rendered HTML (default = "./docs")
   - Upload contents of `output path` to html server.
 
+## Generate PDF
+
+  - 
+
 ## References
 
   - [HonKit Documentation](https://honkit.netlify.app/)
