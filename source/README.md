@@ -2,27 +2,48 @@
 description: Intro description header
 ---
 
-# Introduction from source/README
+---
+# Testing stuff (from ./source/README)
 
-  - This document was last updated (honkit.time): {{ honkit.time }}
-  - This page was last modified (file.mtime): {{ file.mtime }}
-  - honkit.description: {{ honkit.description }}
-  - 
-  - pubdate: {{ pubdate }}
-  - honkit.pubdate: {{ honkit.pubdate }}
-  - book.pubdate: {{ book.pubdate }}
-  - gitbook.pubdate: {{ gitbook.pubdate }}
-  - gitbook.time: {{ gitbook.time }}
+## Sources
+
+  - Original GitBook: [https://tpatterson.gitbook.io/sametadatacreationguide/](https://tpatterson.gitbook.io/sametadatacreationguide/)
+  - Current testing repo: [https://github.com/hmaier-fws/sa-demo-metadata-guide](https://github.com/hmaier-fws/sa-demo-metadata-guide)
+  - Rendered test site: [https://hmaier-fws.github.io/sa-demo-metadata-guide/](https://hmaier-fws.github.io/sa-demo-metadata-guide/)
+
+
+## [HonKit variables](https://honkit.netlify.app/templating/variables.html) test
+
+### These work
+
   - honkit.time: {{ honkit.time }}
+  - file.mtime: {{ file.mtime }}
+  - gitbook.time: {{ gitbook.time }}
   - honkit.version: {{ honkit.version }}
   - gitbook.version: {{ gitbook.version }}
-  - book.description: {{ book.description }}
-  - title:: {{ title }}
-  - book.title: {{ gitbook.title }}
+    
   
-### book.config
+### These don't work
 
-{{ book.config }}
+  - honkit.description: {{ honkit.description }}
+  - pubdate: {{ pubdate }}
+  - honkit.pubdate: {{ honkit.pubdate }}
+  - book.pubdate: {{ this.pubdate }}
+  - gitbook.pubdate: {{ gitbook.pubdate }}
+  - honkit.time: {{ this.time }}
+  - book.description: {{ book.description }}
+  - this.version: {{ this.version }}
+
+ 
+  - title: {{ title }}
+  - book.title: {{ book.title }}
+  - gitbook.title {{ gitbook.title }}
+  - this.title {{ this.title }}
+  - book.config: {{ book.config }}
+
+---
+
+# Introduction
 
 
 _Note: This is a working draft that will continue to be edited. **Last updated: 15 June 2021**. Please refresh this manual every time you open it to ensure you are viewing the most recent version._
